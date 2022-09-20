@@ -16,7 +16,7 @@ word I S? S?
 # only 1 word shape, it doesn't take a name
 # default random probability is 50%
 
-reject (.+)\1 [mnŋ][mnŋʔhrljw] ^ʔ ji wu
+reject [mnŋ][mnŋʔhrljw] ^ʔ ji wu
 # regexes can be used to reject words that match a certain pattern
 
 filter [nŋ]([pb])>m\1 [mŋ]([tsdʃ])>n\1 [mn]([kg])>ŋ\1 j>y ʔ>' ŋ>ng ʃ>sh
