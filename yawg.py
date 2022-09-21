@@ -1,13 +1,3 @@
-'''
-category C n t s r k l m d j p h ʔ b g w ŋ ʃ
-category V a i e o u
-syllable I C?75 V N?25
-syllable S C V N?25
-word I S? S?
-reject (.+)\1 [mnŋ][mnŋʔhrljw] ji wu
-filter j>y ʔ>' ŋ>ng ʃ>sh
-'''
-
 # Yet Another Word Generator
 
 from sys import argv
