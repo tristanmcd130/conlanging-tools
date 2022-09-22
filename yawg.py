@@ -65,7 +65,7 @@ while words > 0:
 	
 	for category in range(len(generated_word)):
 		if "?" in generated_word[category]:
-			if len(syllable.split("?")[1]):
+			if len(generated_word[category].split("?")[1]):
 				probability = int(generated_word[category].split("?")[1])
 			else:
 				probability = 50
