@@ -1,96 +1,50 @@
-# Yet Another Word Generator
+import random, re
 
-from sys import argv
-from random import randint, choice, choices
-from re import search, sub
-	
-with open(argv[1], "r") as f:
-	rules = [line.split(" ") for line in f.read().split("\n")]
-
-categories = {}
-syllable_shapes = {}
-word_shape = []
-rejections = []
-filters = {}
-
-for line in rules:
-	match line[0]:
-		case "category":
-			categories[line[1]] = []
-			for phoneme in range(2, len(line)):
-				categories[line[1]] += [(line[phoneme], 1 / (phoneme - 1))]
-		case "uniform":
-			categories[line[1]] = []
-			for phoneme in range(2, len(line)):
-				categories[line[1]] += [(line[phoneme], 1)]
-		case "syllable":
-			syllable_shapes[line[1]] = line[2 : ]
-		case "word":
-			word_shape = line[1 : ]
-		case "reject":
-			rejections = line[1 : ]
-		case "filter":
-			for regex in line[1 : ]:
-				if len(regex.split(">")) > 1:
-					filters[regex.split(">")[0]] = regex.split(">")[1]
-				else:
-					filters[regex.split(">")[0]] = ""
-		case "#":
-			pass
-		case "":
-			pass
-		case _:
-			raise ValueError(line[0] + " is not a valid command.")
-
-if len(argv) > 2:
-	words = int(argv[2])
-else:
-	words = 100
-
-generated_words = []
-while words > 0:
-	generated_word = []
-	
-	for syllable in word_shape:
-		if "?" in syllable:
-			if len(syllable.split("?")[1]):
-				probability = int(syllable.split("?")[1])
-			else:
-				probability = 50
+class Choice:
+	def __init__(self, options, w = []):
+		self.options = options
+		if w:
+			self.weights = w
 		else:
-			probability = 100
-			
-		if randint(1, 100) <= probability:
-			generated_word += syllable_shapes[syllable.split("?")[0]]
-	
-	for category in range(len(generated_word)):
-		if "?" in generated_word[category]:
-			if len(generated_word[category].split("?")[1]):
-				probability = int(generated_word[category].split("?")[1])
-			else:
-				probability = 50
-		else:
-			probability = 100
-			
-		if randint(1, 100) <= probability:
-			generated_word[category] = choices([phoneme[0] for phoneme in categories[generated_word[category].split("?")[0]]], weights = [phoneme[1] for phoneme in categories[generated_word[category].split("?")[0]]], k = 1)[0]
-		else:
-			generated_word[category] = ""
+			self.weights = [1 / (options.index(x) + 1) for x in options]
+	def __call__(self):
+		return random.choices(self.options, weights = self.weights, k = 1)
+	def __repr__(self):
+		return f"Choice({self.options})"
 
-	generated_word = "".join(generated_word)
-	
-	if len(rejections):
-		if any([search(regex, generated_word) for regex in rejections]):
-			continue
-	
-	if len(filters):
-		for regex in filters:
-			generated_word = sub(regex, filters[regex], generated_word) 
-	
-	if generated_word in generated_words:
-		continue
-	else:
-		generated_words += [generated_word]
-	
-	print(generated_word)
-	words -= 1
+class Option:
+	def __init__(self, sequence, p = 0.5):
+		self.sequence = sequence
+		self.probability = p
+	def __call__(self):
+		if random.random() <= self.probability:
+			return self.sequence
+		else:
+			return []
+	def __repr__(self):
+		return f"Option({self.sequence})"
+
+def generate(word_shape):
+	queue = word_shape
+	while not all([type(x) == str for x in queue]):
+		new_queue = []
+		for item in queue:
+			if type(item) == list:
+				for x in item:
+					new_queue.append(x)
+			elif callable(item):
+				for x in item():
+					new_queue.append(x)
+			elif type(item) == str:
+				new_queue.append(item)
+			queue = new_queue
+	return "".join(queue)
+
+def reject(word, patterns):
+	return any([re.search(pattern, word) for pattern in patterns])
+
+def change(word, patterns):
+	new_word = word
+	for pattern in patterns:
+		new_word = re.sub(pattern[0], pattern[1], new_word)
+	return new_word
