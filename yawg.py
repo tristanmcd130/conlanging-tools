@@ -1,4 +1,4 @@
-# Yet Another Word Generator v1.2
+# Yet Another Word Generator
 
 from lark import Lark, Transformer
 import random, sys, re
@@ -52,7 +52,7 @@ class Choice:
 	def choose(self):
 		return random.choices(self.choices, weights = self.weights, k = 1)
 	def __repr__(self):
-		return f"Choice({str({self.choices[x]: self.weights[x] for x in range(len(self.choices))})[1 : -1]})"
+		return "(?:" + "|".join([str(x) for x in self.choices]) + ")"
 
 class Option:
 	def __init__(self, sequence, probability):
@@ -61,7 +61,7 @@ class Option:
 	def choose(self):
 		return random.random() <= self.probability
 	def __repr__(self):
-		return f"Option({self.sequence}: {self.probability})"
+		return "(?:" + "".join([str(x) for x in self.sequence]) + ")?"
 
 class Phoneme:
 	def __init__(self, value):
@@ -73,7 +73,7 @@ class Category:
 	def __init__(self, name):
 		self.name = name
 	def __repr__(self):
-		return f"Category({self.name})"
+		return "".join([str(x) for x in categories[self.name]])
 
 class TreeTransformer(Transformer):
 	def phoneme(self, p):
@@ -102,8 +102,11 @@ class TreeTransformer(Transformer):
 			filters.append(rc)
 	def rejection(self, r):
 		global rejections
-		for re in r:
-			rejections.append(re)
+		for reg in r:
+			new_reg = reg
+			for c in categories:
+				new_reg = re.sub(c, str(Category(c)), new_reg)
+			rejections.append(new_reg)
 	def category_definition(self, cd):
 		global categories
 		categories[cd[0].name] = cd[1]
