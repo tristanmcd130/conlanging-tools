@@ -103,7 +103,6 @@ class TreeTransformer(Transformer):
 	def rejection(self, r):
 		global rejections
 		rejections += r
-		print(rejections)
 	def category_definition(self, cd):
 		global categories
 		categories[cd[0].name] = cd[1]
