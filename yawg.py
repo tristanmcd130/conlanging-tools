@@ -95,13 +95,15 @@ class TreeTransformer(Transformer):
 		return Option(o[0], 0.5 if type(o[-1]) != float else o[-1] / 100)
 	def regex(self, r):
 		return r[0].value
+	def regex_change(self, rc):
+		return rc
 	def filter(self, f):
 		global filters
-		for rc in f:
-			filters.append(rc)
+		filters += f
 	def rejection(self, r):
 		global rejections
 		rejections += r
+		print(rejections)
 	def category_definition(self, cd):
 		global categories
 		categories[cd[0].name] = cd[1]
@@ -142,6 +144,7 @@ while len(words) < num_words:
 				exit()
 		queue = new_queue
 	word = "".join([str(x) for x in queue])
+	#print(rejections)
 	if not any([re.search(regex, word) for regex in rejections]):
 		for replacement in filters:
 			word = re.sub(replacement[0], replacement[1], word)
