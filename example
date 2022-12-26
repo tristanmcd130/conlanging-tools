@@ -1,0 +1,9 @@
+C = n/t/k/m:3/s/l/p # comment. slashes indicate choices, order matters by default: most common phoneme first, least common last. : to assign weights
+G = j/w
+T = 1/2
+V = [a/i/u] T # if you want to have a choice and then something else mandatory after it, you have to do this
+I = (C(G)%25)%75 V # (optional stuff) % probability (out of 100), default is 50%
+S = C(G)%25 V
+W = I(S(S)) # W is final word shape
+reject = ji wu (.+)\1 # reject words that match these regexes
+filter = ti -> tsi, mwa -> ba # replace parts based on regexes
