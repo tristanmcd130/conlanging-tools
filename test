@@ -1,0 +1,9 @@
+C = n/t/k/m/s/l/p # test comment. slashes indicate choices
+G = j/w
+T = 1/2
+V = [a/i/u] T # if you want to have a choice and then something else mandatory after it, you have to do this
+I = (C(G)%25)%75 V # (optional stuff) % probability (out of 100)
+S = C(G)%25 V
+W = I(S(S))
+reject = ji wu (.+)\1
+filter = ti -> tsi, mwa -> ba
