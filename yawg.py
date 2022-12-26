@@ -9,10 +9,10 @@ grammar = r"""
 category_definition: category "=" sequence
 sequence: choice+
 category: CATEGORY
-?choice: weighted_value ("/" weighted_value)*
+?choice: weighted_value ("/" weighted_value)* | "[" sequence "]"
 ?weighted_value: value weight?
 weight: ":" NUMBER
-?value: category | phoneme | option | "[" choice+ "]"
+?value: category | phoneme | option | sequence
 option: "(" sequence ")" probability?
 probability: "%" NUMBER
 phoneme: PHONEME
@@ -40,6 +40,7 @@ with open(sys.argv[1], "r") as f:
 
 parser = Lark(grammar)
 tree = parser.parse(text)
+print(tree.pretty())
 
 categories = {}
 rejections = []
@@ -94,8 +95,6 @@ class TreeTransformer(Transformer):
 		return Option(o[0], 0.5 if type(o[-1]) != float else o[-1] / 100)
 	def regex(self, r):
 		return r[0].value
-	def regex_change(self, rc):
-		return rc
 	def filter(self, f):
 		global filters
 		for rc in f:
@@ -140,8 +139,11 @@ while len(words) < num_words:
 			elif type(element) == Option:
 				if element.choose():
 					new_queue += element.sequence
+			elif type(element) == list:
+				new_queue += element
 			else:
 				print(f"Error: Unexpected element of type {type(element)} in queue.")
+				exit()
 		queue = new_queue
 	word = "".join([str(x) for x in queue])
 	if not any([re.search(regex, word) for regex in rejections]):
