@@ -2,42 +2,44 @@
 from os import listdir
 from re import findall
 from ipaparser import IPA
+from json import dump
 
-phonemes = []
 languages = []
-files = listdir("multilingual-ipa-data/wiktionary/data/ipa/")
-files_read = 1
-for filename in files:
-	print(f"{files_read}/{len(files)} ({filename})")
-	languages.append([])
-	with open(f"multilingual-ipa-data/wiktionary/data/ipa/{filename}", "r") as f:
-		content = f.read()
-		words = findall(r"(\/.+\/)", content) + findall(r"(\[.+\])", content)
-		for word in words:
-			for symbol in IPA(word):
-				if symbol.is_sound():
-					if str(symbol) not in phonemes:
-						phonemes.append(str(symbol))
-					languages[-1].append(str(symbol))
-	files_read += 1
+phonemes = []
+for filename in sorted(listdir("multilingual-ipa-data/wiktionary/data/ipa")):
+	print(filename)
+	languages.append({})
+	with open("multilingual-ipa-data/wiktionary/data/ipa/" + filename) as file:
+		for word in findall(r"/[^/]+/|\[[^\]]+\]", file.read()):
+			for phoneme in [str(symbol) for symbol in IPA(word) if symbol.is_sound()]:
+				if phoneme not in phonemes:
+					phonemes.append(phoneme)
+				if phoneme in languages[-1]:
+					languages[-1][phoneme] += 1
+				else:
+					languages[-1][phoneme] = 1
 
 frequencies = {}
 for phoneme in phonemes:
-	avg_use_per_lang = [lang.count(phoneme) / len(lang) for lang in languages]
-	frequencies[phoneme] = sum(avg_use_per_lang) / len(languages)
+	frequencies[phoneme] = 0
+	for language in languages:
+		if phoneme in language:
+			frequencies[phoneme] += language[phoneme] / sum(language.values())
+	frequencies[phoneme] /= len(languages)
 
-frequencies = sorted(frequencies.items(), key = lambda x: x[1])
-#with open("frequencies", "w") as f:
-#	f.write(str(frequencies))
-print(frequencies)
-exit()
+with open("frequencies", "w", encoding = "utf-8") as file:
+	dump(frequencies, file, ensure_ascii = False)
 #"""
 
-with open("frequencies", "r") as f:
-	occurrences = [x[0] for x in eval(f.read())]
+#"""
+from json import load
+
+with open("frequencies") as file:
+    frequencies = load(file)
 
 consonants = input("C: ").split(" ")
 vowels = input("V: ").split(" ")
-print(f"Not found: {[p for p in consonants if p not in occurrences] + [p for p in vowels if p not in occurrences]}")
-print(" ".join(sorted([p for p in consonants if p in occurrences], key = lambda x: -occurrences.index(x))))
-print(" ".join(sorted([p for p in vowels if p in occurrences], key = lambda x: -occurrences.index(x))))
+print("Not found:", [phoneme for phoneme in consonants + vowels if phoneme not in frequencies])
+print(" ".join(sorted(consonants, key = lambda x: -frequencies[x])))
+print(" ".join(sorted(vowels, key = lambda x: -frequencies[x])))
+#"""
