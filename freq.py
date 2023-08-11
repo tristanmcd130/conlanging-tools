@@ -25,21 +25,19 @@ for phoneme in phonemes:
 	for language in languages:
 		if phoneme in language:
 			frequencies[phoneme] += language[phoneme] / sum(language.values())
-	frequencies[phoneme] /= len(languages)
+	frequencies[phoneme] /= len([l for l in languages if phoneme in l])
 
-with open("frequencies", "w", encoding = "utf-8") as file:
-	dump(frequencies, file, ensure_ascii = False)
+with open("frequencies", "w") as file:
+	dump(dict(sorted(frequencies.items(), key = lambda x: -x[1])), file, ensure_ascii = False, indent = 4)
+exit()
 #"""
 
-#"""
 from json import load
 
-with open("frequencies") as file:
+with open("/home/tristan/Documents/Conlangs/frequencies2") as file:
     frequencies = load(file)
 
 consonants = input("C: ").split(" ")
 vowels = input("V: ").split(" ")
-print("Not found:", [phoneme for phoneme in consonants + vowels if phoneme not in frequencies])
 print(" ".join(sorted(consonants, key = lambda x: -frequencies[x])))
 print(" ".join(sorted(vowels, key = lambda x: -frequencies[x])))
-#"""

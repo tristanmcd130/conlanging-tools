@@ -1,0 +1,7269 @@
+26: h → ∅
+15: n → ∅ / _s
+14: ts → s
+13: s → h / V_V
+12: ʔ → ∅
+12: p → f
+11: C → ∅ / _#
+11: aː → a
+11: lʲ → l
+11: p → {p,b,m,w} / _C
+11: ŋ → ɲ
+10: s → h / #_
+10: kʷ kʰʷ ɡʷ → k kʰ ɡ / _u
+10: kʷ kʰʷ ɡʷ → k kʰ ɡ / u_
+10: t → ts / _i
+10: kʷ kʰʷ ɡʷ → t tʰ d / _E
+10: z → s
+10: bʱ dʱ ɡʱ → pʰ tʰ kʰ
+10: j → h
+10: kʷ kʰʷ ɡʷ → p pʰ b / _{a,o,C}
+10: ŋ → n
+10: {Hx,m̩,n̩} → a
+9: iC uC → î û / _{C,#}
+9: ʈʂ → tʃ / _V
+9: h → ∅ / _#
+9: q → ∅
+8: Vː → V[-long]
+8: Vns → Vːs
+8: tʼ kʼ → t k
+8: e → ɛ
+8: ʃ → s
+8: p → ɸ~h
+8: x1 → k
+8: ɲ → n
+8: {i3~ə1} → ə1
+8: w → v
+8: d → l
+7: l → ɫ / V_V
+7: t k(ʷ) → d ɡ / {N,L}_
+7: ɛ o → i u / _N
+7: V → (?) / _(C)#
+7: kʷ → tʃʰ / _{e,i}
+7: xʲ → ʃ
+7: Ns sN → s N
+7: {a3~ə3} → ə3
+7: N → n / _#, in monosyllables
+7: j → ?
+7: j → w / _o
+7: m̩ n̩ r̩ l̩ → am an ar aɫ
+7: r → rː / _N
+7: N → w / S_S
+7: l → ɫ / {C,lV}_
+7: V → ∅ / _#
+7: {i,u} → ə / in some unstressed syllables
+7: we → o
+7: {e,i}ː {u,o}ː → i u
+7: ɡ́ → ts (?)
+7: {i1~ə1} → ə1
+7: b d ɡ(ʷ) → p t k
+7: ej ia → e ɛa
+7: VN → V[+nasal] → V → (?) / _#, in polysyllables
+7: N̩ → n / _#
+7: Vˀ → V[+high tone]
+7: {e,o}j ɛw → ɛj ow
+7: e oj ɛa → i u ɛ / when unstressed
+7: {e,o} → a (rare)
+7: p ḱ k(ʷ) → {w,v} s kʰ
+7: r → l
+7: {sk,ks} kj → tsʰ tʃʰ (?)
+7: {i3~e3} → {ə3,i3}
+7: θ → s / _k
+7: iw → uj
+7: {sr,rs} → rː
+6: q → k
+6: e → a
+6: u → ∅ / k_w
+6: ə → ∅ / #_
+6: Vː → V[-long] / _#
+6: x → h
+6: C → ∅ / #_
+6: ”Vʕ ʕ”V → ”aa a”a
+6: bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ
+6: x2 → ∅ / V_V
+6: t → tʰ / {aw,ow}_
+6: t → tʃ / _{i,ı̃}
+6: θ → t
+6: tʃ → ts
+6: p t → h tʰ / #_ (?)
+6: — aː → a
+6: tʃʼ → tʃ
+6: Vˀ → V[-glottalized]
+6: Cː → Cʰ
+6: {TŠ,TŠʷ} K Q → TS TŠ K
+6: r̥ → h
+6: ɣ ʁ → k q / _#
+6: Vˀ → V[+low tone]
+5: ʔ → ∅ / C_
+5: R → r
+5: {q,ʃ} → s / _t
+5: c → s
+5: Vː → V[-long] / in #U
+5: l → j
+5: wi → o / C_
+5: o → e (sporadic, highly unusual)
+5: əi → ai
+5: l → d
+5: ja → aː / C_
+5: ɸ(ʼ,ʰ) → p
+5: t → ∅ / _k, when medial
+5: C’ → C / _$
+5: h → ∅ / V_V
+5: bl br → p pʰ
+5: b → w / V_V
+5: {a3~i3} → ə3
+5: n → ⁿd
+5: {q,h} → ∅
+5: V0V0 → V0
+5: q → h / _tʃ
+5: *R → ɡ
+5: ʃ tʃ → s ts
+5: Cː → C
+5: q(ʼ) → k(ʼ)
+5: {n,q,h} → ∅ / _s
+5: Kʷ → K
+5: p → b / m_
+5: j → ∅ / C_
+5: V → Vː / _%
+5: a1 → ə1
+5: ʈʂ → s / _K
+5: v → f
+5: {a1~i1} → ə1
+5: {u3~ə3} → ə3
+5: h → ∅ / #_
+5: (t)ʃp → sp
+5: lwi → jo
+5: i → ∅ / _(C)”V
+5: N → h / _S
+4: {eɑh,eɑç,eɑx,eɑʝ,eɑɣ} → ɑw
+4: C → C[+voiced] / V_V
+4: ə → e / _{C[+palatal],E}
+4: e → i / _(C)i
+4: h → ∅ / V_C
+4: k → ɡ / _{L,j}
+4: s → ʃ
+4: tʰ → t
+4: mʔn → nʔ
+4: r → j
+4: j → ɣ / _E
+4: l → r
+4: ⁿS → N / _#
+4: ∅ → ʔ / V_#
+4: a → æ / _(C)e
+4: ə → u / u_
+4: s → {ʃ,s} / _xʷ
+4: ɣ → ɡ / #_
+4: ʔ → ∅ / V1_#
+4: ɑ e o → ɑː ɛː oː / in U[+open] ! in #U with the following U containing /iː/ or ending in one of /m n r l/
+4: b d k → b~β ɾ~∅ k~x~ɡ~ɣ / V_V
+4: {bʱ,dʱ,ɡʱ} {j,v} → h ∅ / V_V
+4: ə → æ / ! _{B,K,H}
+4: d → ∅ / _#
+4: ti di → s dz / _V
+4: ə → o / _(C)o
+4: b → w / else
+4: {s,z}(ʔ) {ʃ,ʒ}(ʔ) {ɬ,ɮ}(ʔ) → s ʃ ɬ / _#
+4: h2 → w / #_
+4: Vː → V[-long] / in #U before a U with /iː/
+4: z → r
+4: eːɑw iːw → ew ju
+4: w → ∅ / #_
+4: ədʒ → i / _{a,u} (except in #U)
+4: {ɑːw,ɑːɣ,oːw} → ɔːw
+4: b(ʷ) d → p(ʷ) t
+4: h → ∅ / ts_
+4: dʼ → tʼ
+4: b d → b~ᵐb d~ⁿd
+4: v → ∅ / u[+short]_V[+short]
+4: v ʁ → p q / S_
+4: e → æ / {P,K}_
+4: Vm → Vv → V[+nas]v / _V
+4: p(’) m → tʃ(’) ŋ / ! _u
+4: h → ∅ / #_w
+4: j w → dʒ b / V_V
+4: iv → j / #_u
+4: l → h / _k
+4: ə → u
+4: C[+ voice] → C[- voice] / _#
+4: e o → i u / _#
+4: {æːj,e(ː)j} → ej
+4: oɣ → ɔːw / _V
+4: θ → r
+4: {p,v} t {k,ɣ} → m n ŋ / _N
+4: ɑɣ → ɑw
+4: F[+voice] → F[-voice] / adjacent to {S,ts}
+4: p k → b ɡ / V_V
+4: l → ɾ / V_V
+4: n → ∅ / _#
+4: ŋ → x
+4: in → dʒ / _u (possibly only word-initially?)
+4: VN VC[-nas] → V[+nas] Vː / _#
+4: t(ʰ) → d / n_
+4: xʲ → s
+4: ntç tç → (n̪)t̪ʰ t̪
+4: t → s / _{k,q}
+4: k → {k,∅} / #_
+4: ɕ ʑ → s z
+4: jʰ → h / _i
+4: Cn → CC / V_V ! C = dʒ
+4: ə → a / a_
+4: Ḱ → K
+4: kʷ → k / #_
+4: i → ∅ / #C[+dental]_C[+dental]V
+4: s → dʒ / {i,u}_V
+4: æj → aj → ej
+4: j → ∅ / ts_
+4: e → ə / _C{a,ə,u} (seems to have become a in a few instances)
+4: hn {wl,hl} hr → w l r
+4: V3h → V3ː / _C
+4: v → ∅ / V[+short]_u[+short]
+4: ɽ → i
+4: e → æ / _P
+4: ∅ → dz / î_V
+4: CVʔVC → CVʔC
+4: Q → K
+4: a → æ / i(C)_
+4: adʒ → i / _a (except in #U?)
+4: eɑ eːɑ eo eːo → ɑ ɛː e eː
+4: V → ∅ / di_
+4: tʃ → s
+4: Vː → V[-long] / _C{ː,C} ! _st{#,V} or when preceding a cluster which had triggered a vowel to become long in Old English; the book gives “Christ” vs. “Christmas” as an example
+4: ʃ → ts
+4: a{i,j}(a) a{u,w}(a) → e o
+4: ə → i
+4: ʕʷ → ɥ
+4: C(C) → ∅ / C_#
+4: ɣ → w / C_V
+4: u → ∅ / #_vV
+4: C1C2 → C2C2 / V_V
+4: dʒ → ∅ / i_i
+4: b d → m n / #_a
+4: tʲ → ʃ / in ”U
+4: {i3~ə1} → i3
+4: S → ∅ / #_F
+3: Vŋ → V[+nas]
+3: tʲ(ʼ) → t(ʼ)
+3: tʃ’ → ts’ / medially
+3: q qʷ → χˤ χˤʷ
+3: C → {h,ʔ} / _#
+3: k → tʃ / _E
+3: {a1~i1} → {i1,ə1}
+3: ǀ̃(n) → ǂ̃n
+3: ɓ ɗ → b d
+3: ə → i / else
+3: {x,ɢ}(ʷ) → ∅ / at word boundaries
+3: o(ː) → a(ː)
+3: K → TŠ / ! _$
+3: u o → v̩ u
+3: t → r
+3: {uɨ̯,ua̯,ue̯} {ɨa̯,ɨe̯} ie̯ → o ə e
+3: s → h
+3: ʔ → ∅ / #_
+3: TS {TŠ,TŠʷ} → TŁ TS
+3: l → d / #_VC
+3: ɲ → j
+3: a → ∅ / C[+velar]_C[+velar]
+3: sx → ʃ
+3: w → ∅
+3: o → a
+3: ∅ → h / #_V
+3: {ɑːht,o(ː)ht} → ow
+3: C[+ sibilant] → s / _w
+3: ti → s / #_V
+3: N → ŋ / _#
+3: l → n / #_VN
+3: ŋ → n / _i
+3: ʂː ʃː → ʂ ʃ
+3: e → i / j_
+3: j w → tʃ kʷ / _V
+3: k → ɡ / n_
+3: h *j → ∅ d / _#
+3: kpʼ → ɡb
+3: aɪ ai → ɪɪ ii (not sure if there’s a long vowel or hiatus here)
+3: d → r
+3: — iː → i
+3: p → b / V_V
+3: w → ∅ / m_
+3: p → ɸ
+3: ɡʷʱ → dʒ / #_{e,i}
+3: ǀ̃(n) → ǂ̃
+3: uː → u
+3: pʰ → f
+3: ts → {h,∅}
+3: N → [+ same POA] / _C
+3: m n ŋ → v t ɣ / _C[-nasal]
+3: S’ → S / _$
+3: {xʲ,j}ʔ → ∅ / _#
+3: D T → T T[+lenis] / #_
+3: sʼ ʃʼ~ɕʼ → tsʼ ʃʼ
+3: ∅ → t / s_r
+3: rʲ → r
+3: TS {TŠ,TŠʷ} → TH TS
+3: tʃ → ʃ / _q
+3: ɑ ə ʊ → a e o
+3: pʼ → b
+3: V → Vː / _#
+3: ts(ʼ) tʃ(ʼ) → θ(ʼ) ts(ʼ)
+3: k → ∅ / _#
+3: {TŠ,TŠʷ} → TS
+3: tʲ(ʼ) → tʃ(ʼ)
+3: a → e / il_
+3: o → u / _(C…)i
+3: v → ∅ / {t,d}_
+3: ʂ → ʃ
+3: w → ɡ
+3: {i1~ə1} → {i1,∅}
+3: b → β / V_V
+3: e → i
+3: ə → e / _{i,j}
+3: t → s / _i
+3: æː → ɛː
+3: o e → ʊ ɪ
+3: *j → d / #_
+3: j → {j,∅}
+3: s1 → ʃ
+3: VnV → ṼlṼ
+3: {i3~e3} → ə3
+3: k → ∅ / _{o,a}
+3: ə → a / _#
+3: u̯ → v
+3: {ʔ,h} → ∅
+3: m → w / #_
+3: dʒ → s
+3: h → ∅ / V_
+3: q k {ʈ,s} → k c t̪
+3: k → ∅ / #t_
+3: k ɡ → tʃ dʒ / _E
+3: v → p / _s
+3: xʲ → {s,ʃ} (the latter mainly from borrowings?)
+3: tʃh → ʃ
+3: m → ∅ / _#
+3: t d → tʃ dʒ / _{u,i}
+3: ∅ → ʔ / #_
+3: b d → {b,w} {d,z}
+3: k → j / _s#
+3: tsʼ → tʃʼ
+3: F[+voice] → S / l̥_
+3: x2 → k / #_
+3: a → ∅ / _dʒa (except in #U?)
+3: {ʂ,ç} → s
+3: xʲ j → ʃ ∅ / _#
+3: ʈʂʼ → tʃʼ
+3: {n,q,h}ʃ {n,q,h}l → s {h,j,hj}
+3: ʕ ʕʷ → aː ɥ
+3: j → ɲ / _V[+ nas]
+3: m → {m,b}
+3: u3 u1 → a3 ə1
+3: e o → ɛ ɔ
+3: s → ts / in certain situations?
+3: m → ∅ / #_n
+3: n → t / _k(ʷ)
+3: h → ∅ / w_j
+3: h2 h3 → hh h
+3: — {e(ː),i,ae,oe} → e
+3: t → r / _”V
+3: (N)S → F / #(C)V_
+3: ə → ∅ / _dʒ{a,u} except in #U
+3: ɒ → ɒː → ɔː / _F[-voiced]
+3: dʒɲ → ɳː / V_V
+3: s → h “irregularly”
+3: ʈʂ → ʃ / _K
+3: i a u → ii aa uu / C_ in U[+open -initial -final] such that U[+open]_
+3: xʷ ɣʷ → kʷ ɡʷ
+3: ɣ → ∅ / _E
+3: pʼ tʼ kʼ qʼ → p t k q
+3: {p(ʷ),v}Vh → fV
+3: SN → N[- voice]
+3: V → [+ round] / w_
+3: n → ŋ / _{k,ɡ}
+3: mn → mV0nV0 / #_
+3: m → n → ∅ / _# when unstressed
+3: b → m / #_a
+3: T D → T[+fortis] T[+lenis]
+3: k → ∅ / _{V,#}
+3: ts dz → s z
+3: Lʲ → n / _V[+nas]
+3: b d ɡ → p t k
+3: {a3~i3} → i3
+3: {x,ɣ} → ∅ / _(ʔ)#
+3: pr → tʰ
+3: ə → ∅ / _#
+3: {a3~ə3} → {ə3,a3}
+3: b d k → b~β ɾ~l~∅ k~x~ɡ~ɣ / V_V
+3: ɓ → b / #_
+3: ah → o
+3: k → ∅
+3: C1C2 → C2
+3: s → θ
+2: K → ʔ / _s
+2: — əi → aɪ / _{r,F[+voiced],$,#} (pursuant to the above)
+2: ɾ → ɾ~∅ / V_V
+2: dʒ → j, occasionally ɟ or dʒ in educated speech
+2: b → p
+2: kʲ → tʃ
+2: ti → s / _V
+2: w → ∅ / _t
+2: ai au → eː oː
+2: d → n / _V[+nas]
+2: j → ∅ / i_{a,u}
+2: C → ∅ / C1_C2 ! C2 = L
+2: s → t / _#
+2: ı̃ → i
+2: o → ɔ
+2: tɬʼ → ɬʼ
+2: v → w / #_
+2: u3 u1 → o3 ə1
+2: t → tʃ
+2: sḱ → h / medial
+2: Nw Nm N{n,j} → ŋk mp nt
+2: V0V0 → V0ː
+2: i̯ → ɟ / {a,e,i}_
+2: ʔ → ∅ / _#
+2: p pʷ k q → β w ɣ ∅
+2: k → ɡ
+2: CʔV0 → CV0ʔV0
+2: ɑj → ɛː
+2: a → ∅ / #_m
+2: oː → u
+2: i → ə / unstressed
+2: s → ʃ / _n
+2: v → b / _r
+2: aː → a / _OO
+2: {c,*j} → s
+2: ə → a / in U#
+2: χ → qʰ / #_
+2: e → a / medially
+2: ʐ → ʒ
+2: pʰ → p / #_
+2: l → {l,r}
+2: tʃ → ʈʂ
+2: ᵑɡ → ɡ / #_ (possibly all prenasalized consonants?)
+2: a → e (?)
+2: {i1~ə1} → i1
+2: Vnʔ → V[+ nas] / _#
+2: a → ∅ / _u
+2: hʷ → ʁʷ
+2: r → {t,j}
+2: tʃ → tː / medial
+2: a e i o → {a,e} (j)e {e,i} a
+2: l → n
+2: l(ʲ) → j
+2: S[+ voice] → S[- voice]
+2: tʼ → t
+2: c *R → ∅ {l,∅}
+2: b d → m n / _V[+ nasal] (I’m inferring this from the statement that “[t]here are also a series…of nasal vowels”)
+2: t → ʔ “often”
+2: ti → s~ti / _V
+2: ɡl ɡr → k kʰ
+2: ə → ∅ / else
+2: i̯ → j / _B
+2: kʷ → s / _”E?
+2: ʔs ʔts → sː tsː
+2: uk → o
+2: p → p~h
+2: x → ∅ / k_”V
+2: ç x → x {ʃ,ʒ}
+2: x → ∅ / _k
+2: b → p / #_
+2: u i → w j / a_ when this a is a result of metathesis (?)
+2: e → ə / _N, when unstressed (?)
+2: pʼ tʼ tʃʼ kʼ qʼ → p t tʃ k q
+2: *R → ∅
+2: eː iː oː uː → o i e {y,i}
+2: x → ∅
+2: i̯e → i
+2: kʷʰ ɣʷ → xʷ x(ʷ)
+2: au → o
+2: t → k / _j
+2: a → o / P_
+2: a → ə
+2: Cː → C[-long]
+2: j → ∅ / i_
+2: j → ∅
+2: e a ɑ ʊ → a o ŏ ŭ
+2: ᵑɡ → ɡ
+2: ts → s / ! _{i,j}
+2: !! ʘ → ǁ ǀ
+2: tʲ → ʒ / else
+2: ∅ → b / m_l
+2: Lʲ → r / _V[-nas]
+2: m → ∅ / _l
+2: mˤ → m
+2: (ʔ)j → ʒ
+2: kʰ ɡ → k w
+2: ɨ̆ → a / _K
+2: tʃ → t / #_
+2: bʱ dʱ ɡ́(ʱ) → b d dh
+2: j → dʒ → ʒ / #_
+2: ʃ x → ts h
+2: ə → ∅ / adjacent to a vowel
+2: o → ∅ / _u
+2: kʷ → {w,u}
+2: d dʱ → ð / r_
+2: iw → o / _#
+2: θ → n / #_
+2: s → t / _V ! _E
+2: kʷ → kw / #_”a
+2: ts → {ts,s}
+2: o → e / _s
+2: p → b
+2: V → ∅ / _# (sporadic?)
+2: a → ∅ / _e (sporadic)
+2: {k,q} → h / _{C,#}
+2: k → kʷ
+2: u → ∅ / _a
+2: — V → Vː / _{r,F[+voiced],$,#}
+2: H → ∅ / _m
+2: aw → o
+2: w → ∅ / i_#
+2: tʃʰ → tʃ
+2: ∅ → e / #_sC
+2: (V[-long])N → ∅ / _#
+2: xʷ → f
+2: oː → uː
+2: kʷ → k / else?
+2: i̯ → ∅ / E_
+2: e → o / _{m,p}%
+2: s → θ / sometimes, involving “[d]issimilation with following vowel”
+2: au → a / _%”u
+2: ɣ → ∅ / #_
+2: ɨ(ː) ə(ː) → i(ː) e(ː)
+2: h → ∅ / Vː_#
+2: b k → m~b ∅ / #_
+2: r → n
+2: kʰ → k
+2: ʔ → ∅ / V1R_#
+2: kp ɡb → k b
+2: z → ts / Vj_
+2: m → n / _f
+2: ɨ → i
+2: u i → o e (not always)
+2: pʰ tʰ kʰ → f θ x
+2: iː → i
+2: ˀj → ∅
+2: ʔn → ∅ / m_
+2: ʔ → n / before modal suffixes
+2: ʊ → o
+2: u3 {u1,a1} a3 i1 → a3 ə1 ɛ3 {i1,ə1}
+2: pʰ → p
+2: sp → f / medial
+2: q qʷ → χ χʷ
+2: aː → æː / when not near emphatics
+2: aː → eː / in Form VI (tafā‘ala) verbs, though these apparently coexist with forms having the original vowel as well, with semantic distinctions
+2: sd → θ / medial
+2: dˤ q → ðˤ ɡ
+2: k → ∅ / Vn_tV
+2: ts tsʰ tsʼ s z → kʷ kʷʰ kʷʼ ʍ w
+2: ð → ∅ / _#
+2: ts dz kxʼ → {ts~tsʰ,ts,s} z kʼ
+2: ɡ́(ʱ) → d / %_C[+sibilant]
+2: ə → ∅ / {R,F}_#
+2: ts → s / ! _{h,i,j}
+2: P → p / l_
+2: V(h) → V(q) / _# (again, might’ve been a retention?)
+2: ɛ → a / _C[+palatal]
+2: Vnʔ VnC → V[+ nas] V[+ nas]C / _#
+2: m p → ŋ k / _w
+2: ɨ̯ai → aːi
+2: u → o / _{p,b}i
+2: ts → {ts~tsʰ,ts,s}
+2: C[+ sibilant]w → s
+2: s → ʃ / V{i̯,u̯,r,k}_V
+2: q *R → ∅ {l,∅}
+2: u → ∅ / _o
+2: w → ∅ / _# ! k(ː)_
+2: eː øː oː → ie yø uo
+2: U[+long] → U[-long]
+2: ɨ̯a → aː
+2: u[-long]C → Cw / #_
+2: o → u
+2: {c,*j} ɲ → s n
+2: N → ∅ / _O
+2: ei → eː
+2: u → o / _m#
+2: æ → æː → ɑː / _{F[-voiced],N[-voiced]}
+2: ʔ → ∅ / VR_V3
+2: iji → iː
+2: kʷ → p
+2: u(ː)(j) → y(ː)(j)
+2: ɑː → æː
+2: ɛi œy ɔu → ɛː œː ɔː
+2: NVS → VⁿS / #_
+2: a → ∅ / _(C)o
+2: pr → pʰ / _{ɯ,e,i}
+2: ʔ → ∅ / _nk(ʷ)
+2: L → l
+2: t̪ → l / V_V
+2: a → o / _w
+2: ʔR → Rʔ / V3_V
+2: kʷ → c / _B?
+2: s3 → s / V_$#
+2: tʼ → tʰ / #_i
+2: bw mw → ɡ ŋ
+2: ɛː → eː
+2: a → ə / _Ca
+2: V{m,n} → V[+nas] / _#
+2: s → ∅ / #_
+2: h1 → ∅
+2: xʲʔ jʔ → h ʔ / _#
+2: ɛ ɛ̃ → e ẽ
+2: ɛi ei → ai iː
+2: iə → ı̆ / _C%
+2: d → l / medially
+2: ∅ → V / k_m
+2: a → i / _Ci
+2: eː øː oː → ɛi œy ɔu
+2: ə → ∅ / VC_CV
+2: ɨ → ∅ / _u
+2: ui → o (?)
+2: w → ∅ / _j
+2: o → a / _Ca
+2: æ → e
+2: u → {e,i} / _Cu
+2: ɡʷ → ɡw / C_a
+2: TS TŠ TŠʷ Q → TH TS TṢ K
+2: TŠ → TS
+2: tk → ɡ / when medial
+2: k → ts → s / #_{i,e}
+2: V → ∅ / CVC_C”V
+2: u i → o e (sporadic)
+2: f → m / _n
+2: ə ə̃ → ɛ ɛ̃
+2: ”V(C)(C)CaCV → V(C)”(C)CaCV / _#
+2: ts → tʃ / _{(h)i,(h)j}
+2: K → TŠ (although /xʲ/ remained as such in a few dialects)
+2: p → {p,b,m,w}
+2: V3ʔR → {V3ʔR,V3ːRʔ} / _V
+2: b → b~ᵐb
+2: rtj → rts → rs
+2: ʃjeː → ʃeː
+2: t → k
+2: ɣ → ŋ
+2: k → ∅ / V_V
+2: z → {d,z} / V_
+2: ɛi œy ʌu → ai ay au
+2: kʷ → b
+2: *ŕ → ∅
+2: t → ts / _ʔ
+2: ḱ → {ts,tʃ} (“[a]rchaic relic”)
+2: h → j~ʔj / _E
+2: ts (n)dz → t nd
+2: ḱ → k / _R
+2: ɓ ɗ → b l
+2: s → ɟ / #_
+2: i → ∅ / V_
+2: *j → ɡ / _#
+2: uə → ŭ
+2: j → i
+2: h → j / _E
+2: kʰ → x (only seems to have occurred with first-register tones)
+2: p → v / _#
+2: j → i / C_
+2: s → ɬ
+2: s → ∅ / u_
+2: s → ʃ / _{r,j}
+2: a → ∅ / #_OO
+2: ɜːɹ ɑːɹ ɔːɹ eːɹ oːɹ iːɹ uːɹ → ɜː ɑː ɔː ɛə ɔə ɪə ʊə / syllable-finally
+2: b → β~m / #_V[+ low]
+2: eu → ou
+2: ɸ(ʼ) ɸh → p(ʼ) pʰ
+2: j → ∅ / u_ʎ
+2: oj → øj → yj (→ yː sometimes)
+2: ɑ → ɒ
+2: y(ː) → i(ː)
+2: qːʼ → q(ʼ)
+2: k → ts / _i
+2: {i3~ə1} → {i3,i1}
+2: t → l / V_V
+2: j → ∅ / V_”E
+2: {u,oː} o → o ɔ / stressed
+2: ∅ → echo vowel / C_CV
+2: n → ∅ / _j
+2: w (→ b?) → m
+2: C[+voice] → C[-voice] / next to {S,s,l̥}
+2: q → ʔ
+2: w → ∅ / _o
+2: sk → kː / ! _a
+2: n → ∅ / a_
+2: {ts,tʰ} {dz,dʱ} → s z
+2: ɬ → h / in the grammatical classifier
+2: kʷ → ∅ / _u
+2: k → ∅ / _V̂
+2: pʼ kʼ qʼ → p k q
+2: *T → t
+2: aː eː oː → ɨ i u
+2: v → ∅ / u_i
+2: p → f / V_
+2: ɲ c *j → n s z
+2: kʷ → ɡw / V_a
+2: ɣ → kʰ
+2: i[-long]C → Cj / #_ ! _i
+2: tʃ → ∅ / _xʷ
+2: ns → ts / _k(ʷ)
+2: ʃ → h / in the “1sg subject prefix”
+2: {m̩,n̩} l̩ r̩ → e uj {ri,ir}
+2: N[- voice] → N[+ voice]
+2: diV → dz
+2: w → ∅ / _jh
+2: kʂ → tʃː
+2: c *j → s {z,s}
+2: x2 → h / #_
+2: {t̪,ʈ} → t
+2: k → ∅ / _x”V
+2: tʃʷ(ʼ) tɕ(ʼ) tɕʷ(ʼ) dʒʷ dʑ dʑʷ → f(ʼ) ts(ʼ) tɕʷ(ʼ) v dz dʑʷ
+2: θ ð ðˤ → t d dˤ
+2: {θ,l} → r → l
+2: ḱ → θ
+2: e → u / uC_
+2: k → ɡ / ”V_
+2: ɕ ɕʷ ʑ ʑʷ → s ʃʷ z ʒʷ
+2: ts(ʰ) → s
+2: s → ʃ / _xʷ
+2: w → m / u_
+2: f → p
+2: h1 → {h,∅} / #_
+2: tʃ → ʃ
+2: pr → pʰj
+2: j → ∅ / Vː_
+2: K Q → TŠ K
+2: j → tʃ / V_V
+2: n̥ → l̥ / %_V
+2: ɗ → t
+2: ə → i / {u,a}_ (though aə seems to have become i in some circumstances)
+2: i → ∅ / C”V(C)_
+2: t tʃ k(ʷ) → d dʒ ɡ(ʷ) / _{V,R}
+2: t → ∅ / n_
+2: l̥ → t / _C
+2: mʷ → ŋmʷ
+2: {i3~ə3} → ə3
+2: i u → e o / _Ca
+2: d dʱ → ð / V_V
+2: b → v / V_
+2: {x,h}S → Sː
+2: a → wɤ / {K,ŋ}w_%
+2: dʒ → tʃ
+2: ʃjeː → seː
+2: w → ∅ / C_ ! C = K
+2: {b,r} → ∅ / _#
+2: ʎ → ʒ / _{a,u}
+2: w → b
+2: ʃ ʂ → s h
+2: {i1~ə1} → {ə1,i1}
+2: w → b / #_
+2: Vː → V[- long]
+2: ʃ → tʃ / #_a
+2: C → Cː / _V(…V) except in #U
+2: n → ɲ (sometimes?)
+2: p t → f {s,h} / #_
+2: {a3~i3} → a3
+2: w → ∅ / #_ (sporadic)
+2: i̯ → h / V_
+2: s → z / V_V
+2: r → {l,i}
+2: ths → tsh
+2: N → ∅ / _#
+2: p → k / _w
+2: θ → l
+2: kː → q
+2: ə → a
+2: l → n / #_
+2: ŋ → j
+2: e → i / _N%
+2: v → w
+2: f → v / V_V (irregular)
+2: eu → uː
+2: V → ∅ / #_C”V
+2: V → ∅ / #(C)V(C)(C)_#
+2: b → m
+2: r → ∅ / d_
+2: e → i / #_
+2: z → d / V_
+2: C[+voice] → C[-voice] / adjacent to {S,s,l̥}
+2: ʔ → h / _l
+2: h → j
+2: kʷ → {k,w} / else
+2: n → ŋ / _# (?)
+2: e → ∅ / u_C
+2: i → e / _m
+2: s → h “often”
+2: ã → a / Cw_
+2: ʍ → w
+2: j → dʒ / #_
+2: l(ʲ) → n / #_
+2: r → ∅
+2: l → n / #_Vb
+2: VV → V
+2: s → {ʃ,tʃ} / _i
+2: h → q / _# (might’ve been a retention?)
+2: N̥V → hṼ
+2: {n,q,h}ʃ {n,q,h}l → ʃ l
+2: — {o(ː),u} → o
+2: ə → ∅
+2: x → j / V0_V0
+2: {h,ʔ} → ∅
+2: k ɡ → tʃ dʒ / _i
+2: t → ts / _{i,ı̃}
+2: h → ∅ / {#,C}_
+2: mʷ → m
+2: Cː → C[- long]
+2: r → l / ! _#
+2: ku → b
+2: tʃ tʃʰ tʃʼ → t tʰ tʼ
+2: st → ʃt / medial
+2: ʔv ʔm ʔɡ ʔr ʔh → p b k t {s,f}
+2: n → ∅ / mʔ_
+2: {a1~i1} → i1
+2: d ɗ → t d
+2: dʒ → ʁ / i_u
+2: ḱ → s / _{u̯,u,i̯,i}
+2: {t,k}j {d,ɡ}j → tʃ dʒ
+2: ndr *R → d r
+2: Vɲ → V[+nas]
+2: r → n / _(h)j
+2: u → a / a_
+2: e → i (short only)
+2: dʒ → j
+2: f → v
+2: k → ɡ / in U[+stress]
+2: e → {e,ə,o} / _V
+2: mb nd ŋɡ → mː nː ŋː
+2: {ʃ,z} → s
+2: m n → b d
+2: N[-voiced] W[-voiced] → N[+voiced] W[+voiced]
+2: æː → eː
+2: V → Vː / in ”U[+open]
+2: lθ nθ → lː nː
+2: ɔː → oː
+2: x → k
+2: kʷ → ɡ / V_{i,e}
+2: CV1C”V2 → CV2C”V2
+2: o → u / _N
+2: ɡʷ(ʱ) → {ɡ,z}
+2: l̥ → ɬ / %_V
+2: ts(ʼ) s → tʃ(ʼ) ʃ
+2: d → ∅ / _{l,r}
+2: w → ∅ / tV_wk (conjectured)
+2: {k,ts} {ɡ,dz} → tʃ dʒ / _i
+2: k → tʃ / _i
+2: t → s / i_
+2: ɣ → ∅
+2: bʱ ɡ́ʱ ɡʷʱ → b j ɡ / #_
+2: ɬ → l
+2: jh → hj
+2: V → ∅ / Vk_#
+2: {ɑ,ə,ʊ} → {a,o}
+2: rs → sː
+2: m → n
+2: N → m / _#
+2: ∅ → j / #_a
+2: a[-long]C → Ca / #_ (! _a?)
+2: {a3~ə3} → {ɛ3,ə3}
+2: m → ∅ / _n
+2: {n,ɲ} → ⁿd
+2: !x → x
+2: p → v
+2: hʔ → ʔh
+2: ɣ → k
+2: r → s / _k
+2: ɡ → dʒ (sporadic)
+2: eː → iː / _V
+2: r → w / {o(ː),õ(ː)}_V
+2: h → ∅ / _nh
+2: k t → ʔ k
+2: aj aw → eː oː
+1: 
+1: mt → r
+1: e → o / w_
+1: t → s / #_i
+1: dʼ → t
+1: {i,ɛ} {u,ɔ} → iə̯ uə̯ / _{k,ŋ}# “(and also sporadically before final *t and *n and some other consonants)
+1: hkʷ hʔ (h)S Sː → w ʔ S[+ voiced] S[- voiced - long] / V_V
+1: C → Cʲ / {K,C[+pharyngeal]}_{a,a(ch)}
+1: o → aː / _CV, “does not affect o2 < eh3”
+1: tʃ → jdz → jz / V_V (in the south and northwest)
+1: C[+ A POA]C[+ B POA] → C[+ B POA]C[+ B POA]
+1: — aː → oː / ! _#
+1: n → r / _r
+1: {ɒ,ey} j{u,o,a}ː yː → o ø u / Ḱ_
+1: {ã,ãe,õe} → ão / _#
+1: ɡ → j → dʒ / “[b]etween the last two vowels of a proparoxytone”, though it dropped early in some dialects
+1: y → ə / _r(ː)
+1: {θ,l} → r → l / V_V
+1: ∅ → a / h#_ (that’s not a typo; this happens across the word boundary)
+1: p t ts s k → b d s z ɡ
+1: s → ∅ / k_l
+1: ᵐb ᵑɡ → p k / V_V
+1: ʂ → h / _{i,u}
+1: l → j / #C_
+1: s → ∅ / V_V%”V
+1: pʷ bw → p b
+1: {pʰ,b} ɓ {tʰ,d} ɗ {kʰ,ɡ} {kʷʰ,ɡ} → p b t d k kʷ
+1: qˤʷʲ qˤʷʲ qˤʷʲʼ ʁˤʷʲ → qʷ ʕʷ ħʷ ʕʷ
+1: a aS → ɑ {ɑ,o} / _%
+1: e u i → a {u,ɨ} {i,ɨ}
+1: uŋ → ak
+1: ei → {ei,i} (“PIE *ei evolution is not well reconstructed yet”)
+1: k(ʰ) h → ɕ͡(ʰ) ɕ / _j
+1: u → w / _V (between first and stressed syllables)
+1: ḱ ɡ́ → ts dz
+1: V[+nas] → V[-nas] / unstressed
+1: mn → nm / V_V
+1: lː → ʎ
+1: {tʃ,ç} → h / _k
+1: uː → yː
+1: k → ç / _#
+1: — u → ɔ / _{r,h} (unless this r “arose from older s by assimilation”)
+1: {B,E} → ∅ / CC_U# ! B = ɒ
+1: N → ʔ / _O
+1: ɬ ʃ ʂ → l {sɡ,ʃɡ} ʃ
+1: uw ij → ow ej / _C
+1: z zː → j dʒː
+1: i → {i,e}
+1: — o → y / _ɲ (in northern and western dialects)
+1: r → {r,lː} / V_
+1: ɔ → ∅ / in the suffixes -ios and -ion
+1: kp kpʼ → k b
+1: {i,e(ː),ae} → ∅ / _(C)#
+1: mV[-long] → ∅ / #_{ʰC,s,ʃ} (allophonic, “optional”)
+1: {b,p} → ∅ / _n “in verbs in -nąć”
+1: eː{Bː,i(ː)} → juː
+1: i → ∅ / {o,u}j_
+1: k kr kj ɡ → k. k.r ts. ɡ
+1: l̥ → ʁ / _C
+1: d → t / {#,N}_
+1: t → tʲ / _õ (…again…lolwut)
+1: uiː → ui / _#
+1: p f → f v
+1: ʃ(~ʃː) ʒ → s z
+1: ts → {s,ʃ}
+1: ∅ → a / o_m
+1: ɛː → ui
+1: sˤ tˤ ħ q → s t χ k
+1: — k → t / _j
+1: kʰ kʷʰ ɡʷ → x xʷ w
+1: t → ɾ / _”a
+1: {ŋk,ŋɡ} ɡ → ɡ k
+1: iŋ → ʅ
+1: h → ħ / #_Vs
+1: TS → TH (most often back to 3, however)
+1: zʷʲ tsʷʲʼ dzʷʲ → dzʲ~zʲ tʃʼ dʒ~ʒ
+1: β ð ɣ → b d ɡ / #_
+1: tsi ʐi → tɕ ʐ / V_
+1: ʒ → ∅
+1: aw → o / _#
+1: r → d / x_
+1: — {a,e}n → eː / _{p t k s}
+1: oj → oi → oe → uː
+1: q qːʼ ɢ → x {q(ː)ʼ,ɡh} qʼ (not sure if that last 〈gh〉 should be ɣ)
+1: N(ː) k k(ː) N(ː)ɡ ɡ(ː) ɣ → ɲc(ː) c(ː) ɲɟ(ː) ɟ(ː) ɟ / _{i,j}
+1: ɡʷ → b / #_V ! _u(ː)
+1: u → ∅ / CC_V
+1: pʲʼ → tʷʼ
+1: ∅ → i / {V,t}n_k(ʷ)V
+1: kʷʼ → χʷ
+1: {k,ɡ} → x → j / _{t,s,n,l}
+1: N → S (I’m not sure what’s going on here in the paper, but here it is presented anyway for your enjoyment)
+1: — eCə oCə → Ceː Coː / #_
+1: j → ∅ / jî_
+1: z → d / _n (not strictly a vowel shift but included here anyway because it’s cool, and also because it doesn’t occur in 〈hasn’t〉 because of the influence of 〈hadn’t〉)
+1: #”UU → #U”U
+1: v r̝ → f r̥ / _{C[-voiced],#}
+1: b → v / V̈%_j
+1: xʲ ɣʲ → ɕ ʑ
+1: n nˀ → i iʔ / C_s
+1: bk → pts / _a
+1: {ɡ́,ɡ} → j / _e(ː)
+1: i → e / C_ʔ
+1: lʲ → r / #_
+1: V3ʔ → V3(ː)ʔ / _#
+1: ∅ → ʔ / C{v,d}_{ʃp,ʃk,hV}
+1: ɡʷ(ʱ) → ɡu / ŋ_
+1: n → ∅ / r_{s,t,w}
+1: v ɣ ʁ → p k q / _C (unless C = one of /l dʒ m n ŋ)
+1: o → {ou,ɔ} “(the outcome fluctuates, but ɔ is often the result of analogy rather than strict sound change; always ou before another vowel)”
+1: pl b{l,r} → v pj
+1: ɛ̃ ɔ̃ → ɛɰ̃ ɔɰ̃ / _F[-palatal]
+1: — u → o / ! V_
+1: t̪ t̪ʰ → t tʰ
+1: aː → a / ! _#
+1: pt {ɾs,ps} → tː sː
+1: k → s̪ / {ɨ,u}_
+1: ʟ → ʊ / {a,ɛ}_, typically ! _V
+1: n → ∅ / t(h)_
+1: ∅ → w / #uː(C)_a
+1: r → ∅ / _H
+1: a → {ɨ,o} / _N#
+1: t → tʃ / in diminutives
+1: Vʔ → Vː[+low falling tone] / _C
+1: ʃʷ(ː) ʒʷ → ʃ(ː) ʒ
+1: V → ”V / ”VSr_
+1: (C)V1C”V2 → (C)V2V2
+1: xʲ xʔ j ɡʔ → ih iʔ i iʔ / _#
+1: o(ː) u(ː) → a(ː) o(ː)
+1: l → s / _k
+1: its̺ → tʃ / _# (Biscayan)
+1: {r,*ŕ} → {∅,w,j}
+1: ʔ → ∅ / #_, possibly everywhere?
+1: ɭ(ʱ) → ɖ(ʱ)
+1: ħ ʕ → h ʔ
+1: h → ∅ / _{n,s,ʔ}
+1: w → ∅ / m_C
+1: f → j̃ / #_V[+nas]
+1: b β d → m p n / _{C,#}
+1: h…h → ∅…h (“affect[s] both the oral /h/ and the nasalized aspiration”)
+1: bʰ dʰ gʰ → pʰ tʰ dʰ → ɸ θ x
+1: s-l- → {tʰ,z}-
+1: b d → p t / N_
+1: i o → e a / unstressed
+1: awu → o
+1: bʱ dʱ ɡ́ʱ ɡ(ʷ)ʱ → p t j k / #_
+1: — æː → eː
+1: w → ∅ / {a,o}_iC
+1: Vː V[-long] → V[-long] ∅ / in #U
+1: V → ∅ / “in CV reduplications”
+1: sɕ ɕʂ → ɕː ʂː
+1: p t tʃ k {dʒ,ɡ} ɲ → h r tɬʰ χ ∅ n
+1: {l,r} → ∅ / n,ɗ_
+1: k → {ŋ,∅} / _#
+1: bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → {w,v} d z ɡ ʒ / ! _#
+1: b d dz ɡ → {p,pʼ} {t,tʼ} {ts,tsʼ} {k,kʼ}
+1: aː → oː / _{N,C[+ dental],P,h} (sporadic?)
+1: e(ː) → ẽ / _ẽ(ː)
+1: N P K → m p k / _ç
+1: ɡʷʱ → v / V_V
+1: p t(ʲ) s(ʲ) k → b d(ʲ) z(ʲ) ɡ / ! #_ or adjacent to C[-voice]
+1: ∅ → j / #(C)iː(C)_V ! _i
+1: ∅ → h / Vu_k
+1: k → h / _{t,ts,s,ʃ}
+1: n → l / #_Vk
+1: V → V[+nas] / _N$V
+1: x → ∅ / {s,ʃ}_
+1: tʃ ʒ → ʔj s
+1: u → i “often”
+1: tɬ tɬː tɬʼ tɬːʼ dɮ → ɬ ɬ(ː) kʼ tɬʼ tɬː
+1: ɴq → ŋk
+1: C → Cː / _j ! C = r
+1: f → ɰ / #_aCo
+1: oːi → uː / _#
+1: a e i o u æ ø y → {a,i} {e,ja} {e,i} {ø,y,o} {o,u,y} {i,a,e} {e,ø} {ø,y,o,u} / _Ce
+1: V03ʔV0 → {V3ː,V03ʔV0}
+1: {ɛi,ei} → ɨː
+1: ɗ → {ʔ,∅} / ! #_
+1: ɕ → ∅ / tr̝_tɕ
+1: wː → v
+1: ɛl → lɔ / T_T “in certain cases (mostly after a PSl. palato-alveolar”)
+1: V → e / C”VC_
+1: Cr → Cɾ → CVɾ (perhaps not a sound change per se, just a historical tendency)
+1: tsː tɬː → s ɬ
+1: {kʰ,ɡ}{l,r} → tʃ
+1: ua~uə → uː
+1: eː oː → je wo
+1: tʃʷ(ː) tʃʷʼ dʒʷ → tɕ(ː) tɕʼ dʑ~ʑ
+1: {u,oː} → o
+1: t → r / medially
+1: n → m / #_
+1: t → h / _{n,t}
+1: ∅ → j / i_a
+1: s ɕ → ð h
+1: kʲ → k / _{a,ã}
+1: — n → ∅ / _{f,v,s}
+1: t → r / _V
+1: p → {p,kʷ}
+1: e → je / in open syllables, when stressed
+1: Vh → Vː / _R
+1: r → ∅ / #_ (unclear)
+1: {qʷ,xʷ} qʷʼ ɢʷ ɣʷ → x(ʷ) q(ʷ)ʼ ɢ(ʷ) w
+1: ∅ → e / w_r (and “probably. . .in other environments”)
+1: wi → u / Ci_C
+1: ɑʊ → ɔː / else
+1: y → i
+1: o → ∅ / u_
+1: ʃ → s / ! i_i or _S
+1: {ɣ,h} → j / in prefixes related to word derivation
+1: b → w / ! adjacent to another consonant
+1: a → æ / {a,e,ê,i,y}(X)(C)(C)_, when unstressed
+1: k → ɣ → U / {A,O,U}_R ! R = j
+1: u → w / _a
+1: *R → {∅,r} (the former seems more common)
+1: wɔʔ → ɔʔ / else
+1: {n̥j,nj,ɲ̊j,ɲj} → ɲ j
+1: aɪ → aː / _#
+1: l → u / o_{t,d}#
+1: (w)e → je
+1: tj → tʃ / _#
+1: S[+ voice] → S[- voice] / F[+ sibilant]_
+1: avu aji → aw aj
+1: L → r
+1: ɸ → w / V_V
+1: m → β / C[- voiced]_n, when medial
+1: p → b / _l
+1: ∅ → ɨ / _N#
+1: ã → an (sporadic)
+1: ɛi ei → ai əi
+1: k → h / ! _#
+1: dˤ dʒ q → ðˤ ʒ ɡ
+1: q → ∅ / _i
+1: ð → t
+1: — (a)e → è
+1: l → u / _{t,s} (Languedoc)
+1: {u,ə} → ∅ / ! C_C(C)#
+1: — s → ∅ / [anything]{l,r}_O
+1: ʀ → ɾ
+1: t → ɾ / _{u,ẽ} when unstressed
+1: Rʔ → ʔR / V3C
+1: sʲ tsʲ zʲ dzʲ → ʃʲ tʃʲ ʒʲ dʒʲ
+1: d → t / _#
+1: {u3~ə3} → u3
+1: {t,dʱ} → tʲ / _E(ː)
+1: uəi uai iau → iː oːi eːu
+1: eː → aː
+1: u → ə / short only, except near “a labial or velar consonant”
+1: lː → l (in the south)
+1: — h → ∅ / C_
+1: z → j ?
+1: r → ∅ / C_-
+1: V[+nas] → V[-nas]n
+1: d → rs / V_V
+1: a → ə / _UU(U…)#
+1: β → b / V_V
+1: ɟ ɡ *N *R → {ɟ,j} {ɟ,ɡ} {l,j} {l,r}
+1: r → ts / _i
+1: {e,ɑ,o} → ə / _#
+1:     ∅ → ʔ / V_V 
+1: a → i / _n (in northern varieties)
+1: {x,ɢ} → ∅
+1: V → Ṽ / N_
+1: aː iː uː → ɑː eː oː / near emphatics
+1: a → {u,o} / _P
+1: — r → ∅ / _# “sometimes??”
+1: d~ð → d / V_u
+1: ʀ → h / _#
+1: {p,pw,k} → ∅ / V_V
+1: s → z / _{N,l,r}
+1: o → ø
+1: ɡ → k / _# (sporadic)
+1: a u i iN → e y ɯ i / T_%
+1: VkV → ”V / _#
+1: ɛə ʊə → ɛː ɔː (ongoing)
+1: ẽ(ː) õ(ː) → o(ː) ʌ̃(ː)
+1: r → t / _{i,u}
+1: {i,j} {u,w} → ij uw
+1: ɡ → ɡʲ → dʒ
+1: {o,ɔ} {ɛ,e} → u i / _i
+1: o → ∅ / _(C)(C)V(C)#
+1: u → o / _Ca
+1: {e,ai} → ɛ
+1: L → θ / _”V
+1: ɡn tj → ɲ ∅ / V_V
+1: {xv,pv} → f
+1: tɬʷ(ː) tɬʼ dɮʷ → tsʷ tsʼ(ʷ) l
+1: a u o → e y ø / _(C…){i(ː),j}
+1: f → xʷ
+1: q → ∅ (not sure what happens word-finally to it)
+1: ”je.o ”je.a → {”i.o,”jo} ”i.a
+1: k → ɣ
+1: {s,*R} → ∅
+1: {d,l} → r “in Hieroglyphic Luwian, occasionally”
+1: ʈ → {ʈ,tʃ} / {i,e,o}$_
+1: ∅ → ə / _u
+1: f → h (in Béarn and Gascon)
+1: aː → ɔː
+1: p → ∅ / _t “except in parts of Languedoc and Gascony”
+1: Vʔ → ʔV / “in odd-numbered unaccented non-final syllables;” ! {ʔ,h}_
+1: b d → p t / _C[-voice]
+1: s → θ → f / #_r
+1: ɡ → dʒ / {E,j}_ (“in some Biscayan areas”)
+1: Vn → Ṽ / _# (seems to have been reverted in most dialects, except for Souletin)
+1: {m,n,s} → ∅ / _# in polysyllables
+1: ts (n)dz → {s,ts} s
+1: r → h / _# (Meno-mene and Mriak-mriku only)
+1: dʱ → ɦ / (unclear environment)
+1: m → n / _# “(in certain common monosyllabic words, as well as some common compounds of them)”
+1: T → TŠ / _{i,e,u}, in the British Columbian dialect
+1: e → ∅ / O_ in #U (not universal)
+1: {z,j} → d
+1: β → ∅ / i_
+1: w → ɣ / _{a,E}
+1: C[+sibilant]P → C[+dental]
+1: {p,b} → ∅ / _{t,d}
+1: oj → oi
+1: n → {n,∅}
+1: s → x / {i,u,r,k}_
+1: ∅ → i / _s (“[m]ainly Logudorese”)
+1: a → e / _#
+1: V → ”V / _(C…)”{i,e}V
+1: ʔ → ∅ / ”Vː[+falling tone]_C
+1: ib → ∅ / _i, when unstressed
+1: d → ∅ / V_{i,j}
+1: p pw t {k,c} → {v,∅} w l ∅ / V_V
+1: iw ow ej → i o e / _#
+1: è → iɛ / _C#
+1: zhuó shăng → qù
+1: — j → ∅ / ts_
+1: tʃ ɕ → ts ʃ
+1: {d,KT} st → tʃ zdʒ
+1: p → b(ʷ) (sporadic)
+1: θ ð → s z
+1: (P)ɡ sɡ çK Nɡ k sk rk (s)ɡj (ʔ)kj → (p)k sk çk mk kʰ zɡ Nɡ (s)kj (ʔ)kʰj
+1: B → v̩ / {qʰ,(ŋ)q}_
+1: — oCV[- high] → ɔC
+1: aj aw → e(ː,j) o(ː,w)
+1: {ai,oi} → æː
+1: l → ∅ / ŋ_s
+1: ujʔ → uɛʔ (dialectally → uɔʔ?)
+1: ɔ → u / _”V
+1: ∅ → w / C̣_aŋ
+1: V → V[+nas] / #N_ (rare)
+1: ∅ → w / {o(ː),õ(ː)}_V
+1: V → ”V / “in penultimate syllables not preceded by an accented antepenult”
+1: ã {ẽ,ı̃} ɨ̃ → a i ∅
+1: ∅ → i / #C_jVː “(for some speakers)”
+1: q k s → k c t̪
+1: ɟ → s
+1: θ f → ð v / {V,C[+ voiced]}_{V,C[+ voiced]}
+1: O → ∅ / {F[- same POA],r,l}_O
+1: F[+voiced] → F[-voiced] / _$
+1: {p,t,tʃ,k} {mp,nt,ɲtʃ,nk} {(m)b,(n)d,(ɲ)dʒ,(n)ɡ} {m,n} → s tsʰ ts ɲ / _iV
+1: l → {lʲ,n} “under obscure conditions”
+1: z → s / _#, though “[t]his s was dropped when it came to stand after an original s through the loss of a vowel”, though it “remained when protected by a particle”
+1: r[+ fortis] → r
+1: {ðˤ,dˤ} → ð
+1: f → p / _t
+1: p → h
+1: e i → a e
+1: m s → n i / _#
+1: ∅ → j / i_V
+1: ɔ(ː) → o(ː)
+1: wə → u / #_
+1: w → o / Cʲ_?w
+1: ı̃ → ∅ / #_ã
+1: pː tː tsː tsʷː ʃː tsː tcː kʲː kʷː qː~qχ qʷː~qχʷ → p t ts tʃʷ ʃ tʃ tɕ kʲ kʷ χ~q χʷ~qʷ
+1: i → e / {r(ʲ),l(ʲ)}_e
+1: k s → ∅ {t,s} / #_
+1: nj → jn
+1: d → ∅ / l_#
+1: !x !̃n → x ŋɡj~!̃
+1: aw → au
+1: ts ts’ → {θ,s} θ’
+1: u → ʉ / ! Cw_
+1: ʕ → ∅ / _{$,#}
+1: w → ∅ / ŋ_
+1: a → ə → ∅ / i_u
+1: H → ɛ / _R, when R = syllabic
+1: z → r / V_V
+1: — ʊ → o (this change seems to have happened later, hence is listed separately)
+1: mj → jm (irregular)
+1: kw → q / _a
+1: — i u → e o / _C{$,#} (in verbs)
+1: ʔ ts ŋ → ∅ {ts,tʃ} n
+1: t → s / _V
+1: V → Vː / _RC(C)ɑ (includes diphthongs)
+1: sr → {θl,ʃl}
+1: km → kV0pV0
+1: v → ∅
+1: {ɔu,ɑu} → ɑ
+1: w → p (Navajo, some Polynesian languages)
+1: ∅ → F / N_{O,r} ! m_f
+1: ∅ → h / {t,k}_n
+1: i(ː)wi → i / _#
+1: ʁʕ → ʕ
+1: i → y / _(C…)y (Souletin)
+1: kʰ → x / #_
+1: ŋ ᵑɡ → ∅ ɡ / #_
+1: K → ∅ / _l (not always, but this was a general change)
+1: {i3~ə1} → {ə1,i1,i3}
+1: kʷ ɡʷ → p b / V_a
+1: ʔ → ∅ / _j
+1: e {ɑ,ə} → i {e,ɪ}
+1: w → ∅ / C_ɹ for some C (toward(s), quart(er), sword)
+1: ʍ → xw (some speakers seem to have resisted this)
+1: ɬˤ → dɬˤ → dˤ
+1: s → ts / {l,n}ː_
+1: R̊H → {u,i}R / _V (sporadic)
+1: ɖʐ → dz
+1: o → u / _Ci
+1: ! !ˀ !̃n → !ɡ ~ !̃
+1: ɣ → ʁ
+1: Ω cʰ → s tɕ
+1: r → ʈ
+1: w → ∅ / _{r,j}
+1: β → v (otherwise)
+1: S[+ voice] → ∅ / _N
+1: ə → ∅ / _dʒ{a,u}, except in #U
+1: {qˤʲ,χˤʲ} qˤʲ ʁˤʲ {qˤʲː qˤʲʼ} → ħ ʔ j
+1: iː uː → əj əw → ɑj ɑw
+1: β → ʋ
+1: r → ∅ / k_
+1: V → ∅ / C_hC
+1: ɡj → {ʒ,j} / V_V (ɡj → j is learned)
+1: tʃ tʃː tʃʼ tʃːʼ dʒ → {∅,ʃ} tʃ ∅ tʃʼ {dʒ,tʃ}
+1: jV[+nas] → jV[-nas] / #_
+1: e → ∅ / P_a
+1: — ɔ → {ɥe,ɥo,ɔ} / _{u,P,k,ɡ,i} (in southern dialects)
+1: ah → e
+1: a → a / #(C…)V…C[+palatal]_…”U
+1: zdʲ stʲ → {ʑ,ɕ} {s,ɕ} / _n
+1: ∅ → w / a_u
+1: et → o
+1: {uː,uw} u → ɔw o (except in the southeast)
+1: p → b / _r
+1: d → r / V_{V,#}
+1: ʊə → oː / ! {j,dʒ}_
+1: n̥ → m̥ / p_#
+1: tʃ → s / _C ! _k
+1: bː dː dzː ɡː → bʱ dʱ dzʱ ɡʱ (Whimemsz says these become “voiced stops with voiceless releases. . .treated as unit phonemes, not clusters)”
+1: ə → a / _ʔ#
+1: r…r → r…∅
+1: tʃ → ts → s / #_
+1: æ ɛ ɪ → æj(ə) ɛj(ə) ɪj(ə)
+1: k {sɡ,çK} Nɡ rK → k. sk mɡ nk
+1: u → e / _θ
+1: t → s / ! “in cluster with š” (presumably [ʃ])
+1: o → e / _l
+1: œ → ø / _l
+1: k → ∅ / V[+nas]_#
+1: oː → u / _#
+1: rj → rʲ → r / _#
+1: {e,a,o} → ē / _N in ”U[+closed]
+1: l → ∅ / u_
+1: çK → ç.k
+1: V → ∅ / unstressed (sporadic)
+1: V03ʔ(V0) → V03ʔV0
+1: θ → s
+1: k ɡ x → tʃ ʒ ʃ / _{e(ː)(i),i(ː)}
+1: {p,t} {m,n} → k ŋ / ɯ_#
+1: — u(ː) → o / except _V (?)
+1: {a3~ə3} → {ə3,e3}
+1: R H → uR ɨ / C_{C,#} when syllabic
+1: pː pwː tː ʈ kː cː → f hʷ tʰ lʰ h s
+1: t → ʈ / _r
+1: tɕː → dzʲ(~tɕ)
+1: n → l / CV_m
+1: V → Vː / ə(C…?)_
+1: {z,s,ʂ} → ∅ / _sC
+1: Rʔ → ʔR / V3_#
+1: e(ː) → o(ː) / _h3
+1: n → ∅ / t_s
+1: i → e / _k#
+1: C[-glottal] → ∅ / _s#
+1: ja → e / r_#
+1: ∅ → ɡ / #n_V (in verbs)
+1: {ɨ,ə} → o
+1: d(r) → t
+1: e → o / _K
+1: t → r / ! at word boundaries
+1: ay → e / _#
+1: {ndj,nz} ɲz → n̪d̪ n̪ ð
+1: l → ∅ / p_{ɯ,e,i}
+1: e o → i u / else
+1: Vː → V[-long] / _CC
+1: m → ∅ / {C,V}_n{C,V}
+1: ɣ → i / _C
+1: rʲ → r / _{s,t͜s,l,w,n,ɲ}
+1: b → w / ! _{a,ə,Vj}
+1: ɡʷ → v
+1: m → n / V_
+1: {s,z} → t
+1: {*Z,*j} z → l r / V_V
+1: C[+dorsal] → Cʷ / _V[+round]
+1: ʔ → ∅ V3R_V
+1: ɨə̯~ɨa̯ → ɨː / _%
+1: tʲr → sV0rV0
+1: — əw əj → o e / _#
+1: ŋ → ȵ
+1: k → s / _n
+1: b d → {b,p} l
+1: d → l / #_ (sporadic)
+1: e → ɛ / “unstressed”
+1: NS[-voice] → Sː
+1: b {d,dz,dʒ} z ʒ ɡ → p {t,ts,tʃ} s ʃ k / _(s)#
+1: Cˤ → C / {#,V}_V
+1: l(ː)ʀ n(ː)ʀ → lː nː / ”Vː_ (or all V_ ?)
+1: øː → i (in northern dialects)
+1: ḱ → s
+1: ts → z / V_V
+1: rn {lː,rl} → ɲ ʎ
+1: ŋ → x / _{m,n}
+1: r̝ → r / {ɕ,ʑ}_
+1: dʒ → ð / i_ (in eastern and central dialects)
+1: V → ∅ / “when in the first syllable of a bisyllabic morpheme, if after a morpheme boundary in the word (all other first-syllable vowels have non-zero reflexes)”
+1: s3 → ʃ / #_
+1: ɭ → l “(again, sporadic)”
+1: Ci → Cʲə
+1: β ɣ → b ɡ / r_
+1: ts tsh → tʃ tʃʰ
+1: ɡ → ɣ / V_#
+1: {n,m} → ∅ / C_#
+1: mt → d
+1: j → ʝ → ɟ (typical of Low Navarrese)
+1: i u → e o / _h#
+1: æ → eː / _{ð,r}
+1: V → ∅ / intertonic ! V = a
+1: kr → ɡl
+1: {ə,ɔ} {ə̰,ɔ̰} → a a̰
+1: ə → ∅ / _V
+1: e → i / {#,k}_
+1: e u a {ɑ,ʊ} → a i u ə
+1: kʼ → k / #
+1: xk → ɡ / ”V_
+1: ”Vː[-falling tone]CV → Vː”CV
+1: ph → p / #_VA
+1: ∅ → ɛ / uː_d
+1: kp kpʼ ɡb → {k,B} kp B (it’s unclear what this 〈B〉 is)
+1: k → {k,ʃ} / else
+1: ts tsʰ tsʼ dz → t tʰ tʼ d
+1: N → N[- voice] / O_#
+1: waʔ → aʔ / C[+labiodental]_
+1: d ɡ → t k (may have been part of a more sweeping merger; Firespeaker calls it “lenis-fortis”)
+1: h → {h,∅}
+1: {i,ɨ} → ɛ / _C[+rhotic]
+1: — aw aj → o aj / _#
+1: {n,ŋ} → ɲ / _E
+1: a → e / _Ci (sporadic)
+1: ɡʷ → β / _V[-nas]
+1: d → ɾ / V_V
+1: ts dz → {ç,tç} dʒ
+1: {fl,skl} → ʃ
+1: t → k (general Polynesian)
+1: ɖ → ɽ “(only one example)”
+1: a(ː) → õ(ː) / V[+nas]H_
+1: e → i / #(C)_ ! _H
+1: ə̃(ː) a(ː) o(ː) → ɨ̃(ː) ɔ(ː) u(ː) (“in all positions”)
+1: ɛː → ɛ
+1: V → Vː / _hC (sporadic)
+1: S[- voice] → Sʰ / #v_V
+1: sk k → jʃ z / V_{i,e}
+1: ʈ → ʈʂ / _r
+1: a → i / i_
+1: s → ʂ / _{t,r}
+1: w → v → ∅ / _”o
+1: ʃ(~ʃː) → s
+1: d → r / _ŋ (occasionally elsewhere as well)
+1: ʔ{θ,ʃ} ʔl → s ∅
+1: H → ∅
+1: — x ɣ → ç ʝ / in southern dialects (the articles use velar phonemes here but describes them as “front velar”; based on the description and on representations in other articles, the palatal phonemes are used here)
+1: tl st → lː tː
+1: dj lj rj ɡj → dʲ lːʲ rːʲ jɡ
+1: ptʃ → pʃ
+1: jː → j
+1: #r…î# → #î…r
+1: p → ∅ / _s
+1: a[+weak] ə[+weak] → ə ∅ / a_Z[+voiced]
+1: s̪ → ʂ
+1: ɛ → jɛ / unstressed ! _{dʒ,ʎ,ɲ}
+1: k → h / _m
+1: — {ai,oi} → iː / _#
+1: p t k → f θ x / _{S,F[- voice]}
+1: {d,j} → j / ∅ / _#
+1: r → d / k_
+1: iw → yw (dialectal)
+1: s → θ / ! _i, occasionally
+1: uo ɨ̯u → u(ː) u / _C%
+1: bʷ → β / #_V[+nas]
+1: i → e / _CVC#, when stressed (! _H, short only)
+1: {A,F} → ∅ / _$; diphthongs sometimes lengthen in comparison
+1: !̃n → ŋɡj~!̃
+1: p çp (ç)b rP Np Nb pr {br,pj} → p. ç.w (ç)p rp. kj m.p n.br p.j
+1: sk → hts / ”V_
+1: s → t / _VsVC
+1: NTS KTS lTS → mʈʂ {kts,ʈʂʰ} bɖʐ
+1: eː → ɛa “(except Suðuroy → eː)” / a “(except Suðuroy → ɛ)”
+1: l → ∅ / _# ?
+1: — aj → a / U_#
+1: ɔ{ɡ,j} → ʌu
+1: ḱː → z
+1: juŋ → uŋ (→ oŋ dialectally?)
+1: l → j / p_
+1: iu → yː
+1: {r,s}pʰ {r,s}(N)p {r,s}b {r,s}mb → pʰ p b mb / _V (the paper implies similar developments occurred with stops at other POAs)
+1: ŋ → ∅ / i_
+1: ∅ → ə̆ / _{n,r}
+1: k ɣ ɡ → tʃ ʝ dʒ / “in certain complex circumstances”
+1: ɨ → {e,i} / CC_
+1: ɡm rɡ → mɡ ɡr (this second one is listed as → rɡ but it might be a typo)
+1: ɛ → ɛa / _l{C,#}
+1: {l,r} → ∅ (sometimes, only from original *l)
+1: hl → sː
+1: k ɡ → tj dj / _E
+1: h → ∅ / _d
+1: ej → i
+1: tsʼ → sʼ
+1: i → ∅ / {VC,ks}_ at the ends of a suffix
+1: {ɡ,ɣ} → ∅ / r_{d,n,t}
+1: t → ˀt
+1: {r,s} → ∅ / %_V
+1: b → ∅ / #_B (a few exceptions, mostly before _u)
+1: K → Kʷ / _{C[+round],V[+round]}
+1: ɨ u → e {i,e} “(all */u/ affected, but conditions for when it became /i/ or /e/ are not known)”
+1: ks → ʃ / V_V
+1: {i,j} {u,w} → j w / V[+short]C_
+1: p → w / V_V, apparently as a result of some dissimilation, as this appears to be an allophone of /p/ here, IIUC
+1: ONV → SʰṼ / Pije and Fwai
+1: {d,k}w → ɡʷ → ɡ
+1: k → ∅ / r_{m,s,t}
+1: j ŋʷ m n → ɲ m {m,p} {∅,t} / _V[+nas]
+1: a → i / {ŋ,w}_%
+1: dʱ → d
+1: r̥ → r
+1: l(ʲ) → j / else
+1: ɨə → ɨ̆ / _C%
+1: i → e / _R
+1: ǀ̃(n) → {ǂ̃,ǂ}
+1: ɡn{d,t} → ŋn{d,t} → ɲ{d,t} → {(i)nd,ɲd,ndʒ} or t(ʃ)
+1: e → i / _C%
+1: s → x / i_
+1: ns sk → {x,s} {x,sː}
+1: td → tː → t
+1: tsʷ lʲ {qʲʷ,qˤʷ} → sʷ d qʷ / #_ (data not given for non-initial forms)
+1: — ɛ ɔ → jɛ wɔ (intermittent, “least common in the southwest”)
+1: dr s l → {d,ɟ} {∅,s} {n,∅}
+1: V → ∅ / _[+intertonic]
+1: a → e / ! K_%
+1: h3 → ɡ / _B
+1: a → i / #C[+palatal]V[-long]C_
+1: st(ː) → ts
+1: OR → RO / V_C
+1: {ts,st} tsːʼ dz → {s,ts} {d,t} z
+1: C → ∅ / _$(possessive suffix)#
+1: b ɡ → β ɣ / {l,ɾ}_
+1: {au,eu,ou} → oː
+1: t → {t,∅} / _#
+1: Vn → V[+nas] / _# (sometimes)
+1: a → aː / _i
+1: Cw → C
+1: nt nd → {∅,n} ∅ / _# (in some Languedoc and Gascon areas)
+1: æ → a / P_Co
+1: tɹ → tʰ
+1: C[+ coronal]w → Cː
+1: ɛ ɛ̃ ɛː → ɔ ɔ̃ a / _C[-palatalized +dental] (also sporadically before plain non-dentals)
+1: {t,k} q → ʔ k / _C
+1: ∅ → i / j_#, in monosyllables
+1: ɡ → ∅ / _l
+1: {iː,yː} → ʊi / ʊ(i)
+1: l{i,j} → lː → {ts,dz,ldz,dʒ,lː} (“varies”)
+1: uj → i
+1: b d ɡ → p t k / _#
+1: bj → ʝː (sporadic)
+1: h → ∅ / in coda
+1: p → ʔ
+1: nk → ɲ / _t
+1: C[+labial/+velar] → ʷ / adjacent to short u
+1: a ø → {a,ʌ} a / P_Ca
+1: t → ∅ / f_n̩
+1: — {p,t} → ∅ / #s_r
+1: c ɲ → t n / {i,e}_
+1: N{F[+voice],T} → nD
+1: χˤʲ ʁˤʲ → ħ ʕ
+1: h → ∅ / ! _# (some exceptions)
+1: f → p / #_V{Z,C[-voice],r}
+1: χʷ hʷ → w p
+1: ã → õ
+1: V → ∅ / #UU(_)U(U(_)U) / unstressed; this “remained as a phonologically conditioned rule in OIr”; “[t]hat’s a little unclear, so let me try and enumerate: in words of more than three syllables, every other vowel (only the even ones) dropped, if it’s unstressed. In some words, syncope didn’t apply because it would create an unwieldy consonant cluster: so PIE *komaktyom → OIr cumachte, not *cumchte”
+1: f → h / ! _{ue,L}
+1: s → ʃ / #_{l,m,n,w,p,t}
+1: s → ʂ
+1: a → o / ! Cw_
+1: θ → f / _l
+1: ð → ∅ / r_{m,l,ɡ,n}
+1: sx → tʃ
+1: t → ʃ / _ʔ
+1: ʂ → h / _u
+1: *-ɾ → -h stuff in compounds
+1: {kʷ,kw} {ɡʷ,ɡw} → tʃ dʒ (→ s~z z ?) / _E
+1: C → ∅ / VN_V
+1: x → s / _k
+1: stʲkl → ɕtɕkl → {ɕ,s}kɫ → ʂkɫ
+1: z → s / #_
+1: ɛ → e
+1: a → e / _i
+1: x → sː / {i,#e,ja,ke}_
+1: k → ʂ / _i
+1: tʃ → dʒ / #_i
+1: — m p → n t / {u,i}_
+1: ɑʊ → ɑː / _N (sometimes)
+1: i → e / O[+ labial]_
+1: — a ɔ u → {a,ɑ} ɔ ʌ
+1: d → l / #_ (except verbs)
+1: q → ʕ
+1: v ɣ ʁ → p k q / _C (except if C = /l dʒ m n ŋ/)
+1: {a,e,i} → o / _kʷ
+1: ẽ → a / tʲ_
+1: ai → e / _#
+1: waʔ → uaʔ
+1: p t k → f z x / _#
+1: d → ∅ / _N
+1: ɓ → p / medially
+1: d → ∅ / _{z,ʒ}
+1: dʒ → tʃ → s / “in certain positions” (except for Thule Greenlandic, where dʒ → tʃ and stayed there, apparently)
+1: ∅ → e / n_k(ʷ)
+1: ɡn → ŋn → ɲ
+1: ə → a / near gutturals
+1: s → h → ∅ (sporadic)
+1: r → {r,∅}
+1: ɨ → i / _(ə)w
+1: m b → mʷ bʷ / _u
+1: {ɡ,w,kp} kpʼ ɡb → k kp b
+1: ʔ → ∅ (?)
+1: pˤ(ː) pˤ bˤ → p(ː) pʼ b
+1: a → ∅ / _{ʀ,s,t,θ}#
+1: ts(ʼ) → θ(ʼ)
+1: ʕ → i / #_VR
+1: r *R → l ∅
+1: — i iː u uː → eə iːə oə uːə / _R
+1: — {ь,ъ} → ∅] / in even syllables counting iambic from U# or a syllable not containing a yer
+1: w → {∅,w}
+1: e o → i u / _ŋ
+1: {a1~i1} → {a1,ə1}
+1: ʃː ɬ ɬː x xː → ɣʲ j ʃ ɣ x
+1: — h1e h2e h3e → e a o
+1: h → {∅,h,k,s} / _n
+1: tʃʷ tʃʷʼ dʒʷ → pʼ f v
+1: hs → sh / C_
+1: c ɲ → t n / ! E_ (apparently the precursor to Vietnamese short *a was treated as a short vowel here)
+1: tsʼ → ʒ / V_
+1: {e,i} → ∅ / k_t when between #U and U[+stress]
+1: ə → ∅ / W_
+1: kʷ → w / _ek
+1: tʃʷ tʃʷʼ tɕ(ʼ) tɕʷ(ʼ) dʒʷ dʑ dʑʷ → f pʼ ts(ʼ) tɕʷ(ʼ) v dz dʑ
+1: h → CVʔV / _# (or possibly in just any final syllable?)
+1: eː j → e ∅ / Cw_
+1: f → ∅ “in certain contexts”
+1: bʱ dʱ dzʱ ɡʱ → p t c k
+1: j → ∅ / C_weŋ
+1: tː → {tʲ,dʲ}
+1: i u → e o / CC# (sporadic)
+1: ɲ → ∅ / _#
+1: tʃʷ tʃʷʼ dʒʷ tɕ(ʼ) dʑ → f pʼ ts(ʼ) v dz
+1: a → o / _m#
+1: l → w / V_s
+1: pr b{l,r} vr → v bj d
+1: q → ʔ / except in several words, two of which are al-Qâhira and musîqâ
+1: ˀt → n / {#,C}_{V,w,j}
+1: i → e / _s
+1: ʂː ʃː → ɕ ʒ
+1: w → ∅ / #_i
+1: q ɢ → {x,q} ɣ
+1: — x ɣ → {x,χ} {ɣ,x,χ} / in northern dialects
+1: w → ∅ / t(h)_
+1: ms → ŋ(k)s
+1: {ḱ,k} → j / _e(ː)
+1: — å ɛ ɔ → a e o / _N (in Limousin and neighboring regions, the last two particularly in Limousin, Languedoc, and Gascon, though when _ɲ this change may have been blocked)
+1: ð → h
+1: V → Vː / when stressed ?
+1: xʷ Kʷ → {kʰ,x} K(ʷ)
+1: V → Vː / _#, when stressed; “[t]his remained as a phonologically conditioned rule in OIr”
+1: VN → Ṽː / _F
+1: xr → kʰ{l,r}
+1: t → l / _# (further development in bLa-brang)
+1: b → p / _Vkʷ
+1: w → p / _t
+1: ʃ ʃː ɬ ɬː → {s,ʃ} ʃ xʲ {xʲ,ʃ}
+1: yen → uɛn / C̣_
+1: ia → ɪ “(only somoetimes?)”
+1: s → t
+1: u ũ → y ỹ / _r(p(ʰ),β,k(ʰ),ɣ,l,s̺,s̻,ʃ,h) (Souletin)
+1: æ ø y → ia {o,u} i / _Ci
+1: n → r
+1: {l,r} → ∅ / t,ɗ_
+1: p t k kʷ b d ɡ ∅ → b d ɡ ɡʷ mb nd ŋɡ n / n#_”V
+1: w → ∅ / {θ,x}_
+1: h → ∅ / #_C
+1: h → ∅ / _tʰ
+1: {n,ɲ} → ⁿd / _V[-nas]
+1: o → u / V_
+1: TS TŠ TŠʷ K Q → TH TS TṢ TŠ K
+1: a → o / _(C…)#
+1: ʃ θ → s t
+1: kʲ(ː) kʲʼ ɡʲ → tʃ(ː) tʃʼ dʑ
+1: VC[+ weak] → ∅ / _V#
+1: j → s
+1: ɡʰ → f / #_
+1: ɛ ɔ → e o / when unstressed
+1: a → {a,i,e} / _Co
+1: r → urː / #_e / Logudorese
+1: s → ∅ / _#
+1: — øː → wi / {k,ɡ}_ (in Mid Northern dialects)
+1: ʔ → ∅ / V_
+1: k → ∅ / V_V “(in some forms)”
+1: yʔ → {ɥʔ,yʔ,uʔ} / C̣, in -juət-types
+1: {pj,bj} {tj,dj} {cj,ɟj} → {β,w} dʲ ɟ
+1: ts(h) tʃ → tʃ ts
+1: tʰ → s / #_u
+1: — iː o(ː) u(ː) → i o u
+1: e → ∅ / _# (?)
+1: ɾ → ∅ / V_V (Souletin)
+1: t → ∅ / a_
+1: ɡ → {∅,ʒ} / V_{i,e} (ɡ → ʒ is learned)
+1: s → z / _{R,j,w} “(in Milyan, this happened after the change of ḱ to s)”
+1: t c → l j / V_V
+1: n → θ / _{ã,ẽ,õ}
+1: s → h / _#
+1: l lʲ → ∅~j l~ɣʲ
+1: p ŋ → f ∅ / ”V_V
+1: l → w / V_CV (“although l was usually restored later”)
+1: s2 → s / V_
+1: ð → t / _s#
+1: t → θ / _{p,k}
+1: p → p~ɸ
+1: o e → u i / _C{u,i} “(highly sporadic)”
+1: ɣ → w / {a,u,i,o}_
+1: TS → TH (→ TS again in some areas)
+1: ɛ̃ → ɛ / _{#,l,ɫ}
+1: C → Cː / ʔ_V
+1: l(ʲ) → w / _u
+1: ms ns → mps nts (sporadic?)
+1: ʔ → {∅,ʔ} / V3R_{C,#}
+1: ɡ(w) → dʒ / #_Vd
+1: e → o / _w
+1: æ → a
+1: Vː → V / _C(C)# “(irregular: often before -m, -t, -nt, but never before ?s)”
+1: e eː → i aː
+1: k → ɡ / _#
+1: i(C)V[- high] → i(C)ɪ
+1: {tsː,tʃː,dz,dʒ} → tː / _#
+1: tsː tɬː → z l / V_V
+1: k → {k,ɡ} / #_
+1: {tʃʷ(ʼ),tɕ} {dʒʷ,dʑ} → ts(ʼ) dz
+1: ptj → ts → s
+1: ɒːh{u,a} aːh{u,a} → ɒː aː
+1: B → ɔ / {qʰ,(N)q}_
+1: wan → uan / else
+1: k r → ʔ ɣ
+1: V → Vː / _V
+1: t st tr d sd (ç)dr Nt çT KT → t. s.d tr. t s.t (ç.)tr m.t. n.dr ɡ.t
+1: kpʷ → k / _C (sporadic)
+1: V3h → V3{ː,ʔ} / _C
+1: e → a / posttonic in U[+open]
+1: mp → p(ː) / V_V
+1: Vh → Vː
+1: h → ∅ / s_w
+1: dʒ → {d,ɡ} / if s or z occur somewhere else in the word
+1: oi ɔi ɔ̃i {a,ɛ}i {ɛ̃,ẽ}i ei → oe ɔɛ ɔ̃ɛ̃ ɛɛ ɛ̃ɛ̃ ee
+1: t → {s,ð} / “unpredictably, to eliminate sV(C)t and tV(C)s sequences”
+1: ja → iː / C_C
+1: ”V → ə / _CV
+1: t → k / _r
+1: -u -up -ut -uk -um -un -uŋ → -u -ɔʔ -əʔ -uʔ -ɔ -ə -ɛ
+1: jaʔ → iaʔ
+1: k → {k(ʼ),q}
+1: m → ŋ / _k
+1: e → a / _#
+1: q → ∅ / #_V
+1: s → ʃ / ! _{n,t,k(ʷ),w} “or when part of the affricate /ts/”
+1: ts tsː tsʼ tsːʼ dz → sh ts tʃʼ ts(ː)ʼ tsʼ
+1: r → l / K_
+1: h → h~ʔj
+1: ∅ → h / V[-long]_#
+1: V{j,w}V → aː / some sequences
+1: tʃʷ(ʼ) tɕ(ʼ) dʒʷ dʑ → f(ʼ) ts(ʼ) v dz
+1: s → ʃ / _i
+1: t k → r ∅ / #_ (though *t seems to have occasionally survived?)
+1: β → u / V_(s)#
+1: l → d̪
+1: {w,j} → ∅ / a_
+1: tj ks w → ts sː ɡw
+1: ɨ̯a → ɨa̯~ɨə̯
+1: ”elːa → e”a / _#
+1: ɮ → ʑ
+1: βt βd → ut ud (else)
+1: {s,c} → t / _V{s,c}V
+1: əː → oː / w_
+1: n → ŋ / _S[+velar] (regional)
+1: {a,ɑ} e i u ʊ → e(a) {i,ea} ju {a,ɨ} o
+1: c → {c,z}
+1: ɡʷ → ɡ / _V[+round]
+1: — æ → ɛ / _C[+alveolar]
+1: {ʔ,h}{s,r} → s
+1: {l(ː),n}{r,ʀ} → ∅ / V{ː,V}_
+1: tʃ → ts / _k, in South Estonian
+1: TŠʷ → TṢ (→ TS in Kuskokwim dialect)
+1: i → [long-tail vowel thing] / C̣_ (“sometimes”, in “variant readings”); when following /ʂ ʐ/, sometimes yields [ʂi], other times [s truncated vowel-thing]
+1: χʷʲ ʁʷʲ → ħ(ʷ) ʕ(ʷ)
+1: χ → kʰ #_
+1: nˀ → aʔ / _# (all other Interior Salishan languages have /eʔ/ in this position)
+1: ɨ̯ai → ɨːi
+1: — e(ː) → a(ː) / _R “sometimes??”
+1: ij → e
+1: m → ∅ / _n ! _n#
+1: {o,e} → ? / _Cʲ
+1: uj → uɛi / {P,C[+guttural],∅}_
+1: tʲ → tʃ / else
+1: V1”V2 → ”V1V2
+1: pː tː tsː tsʷː ʃː tʃː tɕː → p t ts tsʷʲ ʃ tʃ tɕ
+1: s → r / _n (in a few dialects)
+1: *D → l
+1: Original z (/ts/?) → dj → j
+1: h3 → ∅ / _o “(according to Kortlandt)”
+1: tʃ tʃː tʃːʼ → {ʃ,tʃ} ʃ tʃ
+1: Vː → V in certain frequently-used words
+1: {ew,ow} → ou → uː
+1: xk → ɡ
+1: u → əw / _V “(also cases of (C)u → w /__V)”
+1: {om,on} {em,en} {oːm,oːn} {eːm,eːn} → ɔ̃ ɛ̃ õ ẽ
+1: ʂ → s “(sometimes remains allophonically in word-initial position before back vowels, but not consistently)”
+1: k ɡ → ∅ {∅,ʒ} / V_{i,e} (ɡ → ʒ is learned)
+1: ʔ → ∅ / V3R_C
+1: m → u / a_nV
+1: ɬʷʲ(~ɬʷː) → ʃ
+1: ai̯ au̯ → ɛ ɔ
+1: jʰ j → h ∅ / _i
+1: {e,ɑ,o} → ə → ∅ / _#, when unstressed (it appears this sound may also have gone to /ɪ/)
+1: e → ɛ / _nt
+1: — aw aj → əw əj / _#
+1: — jV → ∅ / Ci_(H)#
+1: x → w / a_o
+1: kʷ → ∅ / C_C
+1: t → ∅ / _k(ʷ)
+1: j → ∅ / s_ (sː_?)
+1: p → w / V_V (Marathi)
+1: hs hʃ → sː ʃː / sporadic, usually {#,V[+front]}_
+1: ʈʂ {ʈʂʼ,tɬʼ} → ts tsʼ
+1: tsʲʼ tʃʷʼ~ʃʷʼ tʃʼ tɕʼ tɬʼ kʲʼ → ɕʼ fʼ ɕʼ {ɕʼ,cçʼ} ɬʼ tʃʼ
+1: k ɡ ɡʱ → c ɟ ɟʱ / _e,i,j
+1: {k,ɡ} → ∅ / B_a
+1: k ts → ɡ dz / n_
+1: Cʲ → C {Ạ,F̣}_
+1: *H → ∅ / S_
+1: x → ∅ / _r “in the word ‘robak’”
+1: m → ɲ / i_#
+1: — a → a / _N (Rouergue, Limousin, Auvergne, Dauphiné)
+1: t → ð / ! adjacent to S
+1: y ø → i e / else
+1: {ɛ(ː)jɛ,ьjɛ,ɔjɛ,ujɛ,ɨjɛ} → ɛː
+1: ɣ → ʔ / VV0_V0 ! V0 = U
+1: d → ɾ~d / V_V
+1: j → l
+1: l → j / #_iC ?
+1: e → a / _{h2,h3}
+1: ae → ɛ / stressed
+1: ɾ → l / _$
+1: aCV[+ high] → ɪ / when stressed unless primarily stressed
+1: β ɣ → f h / _%
+1: u → o / ! o(C…)_(C…)#
+1: s → r / _#
+1: i → u / _(C)u
+1: ʍ → w (regional)
+1: oː → a / _n%
+1: oCa → ɔCɔ
+1: xk → kː (even across word boundaries)
+1: θ → ɬ
+1: Uwi ewi → oː øː
+1: q → {q,ɡ}
+1: æ → ʌ / P_Cu
+1: zʐ → ʐɖʐ
+1: O[+nas -voiced] → O[-nas] / #(C)VC_
+1: Vː → V (sporadic? conditioned?)
+1: aj → i
+1: n → l / #_Vb
+1: wa → u / #_
+1: nn̥,n̥n → n̥
+1: ə → {a,ɨ} (→ ø in the Northway dialect)
+1: ts → s / _(h)r
+1: {ʃ,tʃ} → s / #_
+1: e → i / #(C)(C)(C)_(C)(C)(C){i,j}
+1: s ʃ → ⁿs ⁿʃ / U[-nas] (highly sporadic)
+1: {tʰ,d} {k,ɡ} → r {h,∅} / {C,V}_{C,V}
+1: au → ɔ
+1: ts {tsh,tʃh} → tʃ tʃʰ
+1: {eː,iː} → i
+1: we → o / #_
+1: hh h → h ∅ / ”Vː_u
+1: s → ʃ / i_
+1: n → l / #_V{m,b}{s,ʃ,h}
+1: — ai → ɛi → əi / when stem-final
+1: b d ɡ → p t k / #_
+1: ts → {ts~tsɦ,s}
+1: — tst dzd → ts dz
+1: l → ∅ / tʰ_
+1: ɡʱ → ɡ / ŋ_
+1: t → d / #_
+1: tsʷː tsʷʲ → tsʷ (tʃ)
+1: u oː aː ʏɪ {y,i} {y,i}ː æː eː ey → ʏ ou au ai y ɪ i je ei
+1: rl → lː
+1: ɣ → {qː,ɣ} (again, probably a difference in the development of *ɢ than this strict sound change)
+1: {u,i} → ∅ / C”V(C)_
+1: z → {s,j}
+1: n → ⁿd / _{V[-nas],r}
+1: f → ∅ / Vː_V
+1: d → l / _# (some dialects)
+1: {ʃ(ʷ),x {z,ʒ(ʷ),ɣ} → s j
+1: {iHn,eHn,aHn} uHn → ã ũ
+1: V → ∅ / ”V%_(C)(C)V(C)# (“irregular; e is kept before n”)
+1: o → ə / _n
+1: l → u / {ɔ,ɑ}_
+1: — e → i / _Cj ! C = p
+1: F → F[+ voice] / #_ ! F = ʍ
+1: *j → d
+1: l → ʎ / _{i,j}
+1: ɕ x → ð h
+1: r̀ → r̲
+1: ɑ → ə / VC(C)ɑC(C)_# when unstressed
+1: T h2 → D h3 / ”Vː
+1: V0xV0 → V0ː
+1: — t → ∅ / _m
+1: i u → e o / _Cɯ#
+1: n → ∅ / _ti
+1: e → o / _ɫ
+1: eː øː oː ɤ(ː) → iːe yːø uːo ɨ(ː)
+1: {ɨɔ,ɨ̯ɔ} → ɔː
+1: q → ʔ / _C[+dental]
+1: {TŠ,TŠʷ} K → TS TŠ
+1: i → a / Cˤ_{q,ɣ,ʕ}
+1: j → ʝ → ʒ → dʒ (northwestern Biscayan)
+1: k → ts / _E (ɡ → dz here?)
+1: ɲj → n ∅ / ʔ_
+1: h → ∅ / _l
+1: {kʰ,ɣ} ɡ → x k
+1: æ → e / ! _{Ḱ,Cʲ}
+1: ɬʲ(~ɬʲʼː) → ɬ
+1: f → ∅ / _{l,b,v,n,#}
+1: hh → ∅ / _{w,m,n,r,l} “medially, and sporadically”
+1: h → ∅ / ! _C
+1: w j → ɡʷ dz / _V
+1: ˀw → w (may have remained glottalized)
+1: kʰ → kx
+1: ɛj(ə) ɪj(ə) i eɪ → ej(ə) ij(ə) ɪi ɛi
+1: aj → ai → eː (in rustic dialects)
+1: e → {a,i} / #_
+1: ɔ → ɤ / _{t,r}# (possibly also _s# dialectally)
+1: aj aw → eː oː / in U[+closed]
+1: a → e / stressed, usually when Ḱ_
+1: V → i / C”iC_
+1: ɒ → {ɛ,e} / _CːV (V can be a syllabic consonant)
+1: {u3~ə3} → a3
+1: dʒɲ → ɲː / V_V
+1: b → ∅ / V_V
+1: sr → ʂ / #_
+1: o(C)V[+ high] o(C)V[+ mid] o(C)a → ɵ(C) o(C) ɔ(C)ə
+1: ? → o / _ŋ
+1: kʂ → hk
+1: a → ∅ / CC_U#
+1: e iː → ɛ i(ː)
+1: ɟ → k / _C#
+1: V3ʔ → V3(ː) / _#
+1: r → h / C_
+1: w → ∅ / k_a
+1: k ɡ → tʃ j / _E
+1: (ɛ)au → ɔ
+1: a → æ “(in some forms; environment and conditioning unclear)”
+1: v ʁ → f χ / S_
+1: ʔ → ∅ / V3_O
+1: sː ʂː ɕː → t.s t.ʂ t.C
+1: l → r / _#
+1: e → a / i_(C…){a,e}#
+1: ɕː tɕː → ɕ tɕ
+1: ∅ → s / t_j
+1: a → ɛ / in U[+open] “(but a following ʎ creates a [closed] syllable)”
+1: w → ∅ / {#,C}C_
+1: h → ∅ / k_{s,ts}
+1: kʷ ɡʷ → k ɡ / #_{i,e}
+1: TŠ TŠʷ Q → TS TṢ K
+1: θ ð → t d
+1: x → w / {U,O}_C
+1: tsʼ → {sʼ,tsʼ} : {ɬ,tɬʼ}
+1: t → ∅ / #_VrC
+1: t → dʒ / #_{æ,ø,y}
+1: lm → ml
+1: ue̯ → u / _C%
+1: w → x
+1: xʷ → x(ʷ)
+1: pʷ mʷ → w m
+1: tʃʷ(ʼ) tɕ(ʼ) tɕʷ(ʼ) dʒʷ dʑ dʑʷ → f(ʼ) ts(ʼ) tɕʷ(ʼ) v dz dʑ
+1: *j {*D,z} → r d / V_V
+1: ɡd ɡl → dː lː
+1: ɛ → ı̃ / S_#
+1: ɔ → uo / stressed ! j_ or _{dʒ,L}
+1: ttʃ ddʒʱ → t.ʃ d.ʒʱ
+1: ŋ → w / _C ! _k
+1: χ ʁ → ʃ {ʒ,j} / _{u,i,j}
+1: ja → i
+1: ɬ ʃ ʂ → ∅ {sk,ʃk} ʃ
+1: p → {k,∅} / _w
+1: {h2,h3} → ∅
+1: {z,*Z,*j} → d / V_V
+1: β → f / else (rarely)
+1: {j,w}V[-long] → ∅ / C_# in disyllables with Vː or in tri(-plus-)syllables
+1: U[-long +low pitch] U[+long -low pitch] → U[+long] U[-long]
+1: N → ŋk / _V
+1: a → e (rare?)
+1: u̯ɨ → ɔ / m_
+1: {ɬ(ː),xː} → x
+1: dj → dʒ
+1: u ũ → y ỹ / _{s̻,ts̺,ts̻} (but not _s̺) (Souletin)
+1: ə → ∅ / unstressed, but not in every case
+1: — d → w / _V#
+1: ẽ ı̃ ũ → {ẽ,e} {ı̃,i} {ũ,õ}
+1: k ɡ → tʃ dʒ → ts dz / _{j,i,e,ɛ}
+1: h → ∅ / k_{s,ts,tʃ}
+1: e → i / #l_{P,C[+voiced]}
+1: n → l
+1: t → ∅ / i_
+1: {ɡ,ɣ} → {ɟ,ʝ} / {E,j}_
+1: {au,eu,ou} → ∅
+1: b d ɡ → p t k / {#,C}_
+1: j → dʒ / _”E (in the west)
+1: e → i / _{s,#}
+1: — {eː,i,oe} → é
+1: k → ∅ / _N
+1: tʃʷ(ʼ) tʃʷː dʒʷ → tʃ(ʼ) zʷ dzʷ~zʷ
+1: sʷ zʷ {ʃ,ʂ} {ʑ,ʐ,ɣʲ} ʑ χʲ → f v ɕ ʑ ʑ~ʒ χ
+1: a → u / %u / ! in #U
+1: u → ∅ / o_
+1: sɡr → skr
+1: ɨ → {u,i}
+1: ∅ → p / m_{s,t,l}
+1: u → o / _ŋ# “(sporadically failed to occur)”
+1: k → s̪ / _{ɨ,u}
+1: ɨ̆ i̯o → u ə
+1: s → s3 / V_(V)
+1: fortis → aspirated / “in a prominent position” (i.e., word-initially?)
+1: {u,o(ː)} → u / _%”V in East Catalan
+1: V → Vː / in #”U
+1: ∅ → t / {N,L}_S
+1: t → {∅,t} / #_
+1: a → {aː,ə} “(the environments for these respective changes are somewhat unclear)”
+1: ə → ∅ / ɨ_j
+1: u a → ʊ ɛ / _CV[+ high]
+1: {B,E} → ∅ / CC_{ʀ,s,t,θ}# ! B = ɒ
+1: tʲr → {st,ʃt}
+1: hs → sh / _{n,w}
+1: mʷ ɲ → ŋmʷ n
+1: ŋ → {∅,j} / #_
+1: y → u (some mainland Greek dialects, and Tsakonian; this particular sound change has been said in some places to be impossible) (https://en.wikipedia.org/wiki/Tsakonian_language#Consonants)
+1: ø → ʌ / P_Ce
+1: {a,o,ə} → o
+1: i u → ɛ ɔ / _CV[+open-mid](C)#
+1: p v m → t θ n / _{a,e,i}
+1: u → {o,ɒ} / _CC
+1: t → ∅ / _s
+1: {B,E} → ∅ / _U# ! B = ɒ
+1: p → k / u_#
+1: ɓ ɗ → b d / ! _{l,r}
+1: {aja,ɔja} {ɔjɛ,ɨjɛ} ɨjɛ → aː ɛː iː
+1: pw → upw → up → ub
+1: — mn → ɲ (sometimes)
+1: e → i / _ɡ
+1: {bl,tl} → ʈ (?)
+1: h → ʔ / _ã
+1: kʰ → ɡ / {C,V}_h
+1: Vnˀ → V[+ nas] / _#
+1: {eh3,oH} → oː
+1: p b t d k ɡ → β {β,w} ∅ {j,w} ɣ {j,∅,ɡ} / V_rV
+1: ai oi ui ei au ou iu ɛ(o)u → eː oe əi iː {ɑː,ɔː} ʌu ju j(ʌ)u
+1: a → ∅ / _V
+1: x3 → ɡ / V_#
+1: ɲ → n (except possibly to n when #_)
+1: j → ∅ / CC_
+1: r̀ → r / V_{V,C}
+1: wa ja → uə̯ iə̯ / C_
+1: R → {ɡ,r} / _#
+1: øː → wi / {k,ɡ}_ (in Mid Northern dialects)
+1: a(C)V[+ high] a(C)V[+ mid] aCa → ɔ(C) a(C) {ɔ,a}(C)ə
+1: iw ij → iu ei
+1: n → nʲ
+1: Ci → Cʲ / _# ! R…R_#
+1: VɪC → VCʲ
+1: {a1~i1} → {ə1,ɛ1}
+1: — e → a / _Ra (short a only), though “[t]he e was often restored by analogy”
+1: ih1 i{h2,h3} → jə jɨ
+1: Vn → Vː / _s
+1: — r → s / _s
+1: e V → o ∅ / _? (irregular)
+1: — i → ɛ / _{r,h,ʍ}
+1: tʃ k → {i,s} {∅,k} / _m
+1: i → e / #_sC
+1: uəi → uai
+1: — eh1 eh2 eh3 → eː aː oː
+1: ʈʂ → t / _r̝
+1: z → c (again, possibly evidence of a change from POn-PAn, if it existed)
+1: ǁˀ → {ǁˀ,ǁ}
+1: {t,dʱ} → ts / _y
+1: ə → u / _h#
+1: kʰ → h / _a
+1: t s → tʃ ʃ / in diminutives
+1: u(C)V[+ high] u(C)e u(C)o u(C)a → {u,i}(C) u(C)ə e(C)ə {u,ɵ}(C)ə
+1: ts ts’ → s ts’
+1: oi → wɛ → wa
+1: ts x → s h / _C
+1: j → ʝ → j (northern High Navarrese, most Labourd, some Biscayan)
+1: ɛ̃(ː) → ã(ː) / w_
+1: ɡ(ː) → dʒ / _iV
+1: o(ː) æː → a(ː) eː
+1: s → s~t
+1: ʃ ʒ → ʂ ʐ
+1: kʷ ɡ → ∅ k
+1: h → h~j
+1: tʃ → ts / _q
+1: (N)t (N)d st sd KT çT tr dr çtr → (N)tʰ mt zd st kt çt(j) trh tr çtr
+1: e → ə / ou_#
+1: {a,o} → e / _(C…)i(ː)
+1: V3ʔ → V3(ʔ) / _O
+1: ɡ → j
+1: sːj (m)nj lj rj → jʃ ɲʎ jr / V_V
+1: h → ∅ / ”Vː_u
+1: ʔ ts → ∅ {s,ʃ}
+1: æː ɑː ɔː → æə~eə ɑ ɔ
+1: r̝ → ʂ / _C[+voiced]
+1: ẽ → i / in U[+long -stress]
+1: k ɡ → tʃ dʒ / _a
+1: p d → ɸ ɾ / V_V
+1: e → a / else
+1: {θ,ð} → d
+1: tʃ(ʼ) dʒ → tsʲ(ʼ) dzʲ
+1: l → i / {p,m,k(ʷ),w}_# “in all dialects, and varies by dialect after other consonants”
+1: s̪ → θ
+1: d ɡ → ð ɣ / V_V
+1: Vn → V[+nasal] / _C?
+1: {aːi,oːi} → {æː,a} (the former seems to be more common)
+1: a e o i æ ø y → {a,i,e} {a,e} u {o,u} e {ø,y,o,u} {o,u} / _Co
+1: — oː ej → aː eː
+1: {ǁˀ,ǁxʼ} → ǁ
+1: n → r / ! at word boundaries
+1: v → ∅ / x_o
+1: V → Vː / _S[+voiced]{S[-voiced],F[-voiced]}; “(i, e, and o sometimes bypass this)”
+1: kʼ → q
+1: tʼ qʼ → t q
+1: {i3~e3} → {i3.ə3}
+1: a → ɛ / {t,n}_#
+1: θː ðː → tː dː
+1: tɬʷʲ tɬʷʲː tɬʷʲʼ dɮʷʲ → f dʑ tsʼ dʒ
+1: e → i / A_, when unstressed
+1: õ → ũ (Souletin)
+1: b C → b̚ ɡ̚ / _#
+1: ɭ → lʔ / _#
+1: ʈʂ → ʂ / _p
+1: h2e → ə / _#
+1: æ ɛ ɪ → ɛ e ɨ
+1: {i,j} → dʒ / Vr_V (“dialectal”)
+1: ŋʷ → kʷ / #_V[-nas]
+1: ŋ → {ŋ,ɡ} (ŋ remains when _i)
+1: i u → e o / _C{C,#}
+1: ʊa → o “especially after a velar stop”
+1: p → b / _rj
+1: TS → TH
+1: ɗ → n
+1: ũ → aN / stressed
+1: tʲ dʲ sʲ zʲ nʲ rʲ l lʲ → tɕ dʒ ɕ ʑ ȵ r ɫ l (this last probably not before /i/)
+1: V → ∅ / _# “(except in monosyllables or after another vowel)” ! V = a
+1: t → ʔ / _#
+1: ə → a /
+1: ɬ(ː) xː → xʲ x
+1: — p…kʷ → kʷ…kʷ
+1: V → ∅ / V{k,ʔ,h}_#
+1: qˤʲʷ {qˤʲʷː,qˤʲʷ} ʁˤʲʷ → χʷ qʷʼ w
+1: {l̩,r̩} → ər(ə(r))
+1: V → ∅ / _#, often
+1: j → dʒ
+1: j → ∅ / {ʃ,ʒ}_V[-nas]
+1: {d,n}ʲ sʲ → j ʃ / #_
+1: EːBː Eːaː → joː jaː / {v,w}_
+1: æ(ɑ) → e
+1: ({C,#}V[-long])ʔ → ({C,#}Vː[+falling tone])∅ / _C
+1: z → j
+1: kt ɡd → _E
+1: ts → tʃ / V[+high]_
+1: nd → n / _# (in western areas and for some speakers of Limousin)
+1: There seems to ahve been some stuff going on with palatalized [ŋ] → {ɲ,n} but it seems highly dialectal and I’m not entirely sure just what exactly was going on here
+1: ɔː → ɔ / _F[-voiced]
+1: ɫ → w / V_Ca
+1: R q → r h
+1: — p → w / B_N
+1: k → ∅ / n_t (sporadic)
+1: s → ʒ / V_C[+voiced]V
+1: qʲʼ ʁʲ → ʔ ʁ
+1: i → iɛ / _s
+1: s → ʃ / _{i,e}
+1: Cʲ → C / _C[+dental] with developments of yers in ablaut environments
+1: e → i / “conditioning undetermined”
+1: ∅ → h / #_V (“it isn’t clear if this happens unconditionally”)
+1: ʔv ʔm ʔɡ ʔr → t p k v
+1: t tʲ s → d ʒ z / in U[-stress]
+1: z → ts / r_
+1: t → ∅ / n_V
+1: ŋ → {∅,n} #_ else
+1: Vr → Vː / _C
+1: V[- high] → ∅ / {ɔ,ɛ,ɪ}C_
+1: RO → OR / C_V
+1: i → ∅ / _# “in the infinite and imperative desinences. . .some verbs have never been affected due to a potential ‘difficult’ cluster that would result, instead they got an analogical final -j extension”
+1: ɖʐ → ʈʂʼ / “in píng-tone syllables”
+1: s → ɾ / _θ
+1: t ts k kʷ → d dz ɡ ɡʷ / _V
+1: qː~χ qʷː~qχʷ → qː qʷː
+1: {e,o} {i,u} → a ə
+1: ɓ → ɸ / medially
+1: uɨ̯ ua̯ → ɨə uɔ̯ → ɨː ɔː
+1: it ik → o ek
+1: sː xː → {sː,h} x
+1: ut uk → ud oɡ
+1: ʃ θ m → θ t w / _o(ː)
+1: plv → pf
+1: Vh → Vːɦ / _C, except maybe ! _j and/or _ʋ
+1: ts → tʃ
+1: u {o,ɒ} a au juː → y ø æ æy yː / _(C)(C)(C)i
+1: ɕʷ ɕʷː ʑʷ → ʃʷ sʷ ʒʷ
+1: a(C)i a(C)u → {a,ɛ}(C) {ɔ,a,ɛ}(C)
+1: u → ʏ
+1: ç → ʔ (? Not sure if I’m reading the phone(me)s right on this one)
+1: e a u {ə,ʊ} → a u i ə
+1: V[-long] → ∅ / _hV
+1: w → ∅ / _{o,õ,ı̃}
+1: ti di → s j / _V
+1: χʷ ʁʷ → ħʷ ʕʷ
+1: ks → ʃ → s / _m
+1: b C → ∅ d / _#
+1: b → v / V_{V,r}
+1: uː → ɨ
+1: h → ∅ (colloquial)
+1: t → ∅ / r_k
+1: VNV → ṼṼ / ! _(C)#
+1: d → ð → j / V_
+1: w → f / #_
+1: u i e a → y e a o
+1: N → n / _{v,k,s}
+1: ʃ → s / _{ik,e,ı̃,ẽ}
+1: χ → ∅ (?)
+1: ə → o / {p,m}_x
+1: tj → s / C_
+1: t ᵐb ⁿd {k,ᵑɡ} nj → {r,t} p {d,t} ɡ r / V_V
+1: ɣ → ɡ / #_Vx$
+1: ʀ → r / C_n
+1: u → uː / #S[+voice]_P[-voice]
+1: {ts,st} dz → s {tsːʼ,z}
+1: — uCV[- high] → oC
+1: uʔ → oʔ (occasionally → uɛʔ?)
+1: β ð ɣ → b d ɡ / {m,n,ŋ,l}_
+1: “In contrast, Romanian exhibits u, uː → u (and ultimately also ɔ, oː → o); and Sardinian and African Latin underwent a straight merger of the vowels by length without considering quality (e, eː → e; i, iː → i; u, uː → u; etc.)”
+1: θ → s / _O
+1: fl → ʎ (sporadic)
+1: zʷ → ʑʷ~ʒʷ
+1: ɣ → x
+1: Lʲ → t / #_ã (*)
+1: n → ∅ / _i “(in pronominal prefixes only)”
+1: β → u / _j (in western dialects)
+1: β ð ɣ → v θ h
+1: n → l / #_(V){s,ʃ,h}V{m,b}#
+1: pʷʲ bʷʲ → tʷ dʷ
+1: — a → o in most dialects except Gascon and Languedoc; final -as remained in “Limousin and some others”
+1: ə → ∅ / _%
+1: b → m / _j
+1: l → d / n_
+1: lð rð → lː rː
+1: ʃ → s “(for many speakers)”
+1: {θ,l} → r → n / #_ (and possibly in other places as well)
+1: ъ → aː / _r
+1: kj Nkj ʔkj ɡj sɡj → kj. nj ɡ.tsʰ kj skj.
+1: ŋ → ∅ / #_
+1: AO → {A,O,U}ː / unstressed
+1: qu → w / _{f,s} (sporadic)
+1: dj → dʒ → ʒ
+1: aj aw ew → {eː,aː} aː ja
+1: a e {o,u} æ ø y → {a,o,u} {e,a} {o,u} {a,o,u} {e,i,u} {i,o,u,y,ø} / _Cu
+1: ts tsː → s ts / V_
+1: kʷ → w
+1: p → ∅ / #_p
+1: t tʰ tʼ → tʃ tʃʰ tʃʼ / #_ “(in some words, conditioning factors unclear)”
+1: iji → iː / U[- stress](C…)_
+1: — oCV[+ high] → øC
+1: tʃ’ → θ’ / medially
+1: ts → hs / V_ ! _{h,i,j,r}
+1: a → ∅ / _dʒa, except in #U
+1: nd {lː,ld} → ɳɖ ɖː / V_V
+1: b → ∅ / m_s
+1: tʃ → s / _i
+1: œ → eː
+1: p pw t̪ ʈ c → v (v)w r l j / V_V
+1: c → s / #_{a,u}
+1: es er → or ər
+1: k(ʰ) kʼ q(ʰ) qʼ → tʃ(h) tʃʼ kʰ kʼ
+1: m → w / _ã
+1: jʰ → θ
+1: a → ∅ / _i, when unstressed
+1: ə → a / _x “[i]n a nonrounding environment”
+1: ɣ → ɣ~ɡ
+1: h → w / _{o,u}
+1: tj → s / C_V
+1: ʄ C → c R / #_
+1: o a → {u,o} {a,e}
+1: eh2 → æː / “tautosyllabic”
+1: ∅ → j / _iw#
+1: tʲ dʲ → t d / _{l,n,ɲ,r,ʐ}
+1: i → a / _(C)a
+1: n → (ⁿ)d / $_V[-nas]
+1: V → V[-voiced] / _h “(odd syllables only)”
+1: ɛː → eː → iː
+1: y(ː) ɔː → i(ː) ɔ
+1: m → n / V_#; “[i]t is thought that the vowel needs to be unstressed, but this is not certain”
+1: {s,z} → ∅ / {r,ʀ}_N
+1: i → e / tʃ_
+1: ∅ → b / m_r
+1: s → ∅ / n_#
+1: {e,æ}b ub → ew uw
+1: t → {ts,tʃ} / _{i,ı̃}
+1: ʔ → ∅ / _u (not always? Perhaps some variation with [ɣ] here?)
+1: — ts → tʃ / _{(h)i,(h)j}
+1: tɬ tɬː tɬʼ tɬːʼ → k {xʲː,kː} kʰ {ɡ,q}(?)
+1: ɡ ɣ → k kʰ
+1: — iː oː → i ó
+1: f → j / else
+1: æː(ɑ) eː(o) → ɛ iː
+1: R → {∅,r,j}
+1: æː → ɛː (includes diphthongs)
+1: sk x → ɕtɕ ɕ / _E
+1: tʃ(ː) dʒ → ʃ tʃ
+1: dʱ → b / uː_
+1: kʷ → j{v,u} / V_a
+1: ts → tʃ / #_
+1: (W)V → ∅ / _#
+1: sʼ → s
+1: l → j / {k,ɡ}_
+1: dʱ → b / _Vr
+1: ∅ → ʔ / (C)V_CV
+1: ɢ → ʁ
+1: j → ∅ / _C
+1: r → ∅ / m_m
+1: — SS → sː
+1: ɛ i → eː iː / _u
+1: {ks,nts} nt → s t / _#
+1: t → dʒ / _E[-stress]
+1: dʒ q → ɡʲ ɢ
+1: p k → k ∅ / _w
+1: ∅ → d / {n,l,ɲ,z_r
+1: tʲr kr → ʃt l
+1: iː yː → ɛi œy
+1: — əw əj → i u / _#
+1: ɣ → q (more likely, *ɢ → q instead of → ɣ)
+1: dz → ɟ
+1: ew → i
+1: ∅ → dz / _î
+1: {a3~i3} → ɛ3
+1: ∅ → w / _o
+1: ts → {h,j,∅}
+1: ts → {tʃ,∅}
+1: p → h / #_
+1: ŋʷ {kʷ,hʷ} → m p
+1: {l,r}w {n,ŋk,ŋɡ}w → lɡʷ ŋɡʷ → lɡ ŋɡ
+1: p b çp çb sP rP Np Nb pr {br,pj} bj → pʰ p ʝb çp sp rpʰ mpʰ mb br pʰj pj
+1: p → kʷ / else
+1: s → ʃ / _E (E_ also?)
+1: r̥ → r̥ / “literary”
+1: stʃ → (i)(t)ʃ (for western and extreme eastern regions)
+1: h → ∅ / V[-stress](X)_V
+1: x {ɬ,tɬ} → h j
+1: {ʃ,ʒ} → w
+1: aN eN iN ɨN uN → ã ẽ ı̃ {ɨ̃,ĩ} õ / _#
+1: kr → dz
+1: i → ɯ / {R,kr}_%
+1: au → {u,o} “sometimes”
+1: p t k → f θ x / {r,l}_
+1: ʃʷ ʒʷ ɕʷ ʑʷ → {ɕ(ʷ),ʃ(ʷ)} {ʑ(ʷ),ʒ(ʷ)} {ɕ(ʷ),ʃʷ} {ʑ(ʷ),ʒʷ}
+1: p b t d k ɡ → b v θ ð x ɣ / non-intial singletons
+1: t d → t~ɾ~n n / #_
+1: {TŠ,TŠʷ} K Q → TS TŠ Q
+1: d → t / _{l,r}
+1: e → a / {h2,h3}_
+1: ɾ → ɡ
+1: h → x / _{p,k}
+1: i u → s̩ f̩ (Ōgami) (http://amritas.com/101023.htm#10192359) 
+1: ɒ → ɔ / _C(ː)C
+1: ŋ ŋʷ → k m / _V[+nas]
+1: e → i / _{nk,ŋ} when stressed (irregular)
+1: Vː → V ?
+1: æ ɪ → e i / _ŋ; some speakers (esp. in southern regions) may also have pin-pen and “a single phoneme in contrast to the nasal diphthong [ãɪ̃] of the U.S. Northeast” (though the article doesn’t specify what this is; maybe it’s just plain ã)
+1: b d ɡ → m n ŋ / _C
+1: {y,i} → ɪ
+1: — u → o
+1: aː oe → a e
+1: ʃ {θ,t} m k → s ts tʲ bʲ / _{i(ː),j,#}
+1: {a,ɛ}i əj → e i
+1: ∅ → {ɨ,ʉ} / to break up clusters
+1: an {at.is} → o ie
+1: {ç,x} → z (sporadic)
+1: kʷ → w / _eːj
+1: V[+ mid] → a / near nasals?
+1: ʔ → ∅ / V3l_nV
+1: p q → v ∅ (in general, seems like there was something going on with conditioning in the case of *p?)
+1: x(ʷ) → x
+1: hw → ∅ / ! #_
+1: r → ∅ / _t
+1: ɢ(ʷ) → x(ʷ) / else
+1: {a1~i1} → æ2
+1: k → h / _k
+1: V → ∅ / s_C when unstressed and not at a word boundary (sporadic)
+1: k kʼ → {k,tʃ} {kʼ,tʃʼ}
+1: {dj,ɡj} lj {nj,ɡn} → dʒ ʎ ɲ
+1: r → {d,n}
+1: iw uj → {i,?} i / _#
+1: — Vː[+falling tone]C(C)V(H) → V̊ː[+falling tone]C̊(C̊)V̊(H̊) / _#
+1: ɗ → t / #_
+1: p t k s ts → b d ɡ z dz / V_V
+1: p k → f x / _t
+1: r → ∅ / n_
+1: i → ∅ / C(w)_a
+1: e {uj,iw} → o i
+1: N → S / V_V
+1: z → ∅ (seems to have been complete by the Sixth Century)
+1: C → ∅ / {s,k}_#
+1: ɛj ɔj → jɛj uei / i {u,ui} / stressed
+1: nː → n / _C ! _j
+1: d → d~n~l / #_a
+1: S1 s d2 *C → s θ ð ts (not sure what *C stands for here)
+1: aj → ui
+1: eu ou → iu au
+1: z r → s r̥
+1: ∅ → dz / îV
+1: {tʃ(ʰ),dʒ} → ʃ
+1: s → j / V_{V,#}
+1: u → i / _{s,t,r,n,l} (blocked in Pusu)
+1: ó → ou / in U[+closed]
+1: sj → jʒ / V_V
+1: t → ∅ / _#
+1: nʲ tʲ kʲ k → l tʃ k q
+1: ьl → il / P_
+1: K → TŠ / in Mentasta Ahtna
+1: ʔ h → ∅ x
+1: ɛ e i → eː a iː / _u
+1: {æ,e}ː(w(a)) → aː
+1: iaɔ → iu
+1: {v,ʔ} ð → ∅ j
+1: — V → ”V / ”VSr_
+1: n → ∅ / _r
+1: lʲ → d / #_
+1: e o → i u / #(ʔ)_C$
+1: k(ʷ)ʼ → {x,k}(ʷ)ʼ
+1: s → ʃ / _C[+alveolar]
+1: ɣ → j
+1: {a(ː)u,o(ː)u} e(ː)u → u ju
+1: mn → bθ / {C,V}_{C,V}
+1: ! → !~k
+1: {m,w} → v
+1: tj → ts / ! following a coronal obstruent or “before a derivational suffix”
+1: ’p ’t ’d/d2 c {’ɟ} ’k ɡ → f l ɟ s ∅ {w,∅} {k,w} / in C1 position
+1: ᵐb ⁿd ᵑɡ → b n k / V_V
+1: oi o → i ъ / “Sometimes in final syllables”
+1: w j → ɡ dʒ / _V
+1: u̯ɨ → ɨ
+1: ð → ∅ / {l,r,V}_C
+1: k → q / an_
+1: bl → z
+1: sj → ʒ → (i)(d)ʒ (in some northeastern, northern, and western dialects)
+1: (C-)r- → l-
+1: s t d(ʱ) n → ʂ ʈ ɖ(ʱ) ɳ / _C̣
+1: w → ∅ / h_i
+1: t → d / V_rV
+1: V% → high rising
+1: h → ∅ (western dialects)
+1: m n(ʲ) → b j / #_
+1: ɛ → i / n_#
+1: t → ∅ / ʈʂ_v in “czworo”
+1: w → ∅ / {p,m}_#
+1: ʋ̃ ɪ̃ → ũ ı̃ / #N[-labial]_
+1: ɕ ɕʷ ʑ ʑʷ → s {ʃʷ,ɕʷ} z {ʒʷ,ʑʷ}
+1: i → ∅ / V_ (with a few exceptions)
+1: ð → ∅ / n_ ! ɡ_
+1: f → h
+1: ∅ → w / #_{C[+round],V[+round]}
+1: t → ∅ / p_{ɡ,ɣ,n}
+1: t d(ʱ) n → ʈ ɖ(ʱ) ɳ / C̣_ ! _r
+1: j → ʒ / {#,ʔ,V}_V
+1: p → b / #dlV_
+1: eː → ei / j_
+1: iː oː oʔ → eː uː uʔ “[blocked when iː or a C+G sequence follows anywhere in the word, but does apply if æ(ː) intervenes before any following iː or C+G]”
+1: S → [+ voice] / {V,R}_V
+1: {ui̯,iu̯} → e
+1: eː → ia / _{#,Cʲ} when stressed; “ai and oi remain, but are written as <ae ai oe oi> seemingly randomly”
+1: ɪ → i / _# when unstressed
+1: iw → jo
+1: {xʲ,j}ʔ {x,ɣ}ʔ → ∅ h(ʔ) / _#
+1: C[- voiced] → C[+ voiced] / V_V
+1: N → m. / _ŋ
+1: oy ay ey → ɛi ai əj
+1: ʀ → r
+1: woː wøː jæː Vː → wo wøje V[- long] / _%
+1: kl kr → {kj,tʃ} kʰj
+1: tʷʲ tʷʲʼ → ts tsʼ
+1: V5 → V4 / in syllables with a nasal or liquid
+1: h → j~ʔ / _E
+1: aː → oː
+1: tl → tː
+1: kh qh → kʰ qʰ
+1: u → i (“sporadic”)
+1: — aCV[+ high] → {ɛ,œ}C
+1: au → (ɔ)u
+1: ɹ → z (only seems to have occurred with first-register tones)
+1: {s,c} → t
+1: t̪ ʈ → r l / _#
+1: V → Ṽ / _N
+1: eː oː → i u
+1: ubu aba → uː aː / when stressed
+1: w → ɣ (sporadic, conditioning unknown)
+1: s → ∅ / V_V
+1: nː → ɲ(d)
+1: q k → {q,k} {k(ʃ),tʲ} (allophonic)
+1: {ɨo̯,ɨa̯,ɨe̯} ie̯ → ɨː iː
+1: {t,d} → ð → i / _r
+1: em emˀ → u uʔ / w_ in U[- stressed]
+1: f → ɸ / Pije and Fwai
+1: e(ː) → i(ː)
+1: p → h / else
+1: j → ʝ / #_V
+1: fortis → [- voice] / else
+1: h3e o → o ɛ
+1: tʰ → d / #_(V){lʲ,r(ʲ)}
+1: t k → l ∅ / V_V
+1: e eː → a aː
+1: — øː → (j){u,ʌ} / _{k,x} (outcome varies depending upon dialect)
+1: d~ð → ð / V_V
+1: kʲ kʲʼ ɡʲ xʲ → ts tsʼ dz s
+1: q → χ
+1: {r,w} → ∅ / _j
+1: j → d / _V[+low]
+1: v → u / V_V
+1: ∅ → ʔ / CV[-long]_#
+1: iji ɨjɨ → i ɨ
+1: {s̪,s} → h / _$
+1: c ɟ → tʃ dʒ (much less widespread than in Gheg)
+1: ð → s / _i
+1: ʂ → ∅ / _{a,i}
+1: ɡ → ∅ / #_r
+1: Vː → V[- long] / _CC (some exceptions; the change was more common around _xt and _rC)
+1: ɾ → ∅ / V_V
+1: a → o / _{P,Cu}
+1: {b,v} → ∅ / V_{V,t}
+1: dʲ → ∅ / r_n
+1: tɬ tɬː tɬʼ tɬːʼ dɮ → {∅,x} q {∅,qʼ} qʼ {ɣ,l}
+1: V → ə / unstressed
+1: “The PIE rules for the voicing of s → z, as in [nizdos] for *nisdos, are assumed to apply”
+1: m → h / _p
+1: d → ∅ / _j
+1: ʃʷ ʃʷː ʒʷ → sʷ ʃ zʲ (this final change is marked as dubious)
+1: Eβu Eβo → juː joː
+1: s → ʃ / ”V_k
+1: kʲ kʲʼ ɡʲ xʲ → ts tsʼ dz {s,ʃ}
+1: aː eː iː oː uː → a ɛ i o u / _#
+1: V0V0 → V0 (irregular)
+1: kʷ → w / else
+1: — j w → i u / #_CV
+1: {kl,ɡl} → ʎ / V_V (the latter is irregular)
+1: {æ,e}i ai au w{ɪ,i} wy wV iu Vː → eː aː oː weː woː wVː eː oː V
+1: tʃʷʼ~ʃʷʼ → ɕʷʼ~ʃʷʼ
+1: o → ɔ / _N
+1: h → ∅ “(just a reminder: from the f → h change above)”
+1: w j → kʷ tʃ / _V
+1: s ŋ → h n
+1: o(ː) eː æː → a(ː) iː aː
+1: k → ∅ / ”Vs_
+1: Aw → o / unstressed (possibly analogical)
+1: xʷʲ ɣʷʲ → sʷ zʷ (*ɣʷʲ is marked as dubious)
+1: tsn → hst
+1: u → ∅ / _({ʀ,s,t,θ})#
+1: tsʲʷ tsʲʷ dzʲʷ → tsʲ tsʲʼ dzʲ
+1: o → oː / ɔ
+1: {tʼ,d} {kʼ,ɡ} → l k
+1: x → χʷ / o(ː)_{V,#}
+1: s → h “(often)”
+1: {a(ta),a(ch)} → o / else
+1: o e → u i / _N
+1: t d → ʃ ʒ / _j
+1: a → {i,e} “under special conditions”
+1: F[- voice] → ∅ / {s,f,x,h,t}_{p,t,k}
+1: e → {e,i} / #C_C
+1: Vˀ → V[+low tone] (→ V[-tone] in “young speakers by 1980”)
+1: kʷː → ɡʷ
+1: h → ɦ
+1: p → b / V_V (*)
+1: w → v / V_
+1: k → kʰ / _r
+1: lʲ → lj / else
+1: e → ə / _N when unstressed ! Ḱ_ (?; included here based on a comment earlier in the paper, but not listed on the correspondence list)
+1: {u,o} {ɛ,e,i} → w j / C_$V in noun class prefixes
+1: kʰ → {x,k}
+1: {ts(ʰ),tʃ} → s
+1: ”V → ”Vː / _n in “penultimate syllables only”
+1: V[+ high] → ∅ / _# ! {p,z,d(r)}_
+1: — aj aw → i u / _#
+1: p → ɸ → h / #_
+1: tv dv → p b
+1: f θ s ɣ → v ð z ɡ / #_
+1: l → ∅ / #ç_
+1: {ɡ́,ɡ} → ∅ / _i(ː)
+1: w → r → ∅ / P_-
+1: aː → aa / W_ ! when _{C{C,ː},#}
+1: kː qːʼ → xk(?) qʼ
+1: e a {ɑ,ʊ} → a o ŭ
+1: {ts,ʒ} → tʃ / V_
+1: e → ja / in closed syllables, when stressed
+1: iw → u
+1: {u,o} {ɛ,e,i} → w j / C_(a) in verb roots
+1: tsʼ → tʃʼ / #_
+1: ô → ɯ → i / _(X)CA
+1: b d ɡ → m n ŋ / _#
+1: im iŋ → wa ie
+1: S[- voice] → S[+ voice] / V_”V
+1: {tʃh,tʃʼ} → tʃ
+1: tɾ → {tɾ̥,tʃ,tʂ}
+1: kʲ kʲʼ → {k,ʃ} kʼ
+1: ɡ x → k kʰ
+1: iu → {yː,io} (outcome varies depending upon dialect; the former seems more typical)
+1: ei eu → ɛː uː
+1: n → ŋ / #(C)V_
+1: oʊ → əʊ
+1: {h,ʔ} → ∅ / _R “in post-tonic syllables”
+1: e → o / o(C…)_ (eastern dialects)
+1: {b,v} → w / V_tV
+1: (ʔ)kj (s)ɡj Nkj → (k)tç (s)kj Ndʒ
+1: s̺ → ʃ̺ “for most French Basque speakers (Trask 1997:84), due to French influence” according to Campbell
+1: tʃ tʃː tʃːʼ → {ʃ,tʃ} {tʃ,dʒ} {tʃː,tʃʼ}(?)
+1: a iN {i,u} → e ɚɯ / T_%
+1: h → ∅ / _w ! at word boundaries
+1: w → ʋ
+1: — B → ∅ / _o
+1: — ɡ → ∅ / _j
+1: iN → æ / {P,C}r_
+1: s̻ ts̻ → ʃ tʃ / {E,j}_ (mostly Biscayan)
+1: {u3~ə3} → {o3,ə3,a3}
+1: bʱ {dʱ,dzʱ} ɡʱ → f s k
+1: a → e / _(C)(C)i(ː)
+1: j → t / _#
+1: {w,m} → ∅ / _t
+1: yː → ɨ
+1: kʷ → ∅ / u_
+1: r → l / _{u,#}
+1: h̃ hʷ → ɕ ɕʷ
+1: o → u / _a
+1: {awa,iwa,iwi} → uː
+1: n → ∅ / m_{s,b}
+1: θ θˤ ð ɬ ɬˤ → ʃ ʃˤ z s sˤ
+1: — a → a / _# in monosyllables and oxytones (Rouergue, Limousin, Auvergne, Dauphiné)
+1: ə → u / _#
+1: ”V → ”Vː / “in open penultimate syllables followed by a non-glottal consonant”
+1: ɨ̯u i̯o → uː u
+1: i → ∅ / #(C)V(C)(C)V(C)(C)_# (sporadic in the case of other vowels)
+1: e → eː / ɛ
+1: ʃ m → x w / B_#
+1: j w → z v
+1: {ɨ̯u,i̯ɛ} → ɨə̯~ɨa̯ / _%
+1: k → ∅ / V_wV
+1: ʃ → {ʃ,s} : ɬ
+1: N1N2 → N2ː ?
+1: ɡʷ → ɡ / C_{i,e}
+1: s → ʃ / ! V_
+1: øː → (j){u,ʌ} / _{k,x} (outcome varies depending upon dialect)
+1: ʊ ʌ ɛ → ʌ ɛ æ
+1: ь → aː / r_C[+dental -palatalized]
+1: e(ː) i → ø(ː) y / _C[+ affricate]
+1: {{s,z}(ˤ),ʒ}ʃ → ʃː
+1: βʷ bʷ mʷ → w kʷ ŋʷ
+1: l → r / lV_ “(in suffixes with l if root already has l)”
+1: — H → ∅ / “if not in a syllabic position”
+1: V → Vː / h_hC
+1: b → ∅ / m_l
+1: s → {s,x,tʃ~ʃ}
+1: pʼ → p/ #_C[+sibilant]
+1: ts tʃ → s ts
+1: ʃ m → x b / o(ː)_e(ː)
+1: e → o / unclear conditioning
+1: tʃ → t / in nominal suffixes
+1: u {o,e} → ∅ a / _#, in disyllables (eastern dialects)
+1: β ð → ∅ {s,h} / _i
+1: eː → iː / _C
+1: kt → tː
+1: s ts → ʃ tʃ / _i
+1: t → ts / _V[+ high]
+1: on → u / _iC
+1: sk → tsk / _”V
+1: ts tsʰ tsʼ dz → tʃ s tʃʼ j
+1: xʷ ɣʷ → kʷʰ {v,w}
+1: ŋʷ hʷ → j̃ h
+1: dw → b
+1: {s1,s3} → ʃ
+1: d → n / ”V_
+1: V → Vː / in some monosyllables ending in alveolar resonants or vowels
+1: ʔ → ∅ / V_V3
+1: — ∅ → e / C_{n,l}V(H)#
+1: ˀt → ∅ / _t
+1: e → i / {kʲ,nt}_ when stressed
+1: nː → tn / V_
+1: f → pʰ
+1: iw → ju / [- stress]
+1: — a → e / _n (otherwise)
+1: r → l / #(C)_c(C)# ?
+1: d → ∅ / r_ts
+1: q → ʔ / h_
+1: tʷ(ʼ) dʷ → {tʷ(ʼ),p(ʼ)} {dʷ,b}
+1: ɡ{l,r} → kʰ
+1: tʲ → tʃ / _i[-long -stress]
+1: {u̯o,u̯ɨ} u̯ɔ → o ɔː
+1: mʷ b(ʷ) vʷ → m p b
+1: {nts,ns,nz,nɡʲ} {ts,z,ɡʲ} → ɡʲ s
+1: dʒ x ɣ → ʒ χ ʁ
+1: iː {i,eː} e → i e ɛ / stressed
+1: ɡl → kj
+1: ae au → e ɔ / stressed
+1: ᵐb ⁿd → {ᵐb,p} s / V_V
+1: ɑu ou → ɑː oː
+1: z → d / Vj_
+1: {e,o,o2,N̊} → a
+1: w → ∅ / C̣Cʲ_?w (“optional”)
+1: iː → i / _%”V
+1: χʷ → p
+1: o o̰ → u ṵ
+1: e → i / _j
+1: t k kʷ → d ɡ ɡʷ / _{V,R}
+1: {i,o} → e / _#
+1: a → {a,o}
+1: dʒ → ʒ (did not occur in Qara Nogay or Central Nogay)
+1: ʃ → {ʂ,ʐ}
+1: w → l / {#,V[+low]}_V[+low]
+1: k → ∅ / s_l,t
+1: Vn ŋ → V[+nas] ∅ / _#
+1: Raising of e {ɛ,a} ɔ o → i e o u; near j, in particular environments:
+1: j → i / C_, when initial in a suffix
+1: t n x → d n h / in prefixes relating to word derivation
+1: tʃ → Ω (This is my own notation. I don’t have a clue what the intermediate form was; became something else in different dialects)
+1: ɫ → əɫ / ! if one of the above vowel changes after the formation of /ɫ/ apply
+1: v → ∅ / {u,o,a}ː_
+1: d → ∅ / n_
+1: s → ∅ / Vn_
+1: yen → yɛn
+1: tʷ(ː) tʷʼ dʷ → t(ː) tʼ d
+1: {tʰ,ɗ} → t
+1: ⁿQʰ Q͡ɢ → Qʰ Q
+1: {i1~ə1} → {i2,ə1}
+1: *R → {∅,r}
+1: βtʃ → u{ts,dz} → u{s,z}
+1: ɡ → k / else
+1: iː → i / _j
+1: aɪ → aː / _C[+ voiced]
+1: ə → ∅ / i_{ŋ,k}
+1: u → ŭ [ɤ?] → {e,o,ɤ,a} (strong)/∅ (weak) “in modern languages”
+1: p t ts s → v r ∅ h
+1: x → kʰ
+1: a → ∅ / _U#
+1: ∅ → a / #(C)aː(C)_V ! _a
+1: {ɔjɔ̃,ɔ̃jɔ̃,ьjɔ̃} → ɔ̃ː
+1: a o e → ɛ u i / {i,u}(C…)_ (this [ɛ] is tentatively marked as such; Egurtzegi transcribes it as /e/ but says it’s not as close as /e/)
+1: — n → {ɾ,l} / nɡ_
+1: mn → mV0nV0 / {C,V}_{C,V}
+1: i → u / _ju
+1: k(ʷ)ʰ kʷ(ʼ) ɡ ɡʷ → h ɡ k kʷ
+1: j → {j,h}
+1: {skj,stj,sːj → ʃ
+1: V5 → V2 / in syllables with /ɦ/
+1: {ç,s} x → tᵚ ∅
+1: t → ∅ / C_#
+1: {n,d}…r → r…r
+1: o oː → {a,aː} aː
+1: ə[+weak] → ∅ / _C[+voiced] (sporadic)
+1: ʔ ts → {ʔ,∅} {ts,tʃ}
+1: *ŕ → r
+1: Cʲ → C in select words due to prestige influence of Czech in the Middle Ages
+1: ”Vː[+falling tone] → ”V[-long -falling tone]
+1: qˤʲ → q(ˤ)
+1: p → v / {Vn,ɨ}_ (the latter “sometimes”)
+1: ʔ → ∅ / V_V
+1: ∅ → j / k_e(ː)
+1: v r̝ → f r̥ / C[-voiced]_
+1: kx → sk / ”V_
+1: s → either i or a diphthong ending in i? / _#
+1: m → ∅ / #_n (in morphemes) (*)
+1: r → ð / x_
+1: Lʲ → ð / _V[+nas -stress]
+1: ᵐb ŋʷ → p β / #_V[-nas]
+1: ts → ʃ / #_ẽ
+1: rʲ lʲ → r l
+1: ɡ → k / #{d,w}V_
+1: ɔ ɛ → o e
+1: — {l,r} → ∅ / _# (retained across morpheme boundaries)
+1: t → k / _l
+1: ã → ɛ̃ / short only
+1: tʃʰ kʰ qʰ {x,χ} → tʃ k(ʰ) {kʰ,qʰ,χ} kʰ
+1: jew → iau / else
+1: b{l,r} → pj
+1: i i{t,k} → {ə,iɛ} ə
+1: ŋ → m / #_{æ,ø,y}
+1: ə → ∅ / _%, when unstressed
+1: w → β (sporadic, allophonic)
+1: iw → u / unstressed
+1: mʔn → d
+1: qʷ qʷʼ ɢʷ → q qʼ ɢ
+1: a → e / _ro(ː)
+1: kʲ ɡʲ → k ɡ (Danish)
+1: u → o / _K
+1: dʱ → b / _l
+1: s → h / “rarely”
+1: ɹ → ʐ (sometimes?)
+1: ai → i / _C
+1: Vː → V[-long] / _{ʔC,ʃp,ʃk,hV}
+1: c ɲ t n → t n k ŋ / a_ (short /a/ only)
+1: kw pw mw → kʷ pʷ mʷ
+1: Kʷy → ɕ
+1: kː ɡ → x {kː,ɡ}
+1: ok → iɡ
+1: n → ŋ / qV[- stress]_
+1: rː{r,ʀ} sʀ → rː sː
+1: e → {y,ø} / C_Po
+1: w → b / i_#
+1: V → ə / _{CC,tʃ,dʒ} ! _{nt,nɡ,mp,rt,rd}
+1: e o → i u / #P_{tsʼ,tʃʼ}
+1: i(ː)wi → iː / medially
+1: — s → ʃ / _(h)j
+1: m → {w,p}
+1: ɲ → ŋ
+1: uː → ʉu / ʏ
+1: lʋ rʋ jʋ → lː rː jː
+1: w → ∅ / tʰV_k (conjectured)
+1: q {k,t} {s,ʈ} → k c t
+1: dʒ → tʃ / i_{u,i}
+1: ɡ ɡl → k tʃ
+1: st → sː (with some exceptions)
+1: hj → ç
+1: VN → Vː / _S (except for the prefixes con-, in-); I’m assuming this change happened in Vulgar Latin and then vowel length went to quality
+1: j → i / C_# “after the loss of a final vowel or syllable”
+1: ɣ → ∅ / {#,E}_
+1: jʰ j → s z
+1: x → ∅ / _{p,k}
+1: e → ь / _jV
+1: ɾ → ∅ / V_V, where at least one of the vowels is nasalized
+1: f → ∅ / #_{C[-low],V[-low]}
+1: rt → š (Alex Fink says that the realization of /š/ “is unclear”)
+1: ∅ → w / P_V
+1: t → {t,ʈ} / V_V
+1: j w → ʒ v
+1: w → {w,ŋ}
+1: t r l → {j,s} {j,∅} j / _u
+1: p → b / #_ (change seems to be ongoing)
+1: ɕ → ∅ / t_ɕtɕ
+1: ʀ → r_n
+1: j → ∅ / {tʃ,ʃ}_eː
+1: Vː → V[-long] _”C(C)(C)V (“this change happens only in the Ontario dialect”)
+1: s(-)r → ʂ-
+1: i ı̃ V[-round] → uɪ uɪ̃ V[+round] / Cʷ_
+1: {r,h} → ∅ / _#
+1: pʼ → {b,p}ʼ
+1: k → x / a_
+1: R → ∅
+1: {i,o} → e
+1: t k → {t,r,kʷ,∅} ∅ / V_V
+1: ŕ → rː / V_V
+1: ʃ tʃ → {ʃ,x} s
+1: ɡ → ∅ / V_V
+1: q qʷ → χˤ χʷ
+1: {xʷ,ɢʷ} → ∅ / at word boundaries
+1: p t k → b d ɡ / V_V (the second V at least can be a syllabic consonant)
+1: Vː → V[- long] / ! #U, U#
+1: — o → y / _i# (in Bordeaux, Auvergne, and some of Languedoc)
+1: kVl → kːj / unstressed
+1: wɔʔ → uɔʔ / C[+guttural]_
+1: (N)p Nb sP çp çb pr br {p,b}j → (m)pʰ (m)p sp ʝb çp br pʰj pʰj
+1: j → ∅ / C_i
+1: ∅ → s / {i(ː),#e}_t
+1: b {d,dʒ,ɡ} → v j / V_V
+1: — e → i / _(C…)i(C…)#
+1: u {o,ɒ} a au juː → y ø æ æy yː / _(C)(C)(C)j
+1: q qʼ → x {kʼ,qʼ,ʔ}
+1: {kl,ɡl} → ʎ
+1: tɬ tɬ(ː) tɬ(ː)(ʼ) dʒ → ɬ tɬ(ː) tɬ(ː)(ʼ) tɬː
+1: z → j (fricative changes to approximant)
+1: nː → h
+1: p t k → pf ts kx / {L,N}_
+1: a3 u3 {a1,u1} i1 → ɛ3 a3 ə1 {i1,ə1}
+1: tʃ dʒ → ts dz
+1: tʰl tʰr → tʰ r̥
+1: l̥ r̥ → ol {or,er} / _#
+1: pr sr tʲr kr → bθ sn ʃn ɡθ
+1: oɡ → ʌu
+1: p → f / #_ (?)
+1: ɛ → ɪ / _N
+1: tsʲ(ː) → tɕ
+1: V03ʔ(V0) → {V03ː,V03ʔV0}
+1: r → ∅ / V_V
+1: xʷ → w / tʃ_
+1: t → ts / _E
+1: p → β → U / _R
+1: t → ∅ / V_sV
+1: k → kʷ / #_i
+1: t k ᵐb → {s,t} {ɡ,∅} {b,p} / #_
+1: p pʷ {c,*j} k q → β βʷ s ɣ ∅
+1: ø → i / {s,ʃ,x}_Cu
+1: mʷ pʷ bʷ vʷ → m p b v
+1: b d → m n / _{C,#}
+1: kʷ → k / C_V
+1: p d → p~f n / #_
+1: kʷ → ∅ / _a (rare)
+1: a → {∅,o,e} / _j#
+1: v ɣ ʁ → p k q / _C (except where C = /l dʒ m n ŋ/)
+1: s → ʃ / E_ (? Not a lot of data available on this one)
+1: ɔː → ɔ / _ɹV[-stress]
+1: mnj → {mni,ɲ} / V_V
+1: a → aː / _u,i
+1: Vː → V[-long] / _hC
+1: a → ə / if N in U#
+1: ŕ → ʐ / else
+1: Yt Ynt Ys → tʃ dʒ ʃ
+1: ʃ k m → s tʃ b / E_#
+1: ɡʲʷ xʲʷ ɣʲʷ(?) → ɡʷ xʷ ʁʷ
+1: kʷ ɡʷ → k ɡ
+1: tʃ → ts / _E
+1: nj → ɲ / #(r)_
+1: {a,o,ə} → e / j_
+1: R → ∅ / ʔ_#
+1: kʷ ɡʷ ɡʷʱ → ku ɡu ku
+1: tʲ → tʃ
+1: tɕʷ(ʼ) dʑʷ → {tɕ(ʷ)(ʼ),tʃʷ(ʼ)} {dʑ(ʷ),dʒʷ}
+1: VCw → VːC
+1: nʲ → in / V_V
+1: ej → i / unstressed
+1: rV → Vː / C_
+1: {r,s}N → N̥ → hṼ → hV
+1: i → e / P_Ci
+1: {p,t} n → c̚ ɲ / {i,ɛ}_#
+1: e → a / _U[+u,a]
+1: ∅ → e / t_w
+1: kr → kV0rV0 / #_
+1: oi wo wj ow → ai wa vi aw
+1: {o,ə} → a / _ɨ
+1: C[+ fricative - voiced] → ∅ / ʔ_
+1: p t k → b d ɡ → v r ɣ / Vː_{V,#}
+1: sː → s / {W,Vː}_
+1: s sː ɬː x xː → {s,ʃ} x ɬ {x,h} x
+1: ts → ʃ / _r
+1: k → ∅ / _hts
+1: ɮʷʲ → ʒ
+1: nx → xː
+1: p → ∅ / C_ ! s_
+1: *L → l
+1: tʃ {tʃː,dʒ} → ʃ tʃ (the change of *tʃːʼ is conjectured for Bezhta, as the change is only listed in Tsez, but given the development of *tsːʼ I don’t find it unreasonable to put it here)
+1: z → ∅ / _C[+voiced]
+1: θ ð → t d (not a complete change; apparently due to Latin)
+1: V5 → V3 / else
+1: h → ∅ / {st,tst}_
+1: *c → s
+1: v → ∅ / u_a
+1: {a3~ə3} → {a3,ə3}
+1: {Vh,Vʔ} → Vː / _#
+1: m n h j → b {n,r,∅} {h,∅} {j,∅}
+1: l → r / C_ (sporadic)
+1: p → h (sporadic)
+1: ɑɹ → ɒɹ (“often”)
+1: əɪ əʊ → aɪ aʊ / “in most of Britain”
+1: w → ∅ / C_o
+1: aɡu → o
+1: ã ı̃ ũ → a i u
+1: r → l / V[+nas]_V[+nas]
+1: e → i / #N_C
+1: — e(ː) → a(ː) / “when unstressed?”
+1: ∅ → i / #al$_z
+1: C1ˤC2 → C1C2ˤ
+1: e → ja / ! {{h,k,ŋ}n,w,v,l,r}_, _{u,o,i}
+1: — V → e “in many late words”
+1: ʏ ɪ → ø e
+1: c → s / _{a,o,u,e}
+1: *D d → l r / V_V
+1: ð → ∅ / ! ”V(X)_
+1: {d,ɡ,s,l,r} → {h,r} / #_
+1: ə → {ə,a} / _C# “(free variants)”
+1: a → {ɨ,ei} / _(C…)j(C…)#
+1: m̩ n̩ → em en / else
+1: e o → eː oː / _Cɑ
+1: Kts → ɡ.tsʰ.
+1: b bʷ ɡ → p pʷ k
+1: Vs → h / n_
+1: hj → ʃ
+1: ∅ → e / #_{s̺,s̻}C
+1: {O,N} → ∅ / _$
+1: s → r / in “[t]he prep[osition]. us…before r in compounds”
+1: p → v / Vn_
+1: j → ∅ / tʃ_
+1: w → ∅ / _V
+1: o(ː) → i(ː)
+1: {tʷ(ʼ),dʷ} → {tɕ(ʷ)(ʼ),tʃ(ʷ)(ʼ)} {dʒ(ʷ),dʑ(ʷ)}
+1: {e,i} → j / C_V when unstressed
+1: ɓ → f / medially
+1: ʕ → {ʕ̞,ħ} / _h
+1: *D → d
+1: β b m → βʷ bʷ mʷ / typically near *u
+1: t(ʷ)ː tʷʲʼ → t(ʷ) tʷʼ
+1: D → T / #_
+1: ʔ → h / _C
+1: j → {ð,z} ?
+1: {long-tail vowel thingʔ,əʔ} → ɛʔ
+1: e → o / _wV
+1: t → ∅ / k_#
+1: — o → u (during the literary period)
+1: mp mb p b m → tʃʰ(w) tʃ(w) ʃ(w) dʒ(w) ŋw / _{ʊ,o}V
+1: r → d / #_ (?)
+1: p t → ∅ {s,k} / _u
+1: w → u / k_
+1: {Np,mb} → b / _V (the paper implies similar developments occurred at other POAs)
+1: — V[- long] → ∅ / U_C# ! V = u
+1: ɔ̃ → õ
+1: b → ∅ / _#
+1: i → a / _Ca
+1: V1…V2 → V2…V2 (rare)
+1: h → ∅ (shared with Old Turkic)
+1: {qˤː,qˤʼ} χˤ ʁˤ → qː χ ʁ
+1: {ẽ(ː),õ(ː)} → ə̃(ː)
+1: j → ∅ / E_ (not clear whether only short E or long also)
+1: e o → i u / #{k(ʼ),x}_{t(ʼ),tsʼ}
+1: ẽ → e / else
+1: x χ → s h
+1: Ḱ → TŠ
+1: {ndj,nz} → n̪d̪
+1: tʼ {kʼ,ɡ} → {t,d} k
+1: {jam,jan} → iɛn
+1: ɡ → ∅ / iV_
+1: o → ɔ “sometimes”
+1: n → ∅ / _P “(leaves nasalization on the previous vowel)”
+1: oː → ju / {n,x}_
+1: xt → iθ
+1: ∅ → i / #_jC
+1: ”V → ”Vː[+falling tone] / _{ʔ,hR}
+1: — aj aw → aj aw / _#
+1: uj → (ɣ)u
+1: — mn ml → mbɾ mbl
+1: ʃ → h
+1: {ts,st} tsː tsːʼ dz → {ʃ,tʃ} tʃ(ʼ) {tʃː,dʒ}
+1: e → ja / #_C{e,i}
+1: s → ʃ / {u,i,l,r,K,Ḱ}
+1: {h1,h2} → h
+1: CVʕ → ħʔ / ! C = ɡw
+1: s → ʃ / _Vr ?
+1: qːʼ → ʕ
+1: Vː → V / _(C)(C)(C)#
+1: L Lʲ → {ð,j} ʒ / _”V
+1: ph → pʰ
+1: x → h / _C ! C_C
+1: C → ∅ / C_#
+1: mnj → ɲ (Limousin, as well as extreme eastern and southwest dialects)
+1: k → ɡ / V[+nas]_ ! _#
+1: ьl → ɔ(ː)ɫ
+1: ts → s / _C
+1: h → ∅ / C_t
+1: {a,e,o,æ} i u y ø → ə i ua {u,ə} {ə,u} / _Ce
+1: tʰ dʱ → t d
+1: ”V → Vː (usually)
+1: fl → {ʃ,fr} / #_
+1: e o → eː oː / in ”U[+stress]
+1: w → ∅ / ! _{a,o}
+1: uə yə iə → uː yː iː
+1: ɾ → ∅
+1: nw nr → mb nd
+1: d → ∅ / _r “in inherited vocabulary”
+1: l → t
+1: ij uw → uj {uj,ój} / _#
+1: ɣ → ∅ / else
+1: {w,j}V[-long] → ∅ / Vː_# (Whimemsz is unsure if this change is across-the-board or not)
+1: ɛ̃ ɔ̃ → ɛj̃ ɔj̃ / _F[+palatal]
+1: N → ʔ / _S[- voice]
+1: ew → ju
+1: i → o / _m
+1: {l(ː),rl} → ɬ / v_#
+1: — a e o → ə ɪ ʊ / C_{C,i[-long]}
+1: oː eː iː → o a i
+1: yn → un / C̣_ (may have stayed yn or → ɥn in at least one area?)
+1: b → {w,∅} / #_
+1: {s̪,s} → θ [θ] “(merged as)”
+1: mʔ → ∅ / _n
+1: V% → high tone / else
+1: r → l / #_V(V)O[+labial]
+1: a → o / _r
+1: awʔ → ɔʔ (“Trigault gives a variant in -ɛʔ, which becomes general in the later GH varieties”)
+1: Pç çl → ʃ ʃn
+1: {ou,oɨ} → oː
+1: {u,ɨ}i {,a,i {ɨi,i{a,ə}} u{ɨ,a,ə} → wi e je wo
+1: O[+lateral] → O[+palatal]
+1: oa {ae,ea} → uɔ iɛ
+1: V[+ low tone] → ∅ / C_CV[+ high tone] if both vowels are the same
+1: æ → ɛ / _ɹ
+1: ɛː → iː
+1: — o → y / _{tʃ,dʒ,it,id} (did not occur in Dauphiné)
+1: n̥ → l̥ → h / %_V
+1: ɑː y(ː) → ɔː e(ː)
+1: i → eː / _ʀ#
+1: t → ts / _i ! s_
+1: o a → ø ɛ / _(C)(C)i
+1: tɬʼ → ɬˤ
+1: k kʼ ɡ x ɣ → kʲ kʲʼ ɡʲ ɕ ɣ~ʁ
+1: V0[+nas]V0[-nas] → V0[+nas]
+1: s → ∅ / C_V
+1: *R → {l,∅}
+1: /ʝ/ [ʝ~dʒ] → [ʒ~dʒ]
+1: ɗ → d / #_
+1: V → V[+ nas] / N_
+1: {ʔ,h} → ∅ / #_
+1: S → S[-voice] / _#
+1: pʰ tʰ tsʰ → f θ s
+1: ua~u@̯ → uː
+1: V[- high - long] → ∅ / #C_OO
+1: V → Vː / _(C)#, in monosyllables
+1: tɬ(ː) tɬʼ tɬːʼ → x qʼ ʕ
+1: ʌ → ɪi (sporadic)
+1: {w,j} → ∅ / V0_V0
+1: i → ∅ / a_ (usually; sometimes the diphthong is retained or → aj)
+1: ɡ → ∅ / V_dV
+1: {m,ɲ} n → {ɲ,∅} {ŋ,∅} / _# (first change marked “in progress?”)
+1: {e,ə} ʊ → ɑ u
+1: {s3,ʒ} → ʃ / #_
+1: — aw aj → e ó / _#
+1: i → ı̃ / ʔ_# (sporadic)
+1: x(ʲ) {j,ɣ} → h ∅ / _#
+1: u → {o,u} / short only, _#
+1: j → t
+1: R̊H → {u,i}ːR / _C
+1: ɑ → e / ”{o,u}(X)C_j
+1: ʃ k m → s tʃ b / _{E,j}
+1: h3 → ∅ / “medially”
+1: {n̩,m̩} → a
+1: {ɾ,r} → ʎ / {i,j}_ (eastern dialects)
+1: Ṽ → Vɲ / _V (not Souletin)
+1: in → ŋ / #_C
+1: x → s
+1: ∅ → {e,o} / rː_#
+1: Ṽ → V[- nas]
+1: ej ow → eː oː
+1: VOR → VːR; “this is a tad unclear, because in some instances it didn’t seem to apply”
+1: pʷ pʷʲ pʷʲʼ bʷ bʷʲ → p tʷ tʷʼ b d
+1: m̩ n̩ r̩ l̩ → am an ar al
+1: {w,j} → ∅ / C_#
+1: b d ɡ → bː dː ɡː / V_V (some dialects of Italian; there may be more to it than this, since words like “repubblica” are in standard Italian and not just dialects)
+1: xɦ → ∅ / _j(w){?,ia,a(ta)}
+1: ths → tʃ
+1: k → ɡ / _{w,j}
+1: l → ʟ
+1: c ɟ q ɭ → t d ʔ l
+1: a → {u,o} / P_
+1: — eː → iː
+1: dz → s / medially
+1: V → ∅ / _# ! some monosyllables and analogical developments, in the latter of which long vowels were shortened
+1: xs → sː
+1: ajɛ → ɛː in adjectives, aː in verbs
+1: {qˤʷː,qˤʷʼ} χˤʷ ʁˤʷ → qʷː χʷ ʁʷ
+1: S → S[+ voiced] / #_
+1: h → {h,x,ʔ}
+1: ɡ → ∅ / V_V%”V
+1: r → d / #_
+1: k → w / V_rV
+1: kʷ → ɾ / #_ek
+1: (h)ə{p,b} (h)ə{t,d} (h)ə{c,ɟ} (h)ə{k,ɡ} → β dʲ ɟ ɡ
+1: ʃ → x / #_ (some dialects, never when following preinitials)
+1: C → ∅ / _# ! C = t
+1: m n → b d (Only seems to have occurred with first-register tones)
+1: tɬː tɬʼ tɬːʼ dɮ → xʲ qʼ q(ʼ) {w,xʲ,j}
+1: t → d / r_
+1: wɔn ja wa → uɔn ia ua
+1: ∅ → ŋ / #_V
+1: n → θ / _{m,ŋ}
+1: — i → a / R_
+1: n → ɳ / R(V)_
+1: e → ∅ / V{d,s,n,l,ɾ}_#
+1: a → ɑ / near emphatics
+1: p k q s → v ɣ ʁ z / V_V
+1: b bʷ d ɡ → p kpʷ t k
+1: x → {h,∅}
+1: N → ∅ / _C ! _%C
+1: eN → ı̃ / _#
+1: tʃ → θ
+1: {tsː,st} {tsːʼ,dz} → ts tsʼ
+1: ʈ → tʃ / e_
+1: tj sj dj zj → tʃ ʃ dʒ ʒ / ! _uː (perhaps only before stressed uː?)
+1: {(n)dz,ts} → s / _i
+1: s → ʂ / _V{ʂ,ʈ,ɖ(ʱ)}
+1: jan → en / CC_#
+1: {u,æ,y} ø → {o,u} ia / _Cu
+1: w → β / _E ?
+1: e → ∅ / {l,n,r,s,k}_#
+1: k → h / #_{v,n}
+1: ʒ → ʃ / #_
+1: ɔ → o / _N$C
+1: e → ø / #(C…)_y
+1: {θ,s,h,ʔ} → ∅ / _{p,t,tʃ,k}
+1: æ → {eə̯,ɪə̯} / _N
+1: {b,k} r → ∅ {r,∅} / _#
+1: Sː → S[- long] / _{r}ː
+1: æ → ɑ / unstressed
+1: u{o,ə} ɨu → uː ɨː
+1: V → V[+nas] / N_
+1: V → ∅ / “in some final syllables (conditions are unknown and it varies by dialect)”
+1: s → z / _C[+voiced]
+1: s ç {tʲ,x} → ts x ʃ
+1: e(o) → ɛ
+1: V → V[+high tone] / _$”V
+1: d → ∅ / _ʒdʱ
+1: kV → ∅ / V_#
+1: it → u
+1: tʲ → x / _ʔ
+1: uj iw → oj uj / _#
+1: p pʷ k → v vʷ ɣ
+1: k → kʷ / _a
+1: n ŋ → m n / #_
+1: ẽ(ː) → e(ː) / _{e(ː),o(ː)
+1: tʃ tʃː tʃːʼ dʒ → ts(?) tʃ tʃ(ː)ʼ tsʼ
+1: i u → u i / {lʲ,j}_ (sporadic)
+1: p → ∅ / _B
+1: ʈk → kː
+1: ɡ → ɡʲ → dʲ → dʒ → ʒ / #_{i,e}
+1: j → ∅ / V_{V,#}
+1: aji → iː / when unstressed
+1: V → Vː / _KRV “in the second syllable of a word”
+1: — {p,t} → ∅ / #s_ “(although it says that occasionally st > t / #_)”
+1: ᵐb ⁿd ᵑɡ nj → {p,ᵐb} {ⁿd,z} k z / V_V
+1: s → ʂ / _t
+1: ɣ ʁ → x χ / _#
+1: ik → ɡ / {s,p}_ ?
+1: — h → ∅
+1: — au → a / _(C…)u
+1: r̝̊ r̝ → ʂ ʐ
+1: ara → aː / “unaccented syllables only”
+1: n → ∅ / V{ː,V}_hV
+1: ɔ → ɔː / _{r,l} (sporadic, perhaps analogical)
+1: a3 → {a3,o3} / {{C[+ uvular],K}ʷ,w}_
+1: i → v̩ / m_%
+1: N → m / _{ŋ,ɲ}
+1: d → ∅ / n_# (sometimes)
+1: a → ɪ / “unstressed and/or final”
+1: pʲ → kʲ (some Romanian dialects, Tsakonian)
+1: et el en → itʲ elʲ enʲ
+1: mbj → {mbj,mdʒ,ndʒ}
+1: {ts,st} tsː tsːʼ → {s,ts} {ts,tʃ} tsː
+1: Dʱ → D
+1: e → ə / #{r,P}_…”U
+1: uj → u(ɛ)i / m_
+1: V3 → V4 / in syllables with /ɦ/
+1: ɑː → e / ! _{ŋ,n}
+1: b → ∅ / medial (sporadic)
+1: qˤː qˤʼ → ʕ ħ (this latter is marked as dubious)
+1: kʰ → {kx,k}
+1: V → ∅ / “between first and tonic syllables; except when C_CC, _n”; “if there are multiple vowels between the initial and tonic syllables, the vowel directly before the tonic is usually dropped” ! V = a
+1: bʱ dʱ ɡʱ → p t k
+1: ɬʷ ɬʷː → x(ʷ) ɕː
+1: pj → ptʃ → tʃ (except in western and some southern dialects)
+1: V → Vː / _{t,d}t
+1: j w → dz ɡʷ
+1: {u,we,wi} {o,ɒ} a au juː → y ø æ æy yː / _(C)(C)(C)i
+1: {x,ɣ}ʔ → ɡ
+1: V → ∅ / C_{r,l} when unstressed and not at a word boundary
+1: h → ∅ / _{sk,st}
+1: {m,ŋ}l- → dʑ-
+1: {tʃ,k} {ɲtʃ,nk} {ndʒ,nɡ} → s tsʰ ts / _{i,ɪ,e}
+1: sː ʃ ʃː ɬ ɬː x → s ʒ ʃ l ɬ ɣ
+1: ls lt ld(ʱ) ln → ʂ ʈ ɖ(ʱ) ɳ / “disputed”
+1: n hn sC → t th Ch / s_
+1: e → jɒ / _(C)(C)(C)u ! {{h,k,ŋ}n,w,v,l,r}_
+1: Cː → C / except when CV_V in U1U2
+1: ḱ ǵ → k ɡ
+1: h → ∅ / _{s,x}
+1: d → t / n_#
+1: pʲ mʲ fʲ → p m f / _#
+1: a3 → a3 / {{C[+ uvular],K}ʷ,w}_
+1: Ω cʰ → ʂ ʈʂ
+1: e → ∅ / #_ (Navarrese, rare)
+1: a(ː)wẽ(ː) → a(ː)ma(ː)
+1: k q → tʃ {ɡ,q} (ɡ is more common)
+1: au aːu ai aːi → au oː ai eː / ! _V
+1: aj → ej / _ʃ when stressed (irregular)
+1: i → j / _V ! in #U
+1: {t,θ,d,ð} → ∅ / n_l
+1: ij → iː / _s “after the loss of a vowel in final syllables”
+1: ũ → ã / stressed
+1: n → r → br / m_
+1: un → uɛn / ! {C[+dental],C[+sibilant]}_
+1: tɕts ʑr̝ → jts jr̝
+1: V → ∅ / VC_CV (sporadic)
+1: p k ⁿd → β {h,k} nj / V_V
+1: d → ∅ / _z
+1: o → u / else
+1: {d,ɡ} → j / ø_
+1: dr → ɟ / _i
+1: mt → n
+1: — a → {a,ɛ} (not common)
+1: a → {ɛ,e} / _rC
+1: sk kx → tsk hk / _”V
+1: n{i,j} t{i,j} → ndʒ ts / _V
+1: ɡ → h / ! {C,V}_h
+1: ɟ → ʔ
+1: yjʔ → yʔ
+1: t ᵐb nj s → r {b,p} ⁿd {s,d} / V_V
+1: s → z → r / V_V
+1: e(ː) → a(ː) / _h2
+1: — a → aː / _$
+1: aɪ → ɑeː / else (only for some speakers)
+1: y → ɥ (→ y~u dialectally?) / C̣_
+1: {r,s}k {r,s}Nk → f w / _V
+1: Ṽ → Vn or a diphthong (not Souletin)
+1: h → ∅ / b_
+1: ɨ̯əu au → au aːu
+1: {l,j} z → r j
+1: V → Ṽ / _h
+1: j b → {j,i} ∅ / _#
+1: d → r / V_V “(irregular)”
+1: dz → d / #_ (though sometimes → {s,ɟ})
+1: V → ∅ / ”VC_
+1: $VC$ → $CV$ “(This last rule turned all VC roots into CV)”
+1: ((h)ə)p d → b t / _l
+1: h → ħ / _Vz
+1: j → d
+1: ɡwVq → ʕ
+1: æ → æː / _{n,m,ɡ,ɫ% ! _n,m,ɡ,ɫ}%{j,w} or a form of a strong verb
+1: wI → i
+1: ∅ → e / {#,V}s_w
+1: mp nt ɲtʃ nk mp nd ɲdʒ nɡ → pʰ tʰ tɬʰ qʰ p t tɬ k
+1: d ð → ɟ ʝ / {ʎ,ɲ}_ (Guipuscoan, High Navarrese)
+1: je → o / #_
+1: ts tsʰ tsʼ {s,z} → {kʷ,p} f wˀ w
+1: j → ∅ / {tʃ,ʃ,w}_aː
+1: S → F / _S
+1: C → J[+nas] / #(C)V[+nas]_
+1: sj → ʒ → {r,z} (rare)
+1: ʔ~qʼ → ʔʷ
+1: k ɡ x → ts dz s / “After some syllables with front vowels”
+1: s l → z ∅ / V_V
+1: W → ∅ / near nasals or t
+1: n → d
+1: ɕ → s
+1: Vː → V / C_C{ː,C}V
+1: o → u(a) / ! o(C…)_(C…)#
+1: x → ç / _{i,u}
+1: nr̀ → nr
+1: ∅ → a / CC_ʔ
+1: tɬ tɬʼ tɬː tɬːʼ → ɬ tʼ tɬ tɬ(ː)ʼ
+1: e(C)V[+ low] → ɛCɛ
+1: m → ʔ / _p
+1: i → eː / _#
+1: ˀt → tʔ / _ˀt
+1: z → {r,∅}
+1: xr x {x,ɣ}ʷ → r̥ h {w,v,h}
+1: V → ɨ / _(C…)j(C…)#
+1: {i3~ə3} → {i1,ə1}
+1: i → ∅ / _ji
+1: d → dz / _i
+1: ð → (n)d
+1: a3 → e3
+1: ts → hs / V_V ! _i
+1: ts → ʃ / _i
+1: {h,q} → ∅
+1: — CVʔ → C̊V̊ʔ̊ / _#
+1: {ɔ,ɛ} → a
+1: t{l,r} → r̥
+1: V → Vː “when V is the second vowel of a word and follows a short-vowel syllable. Does not apply in glottal words”
+1: s → {ts,ʃ} / _i
+1: k(ʰ) kʼ q(ʰ) qʼ → tʃ(ʰ) tʃʼ k(ʰ) kʼ
+1: ʕ → ŋ (allegedly in European Hebrew, both Sephardic and Ashkenazi, but possibly not a sound change so much as a substitution) (https://en.wikipedia.org/wiki/Hebrew_language#Varieties_of_ayin, http://sites.google.com/site/londonsephardiminhag/pronunciation, http://www.forward.com/articles/105938/)
+1: i u → ɨ ʉ / short only when unstressed ! in #U
+1: {kʰ,ɣ} ɡ ɡ{l,r} → x k tʃ
+1: s → ∅ / _ɫza in “słza”
+1: o → oː / _{RC#,i}
+1: tʃ → dz → z / V_V (otherwise)
+1: l̥ → l
+1: k → ʂ / i_
+1: K → ɡ. / _ç
+1: b d → p t / _#
+1: w → ŋʷ / ɨn_
+1: ai → ɛi → əi / when stem-final
+1: V0 → ∅ / V(C)(C)V0(C)(C)_# (with some exceptions)
+1: ɣ → j~ʋ
+1: — ɛ → jɛ / _{u,i,ʎ,rʲ,ʃ,ʒ,j,tʃ,dʒ} (except in some northern and western dialects, or if this u ← l or if this i ← ð)
+1: ɡʷ → b / C_V
+1: n → ∅ / V_# (did not occur in extreme western areas, some northern areas, the southeast, and the east)
+1: j → {∅,ʒ} / V_V (j → ʒ is learned)
+1: nː → n̲(ː)
+1: — o e → u i
+1: ɛ → i / _C(C…)i#
+1: xʲ j → ʃ ʒ
+1: ə[+weak] → ∅ / #_C
+1: əjʔ əw {əm,ən} → eʔ ɛu ɛn
+1: ts dʒ → tʃ. tʃ
+1: {s,t} → h / _{n,l,r}
+1: e(C)V[- low] → e(C)
+1: ʃʷ(ː) ʒʷ tʃʷ(ʼ) dʒ → ʃ ʒ tʃ(ʼ) dʒ
+1: o → a / Cʲ_w
+1: juŋ → iuŋ / _{∅,x,ʋ,ʔ}
+1: j → ʝ → ʒ → ʃ (Aescoan, Salazarese, Roncalese, most southern High Navarrese)
+1: vl → lv
+1: pː tː tsː kː → pˑ tˑ tsˑ kˑ
+1: aɫ → o
+1: p t k kʷ b d ɡ m n l r s → f θ x xʷ v ð ɣ M N L R h / V(#)_{R,V} (“We don’t know the exact values of lenited /m n l r/. We can guess that lenited m became a nasalized labial continuant of some sort, but beyond that, we don’t know.”)
+1: c → ts
+1: i̯əu → uː
+1: sn mt → hn d
+1: p → p(ʰ)
+1: — Vdz → ∅ / {nts,ndz,rdz_
+1: {ɛ,e}ː o æː → iː e aː
+1: ẽ → ı̃ / {t,h}_#
+1: h → ∅ / _{tk,nh,sC,C#}
+1: r → {l,∅} / _u
+1: — a u → e uj / _{t,s}#
+1: Pj → ɥ
+1: VS → r / C_V
+1: l → ∅ / r_{m,s}
+1: {ɸ,θ} → f / #_
+1: V → o / %(C)(C)V_% when unstressed
+1: ʌ → ɔ
+1: — aCa → {ɘ,a}C
+1: s → ∅ / _C
+1: tʃ tʃʰ tʃʼ → ts tsʰ tsʼ (except in “lexicalized diminutives”, where these go to ʈʂ ʈʂʰ ʈʂʼ)
+1: j → ∅ / w_
+1: ɡn ɡl → nj lj
+1: — ɪ → e
+1: ɡ → m / _n
+1: tr → tʰ(r)_
+1: nʲ → l / #_i
+1: ɸ → pʰ / _V
+1: l̩ r̩ → {ьl,ъl} {ьr,ъr}
+1: V → ∅ / C_# when unstressed ! C = j
+1: ŋ → ∅ / #_CV
+1: ɨ(ː) → i(ː)
+1: χ → q / n_
+1: l n → lʲ nʲ / e_ in U[-long -stress]
+1: ŋ → k / _#, in latives
+1: w → v / #_{i,e}lV
+1: j → ∅ / i_ʒV
+1: {k,ɡ} → ∅ / V_B
+1: ɔə → ɔː
+1: ɣː → ʁː → qː
+1: kx → xk / ”V_
+1: {sːj,stʃj,stj} → ʃ → is (except in the west or extreme east, where the outcome was some flavor of (i)(t)ʃ)
+1: xi → @ / else
+1: n → ɲ / ɟ_
+1: j → {ɲ,tʃ} / else
+1: b d ɡ → β ð ɣ / ! N_
+1: — CVK → CVj (intermittent if C was a resonant)
+1: r → {l,n,∅}
+1: j → ∅ / #_u
+1: a e i æ ø y → {o,ja,aj} {ʌ,ɜ} ɯ {ia,ja} {o,u} {u,o} / _Co
+1: ɡ ɟ → ɣ j / V_V
+1: h → h~ʔ
+1: d j → r ɭ (sporadic)
+1: Vː → V[- long] / _%Cə{r,l,n}# (some exceptions)
+1: h → d / _a (…lolwut)
+1: k ɡ x → ts dz s / _{æː,i}
+1: w → {w,∅}
+1: e → u / _Cu
+1: rj → rʲ → ir / V_V
+1: e → ja / _(C)(C)(C)u ! {{h,k,ŋ}n,w,v,l,r}_
+1: Vn → Vː / _hV
+1: aː → oː / {N,C[+ dental],P,h}_ (sporadic?)
+1: o(u) {ɔ,ɑ,au,ai,æ} {ja,jE,æ(i),e(i),y} → u a i
+1: a → {a,i} / _Ce
+1: ʝ → {∅,ʒ} (the latter is rare)
+1: C0VC0 → Cː
+1: V → e / %(C)(C)_%r when unstressed (with some exceptions)
+1: T h2 → D h3 / V[-stress]_V[-stress]
+1: uj → ui / {C[+dental],C[+sibilant]}_
+1: yʔ → ioʔ (→ iʊʔ dialectally?) / {∅,C[+guttural]}_, in -k-types
+1: sː ɬ(ː) xː → h xʲ x
+1: ɑ ə ʊ → a {i,e} u
+1: {œ,ɔ} → øː/œ “(except Suðuroy → ʏ)”
+1: S[+ lenis] N[+ lenis] → S[- lenis] N[- lenis] / in C1 position
+1: e → i / _#
+1: k ŋ → ʔ ∅ / Və̯_#
+1: w → ∅ / C_C (sporadic)
+1: k → j / {e,a,o}_
+1: j → ∅ / V_V
+1: N → ∅ / _ɡ
+1: u → w / ”ɛ_#
+1: — {e(ː),i,ae,oe} → e / _#
+1: a → æ / else
+1: {t,d} → s / _s
+1: ew iw → im ju
+1: {A,O’} → F / _$
+1: ʔ → h / _C ! C = l, or when reduplicated
+1: kʷ → k / #_a%”V
+1: at → {at,ɛ,ed}
+1: i → u / o(ː)_
+1: sʲ zʲ → s z
+1: ehi → eː
+1: u → ∅ / a_
+1: ʔ → ŋ / _V[-high]
+1: V → ə / _(C)#, also in proclitics
+1: V → V[+nas] / _N$C when stressed
+1: au ai → ɔ ɛ
+1: ʍ → f (at least one instance of → w, before a high front vowel)
+1: tʃ → i / C_
+1: tː nt → cː ɲc / {i,j}_
+1: {l(ː),rl} C → ɬ C[- voice] / S_ ! Sː_
+1: aː → ai / _j
+1: ɡʷ → ɡw / #_
+1: {{a/e},{e/a}} {ı̃,ẽ} → a ẽ
+1: ə1 → æ2 / in some other unspecified circumstances
+1: p d D → f ð T
+1: {uː,eu,au} → u
+1: ʎ → j
+1: n → t / ʔ_#
+1: iʔ iw → eʔ ew / C̣_ (the latter with variant iɛu?)
+1: C → ∅ / s_#
+1: u → o / _p
+1: ʔ → ∅ / _ɲ
+1: r → ɡʟ
+1: l → u / _C (sometimes)
+1: dz ʃ tʃ → ʒ s1 s2
+1: β → b / {r,l}_
+1: CV → ∅ / _# (possibly only when CV_#, possibly sporadic)
+1: o → u / ! o(C…)_(C…)#
+1: rnj → r.mj
+1: Nt tr d KT çT → mt. tʂ t kt ʃt
+1: e → i / _{k,m} “when in the second syllable of glottal words”
+1: h → ∅ / _{k,t,ts,s}#
+1: d ɡ → r k
+1: {p,k} → h / _t
+1: v → p / #_
+1: s c *J → {h,z} {s,z} z
+1: C[-nas] → h / _k
+1: tsʲ → tɕ
+1: BʱBʱ → BBʱ
+1: s → ∅ / V_V (sporadic)
+1: tʼ {kʼ,ɡ,w} → {t,d} k
+1: tː → sː
+1: s → n / #_
+1: j → ∅ / V[-front]_#
+1: jt js → tʃ ʃ
+1: k ɡ → tʃ dʒ / _a (note the similarity with some varieties of Old Provençal)
+1: kr rk {rK,Pɡ} ɡ Pɡ sɡ → k.r rk. pk k sk
+1: i → e / _O[+ labial]
+1: t → ts / _{i,e}
+1: ʈ → t
+1: ẽ õ → ja u
+1: {e,ɤ}ː → je (the second one is conjectured based on my admittedly sparse knowledge of Turkish; I can only guess that 〈ė〉 is some sort of back unrounded vowel)
+1: βj → j (in forms of habeo and debeo)
+1: t(ʰ) d → tʃ dʒ / _i
+1: e(ː)i → i
+1: {u(ː),o(ː)} → o → u / _#
+1: k ɡ s → ts dz ʃ / _i
+1: h2 → q / _E (possibly plain velar stop)
+1: d KT → l kt
+1: ts → t (unconditional; some Samoyedic langs)
+1: eː → æ
+1: {e(ː),i(ː)} {a(ː),o(ː),u(ː)} → ẽ õ / _N$
+1: ɡʷ → kʷʰ
+1: v → ∅ / _i
+1: ś → {s(ː),ʃ} / _#
+1: eə → eː
+1: lts rts NTS PTS STS → lɖʐ rts. {mdzr,mtʃ} nt. sts
+1: ∅ → ŋ / {#,V}_w
+1: Va → Vː / unstressed
+1: i(C)V[+ high] i(C)V[+ mid] i(C)a → i(C) i(C)ə {e,i}(C)ə
+1: iʔ uʔ → j w / C_V
+1: xʲ → w
+1: t.ʂ t.ɕ → kʂ cʰː
+1: jd → {dʒ,id}
+1: ᵐb ⁿd s → b {s,t} {t,s} / #_
+1: uː → ʊʉ → ʉː / else
+1: ь ъ → i ɨ / _j
+1: p…kʷ → kʷ…kʷ
+1: ç → zɡ / _r
+1: ∅ → i / #_sC
+1: h → x / _%
+1: q dʒ → ɡ ʒ
+1: ia iu → jaː juː
+1: {a/e} {e/a} {ı̃,ẽ} → e a ẽ
+1: stʃ → is (otherwise)
+1: p {ts,k(ʷ)} m n l r y → pj sʲ ʂ mj ɲ lj rj wj / _{E(:),y}
+1: ʕ → ʔˤ
+1: e → u / %(C)(C)_ɫ when unstressed
+1: r → ʃ / _O
+1: — s → z / {#,V}_{V,R} ! R = j
+1: c → tʃ / i_
+1: {c,*C,s,*S} → c (again, possibly a change from POn-PAn, if it existed)
+1: a → ɑ̃ / _N (short only)
+1: d → ∅ / ɫ_ɲ
+1: pʰ → ɸ / else
+1: Vn → V[+nas] (sometimes)
+1: tʲ s → ʒ z / in U[-stress]
+1: uwa → oː (*)
+1: {pʂ,cʂ,ɟʐʱ,ɡʐʱ} → kʂ
+1: pl bl p t → br {br,l} b d / V_V (bl → l is learned)
+1: — V → ∅ / lv_r (dialect-dependent)
+1: s3 → ʃ / V_V
+1: ð → d / ! V_V
+1: ŋʷ → m / V[+nas]_V[+nas]
+1: i u → e o / _%{a,o}
+1: ɡʷ → kʷ / #_V[+nas]
+1: {u,a} → e / _CVC#, when stressed (short only)
+1: qh → h / _r
+1: e(ː) → i(ː) / #C[+sibilant]_{d,n,r}
+1: ɭ → ɖ / _a
+1: ts (r)dz dʒ PTS KTS sTS çTS → {tsʰ,s} (r)ts tsʰ ɡ.ts s.{ts,pj} {s.ts,br}
+1: {ei,ɔi} → oi / C[-nas]
+1: iiɛ Vdiɛ → dzɛ ɾɛ
+1: n[+ fortis] → n(ː) / V_V
+1: i → ∅ / a_
+1: k(ʷ) → ʔ / _#
+1: li → lj / _V
+1: Vh → Vː / _{n,w,j}
+1: a → ɜ / _wo
+1: e → j / {a,o,u}_
+1: Pç → mʃ
+1: kʼ kʷʼ → {ɣ,q} ɣʷ
+1: C → ∅ / _# (except for *k?)
+1: ɣ → j / C_e
+1: n → ∅ / V_C (in words of more than one syllable)
+1: x → ∅ / _{i,j}
+1: hl → ɬ / #_
+1: ∅ → Vː[+high rising tone] / C_# (“usually one of [/aː iː ʌ̃ː/ with this tone], the conditions are unclear”)
+1: s → h / _i
+1: p t k → f θ x
+1: ʔ → ʕ / _V{n,r,ɡ}
+1: n → ɲ / i_{o,a} (the former is conjectured)
+1: ɟ → j / V_V
+1: a ap at ar am aj → e eb e(d) er om e.i
+1: hʷ → ʍ
+1: kx → s
+1: — r → ∅ / #_
+1: χ ʁ → s z / _{i,j}
+1: j → ∅ / n_
+1: — d → ∅ / _n (sometimes)
+1: ʔ → ∅ / _C[+ fricative - voiced]
+1: d → r / V_V
+1: l → ∅ / {i,u}_
+1: aŋ → o / _#
+1: ! !̬ !̃ → !~k !̬~ɡ !̃(n)~ŋɡ
+1: {b,v,w} → ∅ / V_V
+1: x ɣ → h ʔ / _#
+1: mj pj bj → mlʲ plʲ blʲ
+1: pː pwː t̪ː tː kː cː → pʰ hʷ t̪ʰ tʰ h jʰ
+1: rm rn → mj rw
+1: ʂ → x / k_
+1: — e o → i u / _C(…C){H,j}
+1: V% → mid tone / C_ru
+1: r → s / H_
+1: {ɡ́ʰ,x} {ɸ,θ,ɡʷʰ} → h f
+1: {z,*j} → d / V_V
+1: m → mt.
+1: lj rj kj ɡj → ʎ jr ts ʒ / V_V
+1: t → ∅ / _{k,n}
+1: k → k~∅
+1: e a → i e
+1: wa → o / #_
+1: f → d (yes, really)
+1: Kw → Kʷ- / _a-
+1: waː → wo
+1: w → {ɡw,v} / #_
+1: pː tː kː sː tːs ʝː → p t k s ts ʝ
+1: yː → i
+1: pk → ptʃ / _a
+1: rːVɡ rːj → rdʒ ir
+1: ɨ → ∅ / else
+1: w → v / #_
+1: tɬʷʲ tɬʷʲː tɬʷʲʼ dɮʷʲ → tʃʷ ʒʷ tʃʷʼ dʒʷ
+1: t → l / #_, in nouns
+1: au → u / #_ (sporadically, e.g. audire → udire)
+1: V → ∅ / #(C)VC[-coronal]_
+1: oʊ iː → ɔʊ ɪə / _ɫ
+1: Cʷ → C / _ə{(C){p,kʷ},m,w}
+1: u o → i e
+1: {z,x(ː)} → h
+1: ∅ → t / #_s
+1: {l(ː),rl} C → ɬ C[- voice] / _{S[- voice],s}
+1: sj zj lj → ʃ ʒ j~ɫj / else “(j~ɫj fluctuation is formality)”
+1: S → S[+ voice] / V_V
+1: o → ʌ / P_r
+1: qʷː ɢʷ → qʷ ʁʷ
+1: — E → j (presumably in the vicinity of another vowel)
+1: ʔ → ∅ / _C
+1: tʃ → ʃ (?)
+1: N → n / _V
+1: dtʃ → dz → z (else)
+1: kj → tʃ.
+1: — e → i / _V (and possibly V_?)
+1: ʈ → l / V_V
+1: r → ∅ / Vh_
+1: e → o / C_Pu
+1: æy ey → æu eu
+1: — t tʃ k(ʷ) → d dʒ ɡ(ʷ) / _{V,R}
+1: cʰ → s
+1: e → ə / #(C…)_(%…)” in U[+open]
+1: dr → {d,r}
+1: e → o / _m”V (irregular)
+1: ɛ → ə / _$ɨ
+1: j → ∅ / n_# (in many dialects)
+1: hkw → ʔk
+1:     S → Sʰ / _{C,#} (also holds for affricates)
+1: t → ∅ / p_
+1: kʲ → kj / else
+1: V → Vː / _C[-glottal] “in even-numbered syllables when accented or immediately before the accent”
+1: ɨə → ɨː
+1: ɪ → ɜ / _{K,r}
+1: q → {k,∅}
+1: æ Vh {ʕ,h} → ɑː Vː ∅ (seems to have largely been confined to loanwords from Persian)
+1: {l,d} z → r d
+1: r l → tː tħ / #_
+1: n → t / _kʷ
+1: stj → ʃ
+1: ”Vʕ ʕ”V → ”aa a”a (but stays /ʕ/ sometimes?)
+1: ŋ → w / _{A,O,U}
+1: s̻ → s̺ / _{C,#} (sometimes)
+1: β ð ɣ → ɸ θ x / V_(s)#
+1: (aw)aha → aː
+1: q → i / #_V{Z,C[+dental]}
+1: {e,a,o} → ā / _N in ”U[+open]
+1: {e,o} → a / _w
+1: — mpVt skVp spVt stVk → nt sp st sk
+1: k → x / {#,R,ʔ,V}_{V,ʔ,R,#}
+1: ɑ → ɔ (does not occur in Sacramento)
+1: C0VC0 → C0ː
+1: ua → ou
+1: q → χ (→ ʕ)
+1: t → ts / _i ! following a coronal obstruent or “before a derivational suffix”
+1: a → {o,ɔ} / _{K,r} (! K = w ?)
+1: ɰ ɰ̃ w̃ → h h̃ h̃ʷ / #_
+1: Vː → V / _N#; “[i]t is thought that the long vowel probably needed to be unstressed- again, this is uncertain”
+1: {ts,st} tsː tsːʼ stː dz → {s,ts} {ts,tʃ} tː s z
+1: C[-voiced] → C[+voiced] / N_
+1: ð → ∅ / au_
+1: {aja,iha,iji,ihi,ija} → iː
+1: S[+ voice] → ∅ / N_
+1: V[+ nas] → V[- nas] / C_ ! C = N
+1: Kwə- → Kʷɨ-
+1: ej ow → eː oː happened “in the various Ionic dialects at various dates”
+1: ɡ → {∅,ɣ} / V_V
+1: j → i / _C
+1: r → h / s_
+1: !̃(n) → ŋ
+1: kʷ → kw / else
+1: C[+ sibilant] → s / _#
+1: z → k
+1: ∅ → U / #_{l,r} (not sure what 〈U〉 represents here; maybe just some sort of back vowel?)
+1: ktʃ → its → is (else)
+1: s → ʃ / #_{p,t}
+1: bʱ dʱ ɡ́ʱ ɡʷʱ → p t j k / #_
+1: ts → sː / V_V
+1: V”e → ”Vi
+1: t → tʃ / _ʔ
+1: i → ı̆ [ə?] → {e,a} (strong)/∅ (weak) “in modern languages”
+1: ∅ → w / u_V
+1: l → ɭ / V_#
+1: pv → f
+1: — {m,n} → ∅ / _# in polysyllables
+1: ts dz → s̪ z̪
+1: çK → ʂk
+1: kʷ kʷʰ kʷʼ ɡʷ → k kʰ kʼ ɡ
+1: ɣ → ʋ / U_U
+1: Nç → n.pj.
+1: kʷ → k
+1: k(ʷ) ɡ(ʷ)(ʱ) → tʃ dʒ / _E
+1: — ndzVɡ → nɡ
+1: ∅ → j / {oːw,iːj}_i#
+1: V{j,w} → Vː / C_C
+1: ʀ → r / _C[+dental]
+1: {w,β}h → f
+1: {lː,rl} → tɬ / _#
+1: m → w (Crow seems to have gained a phonemic /m/ after this, however)
+1: ʂ → ∅ / _u
+1: — d → z → ∅ / V_V
+1: N → ∅ / V_{C[+sibilant],p}
+1: aː → æː / else
+1: tʲ → t / _a
+1: ai ɔi → ɛ yː
+1: ts tsʰ tsʼ → tʃ tʃʰ tʃʼ
+1: b d ɡ → β ð ɣ / V_V
+1: j → dz / #_
+1: e → i / k_y (maybe they mean k_j?)
+1: t → j / medially
+1: o → a / _u
+1: i → e / _(C)e
+1: t → ∅ / _s#
+1: ǁˀ ǁxʼ → {ǁˀ,∅} ǁˀ
+1: o → e / w_{r,s,t}
+1: s → θ → b / _r
+1: *j → ɡ / #_
+1: {ths,tts} → tsh
+1: j → i / C(V)_
+1: u → ∅ / o_e
+1: V → ∅ / {r,l}_C when unstressed and not at a word boundary
+1: {w,m} → v
+1: C1[+ weak] C2[+ weak] → ʔ h / V_V#
+1: p q → {v,p} ∅
+1: q → ∅ / #_ (sometimes; “represented by *h in PB”)
+1: a → æː / short only, includes diphthongs ! B or *ã in next syllable
+1: βj → {udʒ,uj} (in northern dialects)
+1: ɬʷʲ(~ɬʷː) ɮʷʲ → ʃʷ ʒʷ
+1: pʲː → tʷ~dʷ
+1: s → ∅ / x_
+1: s → ∅ / #_C
+1: ɕ(ː) ʑ → ʃ(ː) ʒ
+1: pw → w (sporadic)
+1: ik → ɡ / {s,k,p}_ ?
+1: R F → R[-voiced] F[-voiced] / _# in suffixes
+1: æ ø → i {o,u} / _Ce
+1: kː kʼ ɡ → k {kʼ,ɡ} {kʼ,kː}
+1: ŋ → w / {O,U}_
+1: t → l / medially
+1: {ɾ,r} → ∅ / #_
+1: u → i (typical)
+1: {t,d} → ∅ / n_#
+1: — a → i / _n (in northern varieties)
+1: ”ɨ ”ə ɨ[- stress] ə[- stress] → ɨ a a ə
+1: a ɑ {ɛ,ɪ,ɤ} → ɑː ɔː ɜː / _ɹ{C,#}
+1: kh → kʰ / #_{i,u}
+1: k → tʃ “(‘in certain cases’)”
+1: t tʰ tʼ → ts tsʰ tsʼ / #_ “(in some words, conditioning factors unclear)”
+1: pw → w
+1: u → ɚ / Pr_%
+1: t → ʃ / _E
+1: S → ∅ / N[+ same POA]_S
+1: v ɟ → f c / #_
+1: s → ∅ / V[- long]r_#
+1: (t)s → (d)z / V_V
+1: p t {r,l} → ∅ s j / _u
+1: k{l,r} → {kj,tʃ}
+1: p t k → {hp,∅} ht {hk,∅}
+1: ɨ̃ ẽ õ → ∅ {ẽ,e} {o,õ,u,ũ}
+1: a → e / {R,T}_%
+1: nː → tn̥ / V_#
+1: {f,v} → ∅ / {l,r,V}_ (sometimes blocked)
+1: ɾ → ∅ / ! _C
+1: V[+high] → ə / _j
+1: d → l / _V[-nas]
+1:     Nʔ → Nˀ
+1: o → ɔː / _i
+1: ɨ ʉ → ∅ / ! _#
+1: ∅ → V0 / ”V03ʔ_
+1: eː oː → eɪ oʊ / ! _ɹ
+1: s → z → l / l_
+1: ʋ l → w ɹ / #(C)V_
+1: tj dj → tʃ dʒ
+1: x → j / {I,E}_C
+1: cʰː → cʰ / C_
+1: {TŠ,TŠʷ} → TŠ (→ TS in Upper Inlet dialect)
+1: q → h / {r,s}_
+1: a e i u æ ø y → a {a,ʌ,e} {ɯ,i} {u,o} {ia,ja,ɛ} {ia,ja} ɯ / _Ca
+1: è → iɛ / in U[+open]
+1: ʔ{l,d} ʔɡ → t k
+1: z → ∅ / V_V
+1: lʲ → l~ɣʲ
+1: hts → z / V_i
+1: p(ʷ)ʼ t(ʷ)ʼ tsʼ tsʷʼ~ʃʷʼ → pˤ tˤ tsˤ ʂʷ
+1: e → o / P_Cu
+1: ɲ → {ɲ,n̪}
+1: ʔ → ∅ / ”Vː_
+1: {r,s}k {r,s}Nk → k ʁ / _V
+1: — V0V0 → V0ː
+1: p(ʰ) → ɸ
+1: r → {r,l,∅}
+1: {ẽ,ı̃} ɨ̃ {u,ũ,õ} → i ɨ o
+1: a → {ɛ,e} “in some words”
+1: tʷː tʷʲ(ʼ) → d(w) tʷ(ʼ)
+1: ʊe → e
+1: nː lː rː sː → n l r s / C_
+1: ɡʷʱ → ɡʱ / #_
+1: w → ∅ / w?_
+1: nkw → ʔː
+1: r → l / ! _{u,#}
+1: {xʷ,ɢʷ} → w / else
+1: çT → ʃt
+1: ə → ɛ / #R_C or when breaking up what would otherwise be a three-consonant cluster; in the case of two schwas, only the first one is dropped
+1: a → ∅ / C[+ dental/alveolar]_u
+1: j → ∅ / V_u (sporadic)
+1: eː ɛː → iː eː
+1: s → z / {#,V}_{V,R}
+1: ɡ → {ɡ,dʒ}
+1: ∅ → k / s_(h)w
+1: o → u / _ɲ when stressed
+1: ey → ɛ / _r
+1: s → tʃ / #_a
+1: s → ʃ / _iV
+1: {h,s,tʃ,θ} → ʔ / _O
+1: r̥ → er / _#
+1: a o → e u / %(C)(C)_C(C)% when unstressed
+1: j → ∅ / _ɛ “in participial and deverbal forms originally with alveolopalatal consonants in the onsets of two consecutive syllables”
+1: ʈʂʼ → ts
+1: a → ∅ / _”V
+1: dj → ʒ / _”B
+1: a(ː) ae → o(ː) ɒø / #(C)(C)(C)_(C)(C)(C)u
+1: h → {∅,h}
+1: V3ʔR → V3ːR
+1: V → i / %(C)(C)_% when unstressed
+1: v → ∅ / _stv
+1: n → ∅ / ŋ_{s,w}
+1: i e a u {ɑ,ʊ} → e a ɔ o ŭ
+1: {a,i} → ɯ / R_%
+1: dr çdr → ʈ ʂʈdz
+1: i → j / h_ ! _#
+1: ḱ ɡ́ → s z
+1: V → u / _Cu
+1: ʂ s → s ç
+1: qʲʷ qʲʷː qʲʷʼ ɢʲʷ χʲʷ ʁʲʷ → xʲ qʲ qʲʼ ʁʲ χʲ ʁʲ
+1: x → h / #_
+1: {u,æ} ø → {o,u} i / _Co
+1: n[+ fortis] → n
+1: {i3~e3} → {i3,ə3}
+1: u → uː / short: ʊ / unstressed: {o,ɔ}
+1: {f,β,p} → ∅ / l_{d,ɡ,n,ð,t}
+1: eɡ → {je,iː,ji}
+1: pː tː tsː tsʷ ʃː tʃː tɕː kʲː kʷː qː~qχ qʷː~qχʷ → p t ts tʃʷ ʃ ɕ tɕ tʃ kʷ qː qʷ
+1: a → ɔ / _{ŋ,k}
+1: V → a / _Ca
+1: i iː u → ə ei oʊ̯
+1: ei oi ou → iː eː uː / %(C)(C)_ when unstressed
+1: {(i)ɛ,i̯ɛ} → ɛː
+1: ʃ θ m k → θ t b tʃ / _e(ː)
+1: h → ʔ / V0V0
+1: ɑː æː ɑi æi → uɑ iæ ɑe æe
+1: zː → dʒː
+1: {ɛ̃,ɔ̃} → ã
+1: p(ː) t(ː) k(ː) → b(ː) d(ː) ɡ(ː) / {V,R}_{V,R}
+1: ɾ → r / _C
+1: bʱ → h / #_ (in rustic dialects)
+1: x → sː / e(ː)_s
+1: ʋ → ∅ / {d,z}_
+1: e → ∅ / #_e
+1: V → ”V / “in antepenultimate syllables, if the vowel of the penultimate syllable was short */a/ followed by a single non-glottal consonant”
+1: xʷ → h / %_{o,i}(C)#
+1: Nnj → mɲ ?
+1: C[+ sibilant]w → sj
+1: ! !ˀ !̬ !̃ → k ∅ ɡ ŋɡ
+1: lenis (voiced) → fricative / {l,r,s̺,s̻,V}_{l,r,s̺,s̻,V}
+1: b ɡ → β V / V_V
+1: Vnʔ VnC → V[+ nas] V[+ nas] / _#
+1: {ts(ʰ),tʃ} dz → s ɟ
+1: Nkj (s)ɡr Kç kr skr ɡr → mɡj (s)kr ɡçkr kʰr zɡr Nɡr
+1: ip it → ib o
+1: x ʕ → χ ʔ
+1: ts → s / ! _{h,i,j,r}
+1: p → {t,∅} / near consonants
+1: b → v / #_ (sporadic?)
+1: ndr → d
+1: r[+ fortis] → ɾ / _#
+1: Pʲ → P / _C
+1: hts → tsh / C_V
+1: n → ∅ / _# when unstressed (not clear as to whether m → n beforehand in this position or not)
+1: kl pl → ʎ {ʎ,tʃ}
+1: w → m / _Vn (sporadic)
+1: o → a / ! o(C…)_ or _(C…){o,i}
+1: h → ∅ / ! #_
+1: v → f / C[+ sibilant]%
+1: V → ∅ / _# (with very few exceptions)
+1: tɕ → ʃ
+1: aw → u
+1: ej → ai
+1: ð → ∅ / _r
+1: z(ʔ) ʒ(ʔ) ɮ(ʔ) → dz dʒ dɮ / _#
+1: Lʲ → j / #_õ (*)
+1: z → d / “when another sibilant is in the word nearby” and (word-finally?) when “noun-stem final”
+1: Vɾ → ɾV / C_#
+1: lm → ml (sporadic)
+1: V → Vː / _z{l,r}
+1: kθ → θː
+1: e → i / p_r
+1: {me,ne} → ∅ / #_O “(followed by truncation of following x)”
+1: — V → ∅ / {O,ɾ,r}_O (Roncalese, Salazarese, Navarrese, Aescoan)
+1: t → c / {E,j}_ (“some areas”)
+1: ⁿd ŋ → t {ɡ,k} / _V[-nas]
+1: {nθ,nl} → hl
+1: S → ⁿS / #NV_ (sporadic)
+1: tɬ tɬː tɬ(ː)ʼ dɮ → xʲ xː kʼ {kː,l}
+1: tʃ → ʂ / _#
+1: en an → ẽ ã
+1: w → ∅ / C_B (when from earlier B?)
+1: əː → eː
+1: oː(s,y) oːn → u {u,õ}
+1: ɑː → ɔː
+1: dz → ts
+1: V → ɛ (sporadic, analogical)
+1: {r,r̥} → l
+1: æ → ɛ / _C[+alveolar]
+1: hr hn → r̥ n̥ / #_
+1: Vː → V[-long] / _{m,(n)t,l,r}#
+1: — {o(ː),uː} → o
+1: V → j / V_nʲtʲ ! V = E
+1: d → ð / ɾ_
+1: ∅ → ʉ / {l,ɭ}_# if {M,Vː} previously in the lexeme
+1: ɔ → oː
+1:     Some corrections have been made (e.g., to the conditioning of the Ōkami change of *t → k).
+1: e → a / _ʔ in U[-stress]
+1: ã → ẽ / _rõː
+1: s z → θ ð (sporadic)
+1: uː → ʌu / when-stem final, in northern varieties
+1: j → i / _(s)#
+1: {iN,u} i → i ɯ / T_
+1: ts → tʃ / _{h,i,j}
+1: æː → a / “After palatal fricatives and affricates”
+1: pː tː kː → f θ x
+1: ɨ̆ə → ɨ̆ / _C%
+1: n̩ː → n
+1: l → ∅ / s_-
+1: {ɛ,e} {~ɛ,ẽ} → ə ə̃
+1: hi → ∅ / aː_
+1: k ɡ → c ɟ / _E
+1: yʔ → yɛʔ / {l,C[+dental +sibilant]}_ in “QYS -juət-type” finals, dialectally?
+1: ɟ ʄ j c ɠʷ → c ɟ ʄ t ɠ̥p
+1: s → ∅ / #h_V
+1: l → r / #nV_C
+1: j → χ (probably through intermediates like above, Wikipedia doesn’t go into particulars of how and where)
+1: h → ∅ / {t,ts,s,k}_
+1: a → æ / ! _B
+1: ьl → ɫu / C[+dental]_
+1: ai iɛɪ → ɛ i
+1: ʃː ɬː xː → ʃ ɬ x
+1: {s,*R} → r / _#
+1: a → e / _C(C)#
+1: e → i / r_ʔ
+1: v(ʷ) → h
+1: ʔ → h / _C “in post-tonic syllables”
+1: pː tː kː → b d {ɡ,ɣ} / V_V
+1: j → ∅ / #_e (not widely attested)
+1: — i u → e o / _C(…C){a(ː),e(ː),o(ː)}
+1: V1k → ∅ / _#
+1: ⁿd ᵑɡ → d k
+1: N → N[+ same POA] / _S
+1: xʲ xʔ j ɣʔ → h ʔ ∅ ʔ / E_#
+1: ʀ → ʔ / _# “(in a handful of forms)”
+1: h → ʔ / a_{i,u}
+1: dz dʒ ɖʐ → {dz,z} {dʒɡ,sɡ} {dʒ,ʒ}
+1: l → ∅ / {i,e}_
+1: {t,s} → ∅ / _#
+1: ɨ → ∅ / ! #_{p,β}e
+1: k kʼ kʷ kʷʼ ɡ ɡʷ → kʲ kʲʼ tʂ tʂʼ ɡʲ ɖʐ
+1: qʼ → q
+1: iiɛ Vdiɛ → ijɛ βe
+1: uh1 u{h2,h3} → uː → wə wɨ
+1: {a,ɛ}i əj → ai i
+1: ʂ → s̪
+1: ∅ → w / #(C)uː(C)_V ! _u
+1: m → n / _{t,tsʲ,#}
+1: {z,*Z,*D,*j} → d
+1: tʲ → s / _u
+1: ɫj → ɫi / “after any segment after which coda-/ɫ/ is forbidden, e.g. failure [fæiɫiɐ]”
+1: ə → ∅ / _j
+1: e → ə / #(C…)V…{t,d,n}_…”U
+1: j → ∅ / {ʃ,r}n_
+1: {wiː,jiː,weː,jeː,wæː,jæː} {wi,ji,we,je,wæ,jæ} → iː i / C_
+1: ɑ ʊ → a o
+1: V → Vː / by analogy in some cases
+1: uː iː → u i
+1: N → ∅ / V[+nas]_$C ! C = S
+1: ɒ → oː / n_h
+1: rtʃ rdtʃ → r(t)s {rdz(→ rz),rts,rdʒ}
+1: t → z → @ / _r{i,e}
+1: χ → k / #_
+1: (P)ç Nç çl → (b)ɕ np.j ʂl
+1: ai au eu → {eː,aː} aː ia
+1: sj → ʒ → iz (the usual outcome)
+1: ó → ɔ / _N
+1: V → Vː / _l{P,w,k,#}
+1: R Hn̩ → ɛR ɨn / #_C
+1: s → c& _ (the paper doesn’t explain what this represents)
+1: ∅ → e / {t,k}_{r,n}
+1: ɨ a → ɨː aː / _i
+1: w → f (Common Celtic; I’m not sure of the conditions)
+1: {*D,*Z} → d
+1: ḱ ɡ́ ɡ́ʱ → k ɡ ɡʱ
+1: d → ∅
+1: b → m / V_V (sporadic?)
+1: tʃ → ʃ / _{w,i}
+1: ∅ → ə / M_r% (I don’t know what Mr. Ciupak means by 〈M〉)
+1: h → ∅ / _$
+1: j → {d,t} / #_
+1: l → ∅ / ! _# (irregular)
+1: f → p / else
+1: k → ɡ / #_{a,r} (rare)
+1: q → x
+1: tsʼ → tʼ
+1: CV → ∅ / _#
+1: q qːʼ → x(?) q
+1: z → j / {#,V}_
+1: dʒ → tʃ / _#
+1: u → ɨ / _{p,b}i
+1: t → {tʃ,dʒ}
+1: p(ʷ) k → v(ʷ) ɣ
+1: w → v / else
+1: l → n / medially
+1: eu → eo
+1: p → vʷ / _u (a change thetha reconstructs in order to account for phenomena in later posts about this group of languages)
+1: e → i / Ḱ_ “[tendency]”
+1: u(ː) → y(ː)
+1: v → b / #_
+1: ow aw ew → ɛu au əw
+1: {jem,jen} → iɛn / sometimes after C̣_ (but ! ʐ_) (only in one variety?)
+1: o ɔ → ɔ ɒ / _ɹ (most dialects have at least one if not both)
+1: s {c,*j} → h s
+1: xʷ → kʷ
+1: ɒ ɒː → ø aː
+1: pʰ b → h w
+1: {ɡ,x} → kʰ
+1: ʃ(~ʃː) ʒ → sʲ sʲ
+1: dʒ → {tʃːʼ,dʒ}
+1: p t k {b,m} d ɡ → b d ɡ v ð ɣ / _V
+1: d s {ʃ,z} → t ∅ s / V_V
+1: ɔ ɨ → oː ɨː / _i
+1: — w → ɡu / “from Germanic loanwords”
+1: w → ∅ / #C_V, except _i(ː)
+1: ∅ → x / _s ! _C{C,#}
+1: β → ∅ / _i
+1: i → u / uC_
+1: d → r (sporadic)
+1: V → Vː / _{r,F[+ voice],V,#}
+1: {ai,oi} → i / j_
+1: n r w j → n̥ r̥ w̥ j̊ / _{#,O}
+1: a → e → i / %(C)(C)_ŋ when unstressed
+1: ʔ → ∅ / _CC
+1: V3ʔ → V3{ː,ʔ} / _O
+1: n → m / {b,p}{l,r,ʐ}V_
+1: x2 → ɡ / n_
+1: p k → k ∅
+1: ts dz kxʼ → {ts,s} d ∅
+1: i → ∅ / ts_#
+1: ɲ → n / _i
+1: — ɔ → {ɔ,we} (in southwestern dialects)
+1: {t,ð} → n / _#
+1: {t,d}j → tʃ
+1: ʎ ɲ → jl jn (“common in Low Navarrese, Labourdin, and is even regular in the High Navarrese of Sakana”)
+1: S → Sʰ → Aʰ
+1: t̪ t̪ʰ t tʰ → t tʰ c s
+1: je jeʔ → iɛ iɛʔ
+1: t → s / _u
+1: k → q / #_V[+low]
+1: tsː → ts / V_
+1: kl → kː
+1: N[+ lenis] → N[- lenis] / in C1 position
+1: d → tʃ / _{i,u}
+1: ɡ → ʝ / V_# ! _C “(most times)”
+1: w (→ v?) → f / s_
+1: l → ∅ / {p,k(ʰ),ŋ}_
+1: ”V → ”Vː / _C(R)V
+1: p t k → pf ts kx / #_
+1: f → p (? claimed to have occurred independently in Proto-Semitic and Proto-Omotic, and to a limited extent in Egyptian (but this may be related to the Semitic change); note that the Wikipedia article is cited to a single source and that source is admittedly theoretical, and acknowledges on page 77 another reconstruction that doesn’t believe Proto-Afro-Asiatic had /f/ at all) (Page 77 of http://is.gd/WNyXdn, https://en.wikipedia.org/wiki/Proto-Afro-Asiatic_language)
+1: {e,i} → ∅ / {l,m,r}_ when between #U and U[+stress]
+1: ʃ → {x,χ}
+1: w → ∅ / C_
+1: b → m / #_
+1: k → ∅ / s_b (sporadic?)
+1: s̺ → tʃ / #_ (Guipuscoan)
+1: ɣ → ɡ / #_VCH
+1: iiɛ Vdiɛ → ijɛ βie
+1: ɕr̝ ʑr̝ → ʂr ʐr / “‘szron’ and ‘żreć’”, respectively
+1: l h → n ∅ / medially
+1: wʲ → w / _?Cʲ
+1: Nl → nd
+1: a o → ei {ɨ,ei} / _(C…)j(C…)#
+1: Ch → ∅ / _s#
+1: — {o,u}(ː) → iː / _$%oː
+1: *L (fortis) → l (or *lh → lː, which then lost gemination?)
+1: e → j / #_a
+1: r → ∅ / VH_
+1: ɡ → ɣ / _V (singleton only)
+1: a → aː / _C# (sometimes)
+1: oı̃ → wɛ̃
+1: χ → h #_
+1: l lʲ → r s / else
+1: or → ro
+1: — hn hm → nː mː / [anything]_ (“[t]his change is a bit speculative”)
+1: ŋ → {m,n,ŋ,h}
+1: w → ʋ / #_o
+1: nVs dVs → n(V(s)) ʒ(Vʒ)
+1: l ɭ → lːʉ ɭːʉ / _#(C)V[-long]
+1: m n ŋ t {{ɣ,ʁ} → {k,q}} → p t k n ŋ / _#
+1: kʼ → {χʷ,qʷ} / #_
+1: ph th kh qh → pʰ tʰ kʰ qʰ
+1: h → ŋ (Nyole)
+1: {a,i} → ∅ / C”V(C)_
+1: {b,v} → w / V_#
+1: ɨo̯ ɨa̯ ie̯ ɨe̯ → uː aː eː iː
+1: u → ʊ / short only
+1: e → a / _s
+1: ǀ̃(n) ǀxʼ → j ǀˀ
+1: e → ɛ (in Eastern Catalan)
+1: {z,dr} → ts
+1: aj aw → {aj,eː,iː aw,oː,uː}
+1: l̩ l̩ː r̩ r̩ː → ol l or r
+1: p → w / V_V
+1: k x → c ç / _{j,E}
+1: ej ow → e o / _#
+1: ɔ̃ → ɔɰ̃ / _# (in standard registers/pronunciations)
+1: j → nʲ “under obscure conditions (PC morphophonemics?)”
+1: hʷ → {w,ʁʷ}
+1: {ǀˀ,ǀxʼ} → ǀ
+1: m l → {m,n} {l,∅}
+1: n → h / _st
+1: t → tʰ / {aw,ow}_ ! #_
+1: h → ∅ / ! _# (sporadic)
+1: dʒ → z
+1: a → e / _j#
+1: k → ∅ / t_
+1: ʔ → ∅ V3_RV
+1: uV Vː → uː Vː (not sure if this occurs before or after the previous change)
+1: uː → ʊə → uː / _ɫ ! in Queensland and New South Wales
+1: i → ∅ / #w_
+1: {t(ː),ɡː}k → kː
+1: {aw,əw} → o / _#
+1: c ɲ → ∅ {ɲ,j}
+1: t → j / #_i
+1: L → d / ”V_
+1: m → w / ! _w
+1: {bj,vj} → wʒ / _%”V
+1: {e,i} → ∅ / {L,N}_(C)(C)V(C)#
+1: tʃ → t / in nouns
+1: {u,a,i} → ∅ / _%, when stressed (short only)
+1: qːʼ → qː
+1: V[+mid] → ɘ / _C[+high] when stressed
+1: kɨ ɡɨ → kʲi ɡʲi
+1: ∅ → {e,o} / CL_#
+1: ɡ → k / B_ (your guess is probably better than mine)
+1: sːj zj rj → jsː jz jr
+1: r L(ʲ) → d j / #_ (*)
+1: (h1)e (h1)eː → jə jɛː / #_
+1: ae au → e o / _%”V
+1: o → {o,u} / _CV
+1: n → ɾ
+1: j(ː) → ∅ / V_E
+1: l → d / _{C,#}
+1: — j w → iː uː / #_CC
+1: k → ∅ / _t ?
+1: iː → ∅ / _#
+1: iN → ɚ / {P,C}r_%
+1: n → ŋ / _#
+1: a → {a,e} / _Ci
+1: t → ð / V_# “in some verbal endings”
+1: aː → a / else
+1: j → ∅ / {ʃ,θ}
+1: ai u → ei ʏ / _(C…){i(ː),j} (short only; in the case of [ʏ] at least this was not yet phonemic)
+1: tʃʼ → tsʼ / medially
+1: {n,s} → x / _t
+1: sʷʲ zʲ → sʲ z
+1: ɡ → ∅ / _r
+1: iː eː ɛː aː oː uː {øː,yː} → əi i {i,e} e o u ø
+1: w → ∅ / C_#
+1: d → ɡ / _n
+1: — i u → e a / _R{$,#} (in verbs)
+1: s → ∅ / _x
+1: li ni ri si → lʲi nʲi rʲi sʲi
+1: s → {s,ts}
+1: (Vː)θt → (V)tː
+1: eː → iː / ! _{i,u}
+1: kʼ(w) → k / #dlV_
+1: k → ɣ / V_V
+1: pʷ bw mʷ → p b m
+1: q qːʼ → x q(ː)ʼ
+1: NS → ⁿS
+1: j → ∅ / Ḱ_
+1: ɓ ɗ → b d (Only seems to have occurred with first-register tones)
+1: e → ɨ / {k,j}_
+1: stɡ → s{ɡ,dʒ}
+1: s → ʃ / if /l/ is present in the same syllable
+1: ”V0V0 → V0ː[-accent]
+1: mnj → ndʒ (else)
+1: h → t / else (…again, lolwut)
+1: ɖ(ʱ) → ɭ(ʱ)
+1: {a,e} → o / _w#
+1: (C)V → ∅ / #_C… “(irregular)”
+1: kl → ð
+1: — {l,h}l {l,h}r l{p,s,n} r{p,s} ln → lː rː lː rː (lː?) / [anything]_
+1: p → b / medially
+1: r → h / ʃ_
+1: pː tː tsː tsʷː ʃː {tʃː,tɕː} kʷː qː~qχ qʷː~qχʷ → b d dz v ɕ ʒ dʒ ɡʷ qʼ~qχ qʷʼ~qχʷ
+1: n → ɲ / _V[+high]
+1: e → ɨ / _#
+1: {d(V)s,n(V)j} n(V)s → r {VsV,r}
+1: j → dʒ / _V[+high]
+1: θ → ʃ / C_
+1: ɡ ɡʷ → ∅ b
+1: aw → oː (in rustic dialects)
+1: ɡʷ → ∅ / _o
+1: ə → ɐ / near emphatics
+1: ьl → ɛɫ / P_C[+dental -palatalized]
+1: ɸ → ɸ~h
+1: C → ∅ / C1_C2 ! C2 = {r,l}
+1: V3h → V3(ː) / _C
+1: oː → uː / _#
+1: {bʱ,dʱ,ɡʷʱ} → f / #_
+1: ɕ ʑ → s z / _C (sometimes)
+1: a → e / _{i,j,Ḱ}
+1: m → n / _i (Tsakonian)
+1: sː → s / _#
+1: xʲ ɣʲ → sʲ zʲ
+1: əɨ → ai
+1: t → ∅ / _ɹ (only first-register tones can occur in this environment)
+1: i → a / {q,ɣ,ʕ}_Cˤ
+1: s → s : ɬ
+1: S → f / _f
+1: sʼ(?) ʃʼ~ɕʼ → tsʼ ɕʼ
+1: L → r / _V[-nas]
+1: {i,ɨ} → ∅ / _jV when unstressed
+1: h → ∅ / {p,t,k,q}_
+1: — H → a / #R_C
+1: ʃ → x / _k
+1: ə → ∅ “(sporadic)”
+1: ɬ {ʃː,ɬː} xː → xʲ ʃ x
+1: {ɨ̃,õ} ũ → {õ,ẽ} õ
+1: w → {∅,c} / #_
+1: j → i / _#, in polysyllables
+1: kh → k / #_a
+1: s → z / ”V%V_V
+1: S[- voice] → ʰS / _{l,ɬ,m,n}
+1: ∅ → b / m_{r,l}
+1: ey → eː / _F
+1: a → e / _(C)i
+1: vC → Cv / _V
+1: a3 → o3 / _{Cu,C[+ uvular]ʷ,w}
+1: ts → θ
+1: tj dj → tʃ, ʒ
+1: i̯o → o
+1: ɒ → ø / _O[+ dental/alveolar]
+1: V0 → ∅ / ”VC(C)(C)V0ʔ_C(C)(C)#
+1: e(ː) → ɛ(ː)
+1: k kʷ → ts k / _i
+1: — ∅ → o / C_wV(H)#
+1: je jeʔ yeʔ → ɛ ɛʔ uɛʔ / C̣_
+1: ∅ → d / z_r
+1: uɔ ɨ̯ɔ → oː ɨ
+1: {p,b} Np pr {s,r}P çb Nb → p mp mbr sp ʃp p.s
+1: iɡ̌ → ɯː → iː (but original ɯː unaffected?)
+1: k → x / V_t
+1: l → ɾ / _$
+1: DO[+ voice] DO[- voice] → nd nt
+1: u i → o e / in monosyllables
+1: *R → {l,ɡ} / _#
+1: ∅ → a / #_{ra,ro} (sporadic)
+1: o → u / _C(C)# ! {u,w}_
+1: dʒ → tsh
+1: e(ː){B,i(ː)} → e(ː)u / {v,w}_
+1: h → x / _i
+1: — V → ∅ (though /a/ seemed to resist this)
+1: ð → θ / _#
+1: e → ∅ / C[+coronal]_%
+1: e → o / K_
+1: l̥ → t / C_
+1: ɬʲ(~ɬʲʷː) ɮʲ → ɕ ʑ
+1: m → w / _#
+1: N → ∅ / _S “(sporadic)”
+1: — m{ɲ,j} → ndʒ
+1: u {o,ɒ} a au juː → y ø æ y yː / _(C)(C)(C)j
+1: e o → je wo / _#
+1: nj → s / #_ (?)
+1: {l,r} → ∅ / ŋ_
+1: ъl → ɛɫ / K_
+1: w → ∅ / {k,ɡ}_
+1: j → ∅ / #_
+1: ə → ∅ / #_UU(U…)# “(i.e., in word-initial position in prepenultimate syllables)
+1: {k,j} → ∅ / i_
+1: ts → s / _i
+1: t k ŋ → {l,t} {h,k} n / #_
+1: nj → i / #_
+1: b d ɡ → β ð ɣ / “except in Nuorese”
+1: e(ː) i → æ(ː) e
+1: l → {r,ð}
+1: Cl- → T(ʑ)-
+1: — o → ò
+1: ɔ → ə / #_sC
+1: ʃ → s / else
+1: χʷ ʁʷ → ɸ β
+1: V[+nas] → V[-nas] / #S[+voiced]_
+1: w → m
+1: S1 s c → s t ts
+1: t tʰ → c h / _E
+1: TS K → TH TŠ / else
+1: nʲ → dʒ / #_
+1: ç → ʃ / _N
+1: f θ → v ð / #_
+1: qː~qχ qʷː~qχʷ → qː qʷː
+1: ns → ts / _{t,k(ʷ)}
+1: k → x / _{p,t}
+1: T h2 → D h3 / _#
+1: NS[- voice] → S[- voice]ː
+1: ʔ → ∅ / _{p,t}
+1: n → ŋ / _V[- stress]q
+1: ə → o / _x{p,kʷ,V[+round]}
+1: β → b / _l
+1: om → {on,am}
+1: N[- glottalized] → e / _O[+ same POA] “‘in primary forms’”
+1: sk → sː
+1: {*D,*Z,z} → d
+1: ɨ → i / _h
+1: rʲ → {r,t}
+1: ɔk → ɤɣ / _#
+1: c ɟ → tʃ dʒ (for most speakers)
+1: βi → U / _#
+1: — {a,œ,e,i} → e (here, 〈œ〉 denotes the reflex of the Latin vowel written this way, not a front rounded vowel)
+1: {ʔ,h} → ∅ / _nh
+1: ê → y / _(X)CA
+1: {N,r} → ʔ / _C
+1: æ → e / in odd syllables ! _{w,j,H}
+1: ɛ → e / _ʔ#, in monosyllables
+1: β → ∅ / when pretonic and immediately adjacent to a back vowel
+1: a → o / #Cw_{(d)l,s3}
+1: e → ∅ / if another /e/ one syllable previous
+1: ts dz rdz dʒ → {ʈʂ,ʒ} tsj rtsʰ ʈʂ
+1: dʒ ɖʐ → {dʒɡ,dzɡ} dʒ
+1: a → o / _# “(not in all forms)”
+1: nj → ɲ
+1: p → β / V_
+1: {i,e} → {i,ja} (this latter due to the loss of final consonants within the stem)
+1: ɡʷ → hʷ / medially
+1: Kʷ ḱ ɡ́ → K s z
+1: R[- glottalized]VˀR → ˀRVR[- glottalized] / _$
+1: i → ∅ / Aj_#
+1: w{o,u}ːwuː j{e,i}ːjiː → uː iː
+1: tʃ dʒ(ʱ) → tɕ dʑ(ʱ) → ɕ ɟ(ʱ)
+1: e → j / #_V (at least a few times?)
+1: jeː → iː / C_
+1: ŋ → m / #_kʰ
+1: uː iː → oː eː / _ʕ
+1: V → ∅ / s_j (sometimes)
+1: — V → ∅ / _r (seemed to be an intermittent change)
+1: tʃ → sː / medial
+1: n → ∅ / m_
+1: e → i / #(C)_ “(but remains e in a few cases?)”
+1: ŋ → j / _Cʲ (possibly _F instead?)
+1: f → v / V_V
+1: s → c
+1: j → ∅ / _”E (else)
+1: j → ∅ / {ts,dz}_
+1: — ∅ → a / C_RC
+1: ∅ → ʔ / #_V
+1: tʃ tʃː dʒ → {ts,tʃ} {tsʼ,tʃʼ} tʃ(ː)ʼ
+1: {eː,ej} ɛː ɑ(ː)j {oj,ɔːj} → iː eː ɛː {y,ø}
+1: kʼ → h / j_
+1: ˀN ˀw → N w
+1: çb → ʂp
+1: e → ɤ / _C(C){a,o,u}
+1: o → a / ! o(C…)_(C…)#
+1: {k(ʷ)es,keθ} → sː
+1: {l,ɲ} → n
+1: h → ʔ / V0_V0
+1: ʒ → {tʃ,ts}
+1: k → ∅ / V_V (sporadic?)
+1: s → ʃ / ! n_ “or when part of the unit affricate /ts/”
+1: C → Cʷ / _{B,w}
+1: dʒ → ɡ
+1: s → ʃ / i_#
+1: x xʷ → {xʲ,j} {ʂ,ʐ}
+1: oː → u(ː)
+1: ɡ → ʝ / _E (singleton only)
+1: d(V)j s(V)j → lʲ dʒ
+1: j → c / {O,r}
+1: {ʔ,h,N} → ∅ / _C
+1: b → u / _C
+1: w → ∅ / k_w
+1: ts {dz,KTS} NTS rdz dzl dʒ → s ts {dz,mtʃ.} rts tsl tʃ.
+1: ə → a / near ħ ʕ
+1: a → i / iC_
+1: bʱ dʱ {ɡʱ,ɡ́ʱ} ɡʷʱ → b d ɡ ɡʷ
+1: ə → ∅ / #_, “under certain conditions not yet discovered”
+1: z → h / V_a
+1: p → ∅ / {#,Vs}_
+1: l → ɾ / ! _$ or o_
+1: R[- glottalized]VOʼ → ˀRVO[- ejective] / _$
+1: tʃ tʃʰ dʒ → ʃ tsʰ {ʃ,tʃ}
+1: v → {w,u} (“sporadically”)
+1: yʔ → oʔ (→ ʊʔ?) / C̣_, in -k-types
+1: o → u / _{ɲ,nk,ŋ} when stressed
+1: ɡb → b
+1: {l,r} → ∅ / {n,ɗ}_
+1: {ɸ,x} → ∅ / _# (seems to be sporadic)
+1: ɽ → ɭ
+1: n → {n,ɲ} (the latter “under obscure conditions”)
+1: Nnj → mɲ
+1: u̯a → aː
+1: t → tʃ / ! n_
+1: tʰ → ∅ / _r
+1: ɡʷʱ → f / _r
+1: tʃ tʃː dʒ → {tsʼ,tʃʼ} ʒ ts
+1: dr *r → d r
+1: θ → ∅
+1: w → u / _”V
+1: q ɢ → x {qːʼ,ɣ}
+1: {ts,st} tsː tsːʼ stː dz → s {s,ʃ} tsʼ sː ts
+1: x → χ (conjectured based upon the following but not outright stated in the article)
+1: V[-high] → ə → ∅ / _V “(except that a is kept before o)”
+1: ŋ → n / _t (?)
+1: {x,ɣ}ʔ → {ʔ,ɡ} (Hoijer notes a reflex “-g-”)
+1: ts → dz / ! #_
+1: t̪(ʰ) t(ʰ) → cʰ tʰ
+1: k ɡ → c ɟ / _{E,j}
+1: n → ∅ / V[+nas]_
+1: W → j / C_
+1: {ɡ,ɣ} → ∅ / l_{ð,t}
+1: sk → {sk,ʃ,ks}
+1: o → e / _ŋ
+1: N{w,d,r} nj → ŋk nt (not sure if *nj is supposed to be *ɲɟ)
+1: ɒ → ɔ / _K “(partial)”
+1: h → {∅,h,k} / _r
+1: r → d / s_
+1: oi → o / unstressed
+1: j → ∅ / {θ,s,z,l,n,t,d}_ when in onset position
+1: o → ∅ / _{r,l} when between #U and U[+tonic]
+1: b d → {pː,b} {tː,d} (but *b is “[p]rone to change to *m”)
+1: i → j / ”V_#
+1: r → l / _#
+1: V → {Vː,V[+nas]} / _n{f,s}
+1: b d → {b,v} z
+1: ∅ → e / C_#
+1: — uː → u
+1: ɡʷ ŋɡ → kʷ k / _V[-nas]
+1: ɪ(Cɪ) → e(Ci) / t_; “vowel nasalizations are retained either way on each”
+1: — eCV[+ mid] → ɛC
+1: a(i) {e,w{æ,i}} {we,ei} (w)ɪ → ey ø y ʏ / w_ ! hw_
+1: au → ɒ / j_
+1: ”V(ː)(C)(C)Vː → V[-long](C)”(C)CV[-long] / _#
+1: æ/ɑː → æɪ
+1: i u → e o / _(C)#
+1: qh → kʰ / _i ! _i{ʃ,tʃ}
+1: ∅ → e / {tsh,s,n}_r
+1: f → ʋ / #_
+1: b d ɡ → v ð ɣ / V_V
+1: w → ∅ / _{r,#}
+1: ɲ̊ → j
+1: qˤʲʷ {qˤʲʷː,qˤʲʷ} ʁˤʲʷ → ħ ʔʷ w~ʁʷ
+1: e → i / _{s,t}#
+1: ə → ɪ / _{k,ɡ,tʃ,dʒ,ʃ,ʒ,v}
+1: N → ∅ / #NV_SV
+1: ɑu ɛu eu → ɑv ɛv ev
+1: j → s / #_
+1: tsʲ tsʲː → tɕ tɕː
+1: r → ∅ / t_{k,s}
+1: a(ː) → e(ː) / _{ʕ,q}$
+1: d ɣ → t x / _#
+1: o → oː / _{aː,æː}
+1: n nː rn → {n̲,r} n̲(ː) ɳ / V_V
+1: oə → oː
+1: {e,ɨ} {ḛ ɨ̰} → i ḭ
+1: {n,l} → ∅ / _j
+1: w j → v ɟ
+1: β → w / V[+ high]_a
+1: ’m m ’n n {’ɲ,ɲ} ŋ → m {ᵐb,m} n {ⁿd,n} ɲ {ᵑɡ,ŋ} / in C2 position
+1: j → ∅ / z_
+1: b d → p l
+1: joː → {u,o,ø} (looks like being in the ultima or the penult may have had something to do with it, but it isn’t clear to me)
+1: çl → rts
+1: ʔ → ∅ / m_n
+1: ɣ → ɡ / _{r,ʀ,θ,ð}
+1: kr → hd / #_
+1: ẽ → ı̃ / _ʔ#
+1: ʔ → ∅ / _# “(but aʔ → əʔ in some forms)”
+1: dʒ → tʃ → ʃ
+1: pw p t ʈ k c → (v)w v r l ɣ j / V_V
+1: ktʃ → (i)tʃ (in western and extreme eastern dialects)
+1: {o(ː)ht,ɑːht} → ow
+1: V → Vː / _{t,k(ʷ),s,n,r,j,w} “in even penultimate syllables”
+1: ə → {a,ɒ,ɑ,ʌ} ?
+1: ei oi → iː ai
+1: aj aw → eː(ʲ) oː(ʷ) (sometimes, the article is unclear)
+1: V → {i,u} / %(C)(C)_%P when unstressed
+1: aN eN iN ɨN uN → ã ẽ ı̃ ɨ̃ ũ / _#
+1: $ → xʷ → {x,s}
+1: h → ∅ / _{l,n,r}
+1: ɬ → ʃ
+1: f → ∅ / else
+1: {in,en} an → a u
+1: ɔr ɔl → rɔ lɔ / #_T
+1: a → e / #C_OO
+1: n → ð / _{ã,ẽ,õ}
+1: æ → ɛː
+1: — Vː → V[-long]
+1: ɛ → ie
+1: ɪ ʊ → i u
+1: ny → in
+1: NTS PTS KTS sTS çTS → {Ndz,mts} kts(ʰ) ptsʰ sts {sts,rj}
+1: lenis → devoiced / “in a prominent word-initial position”
+1: ʐ → ʂ
+1: i u VS → j w A / _V[+high +ATR]
+1: r̥l → tɬ
+1: ∅ → h / k_n
+1: s → ʃ / r_
+1: taːte → ”ta / _#
+1: ɸ θ → b {d,b} / V_V
+1: oj aj → iː {aː,iː}
+1: {f,β,p} → ∅ / r_n
+1: uə yə → ɔ œ / _{n,t}
+1: {ts,st} → tʃ
+1: t(ʰ) → k(ʰ)
+1: {n̥j,nj,ɲ̊j,ɲj} → ɲ (Thompson appears to me to have hedged a bit on the last one; based on other evidence in the paper I’m sticking this one as a palatal nasal)
+1: ŋ → ɲ / _{i,e}
+1: u → aʊ̯
+1: a3 → e3 / ! {{C[+ uvular],K}ʷ,w}_ or when _{Cu,C[+ uvular]ʷ,w}
+1: j → z / rd_
+1: H → ∅ / V_V
+1: s → t(ʰ?)
+1: uː → y (→ i in most descendants, with the exception of Engadine)
+1: i iw u → ɔj ? ɔw / _#
+1: s → tʃ / _Vtʃ
+1: t1 d1 d3 Z → t d ɖ ɟ
+1: p → ∅ / #_st
+1: — oː → uː / in U#
+1: k → ∅ / V_C ! penult
+1: Vh → hV / {j,v,n,r,l}_# (also some double-metathesis triggered by the condition of being m_ ?)
+1: kʷ ɡʷ → k ɡ / _B
+1: S → ∅ / _#
+1: i → ∅ / {ts,dz,S}_V
+1: {t,d}l {k,ɡ}l → lː ʎ
+1: {ɾ,l,ɭ} → ∅ / V_S
+1: uj → ue
+1: ã → õ (*)
+1: V[+ high] → a / V[+ high]C_(C)#
+1: dz → {j,dʒ}
+1: {ndj,nz} z → n̪d̪ ð
+1: o → u / _(”V)
+1: kʷ → ʍ / ku_ (medial)
+1: lenis → voiced fricative (→ approximant, at least by the 12th Century?) / unstressed
+1: {u̯ɔ,u̯a} → ua~uə
+1: qˤʲ qˤʲː qˤʲʼ → q ʔ ħ(?)
+1: V[+nas] → aː[+high rising tone]
+1: C → Cː / ə_V (?)
+1: b → β
+1: {f,v} {m,b} → pʰ b
+1: {i,u} → ə
+1: t → {t,r,kʷ} / #_ (I’m not kidding. That’s what’s listed as the reflexes.)
+1: h → ∅ / #_s
+1: {θ,ʃ} → {r,l}
+1: {ŋ,l} → n
+1: n → ∅ / ! #_V[-nas]
+1: s → ∅ / _C (occasionally blocked)
+1: r → {ʐ,χ}
+1: (s)k ɡ → (s)tʃ dʒ / #_a (in the north and northeast)
+1: β → b (in Béarn, Gascon, and Languedoc)
+1: {pʷ,pʲ} {p(ʲ)ː,bˤ} bʷ pʷʲ bʷʲ → p b f tsʲ dzʲ
+1: aN iN uN → {aN,ã} ı̃ {uN,ũ} / _#
+1: s → kh / _(V)k
+1: ɣ → ə / _#
+1: q k t s → k j c t
+1: ”a → e / _CV[+ high]
+1: p → ∅ / V_{t,s}V
+1: n → r / {ɡ,p}_
+1: aw aj {uj,ij} → uː eː iː
+1: l → ∅ / _{m,s,k}
+1: b → ∅ / _s{t,k}
+1: a → i / _CV[+ high]
+1: d → r / medially
+1: dz ts → d͜z t͜s
+1: wan → an / C[+labiodental]_
+1: w → u / _V
+1: t → ∅ / s_
+1: ə → i / u_
+1: ɾ → ∅ / ! C_
+1: ∅ → V0 / ”V03_
+1: N[+ lenis] N[-lenis] → N[- lenis] ⁿS / in C2 position
+1: m n ŋ → v t ɣ / _C[+nasal]
+1: tɕʷ(ʼ) tɕʷː → tʃ(ʼ) dʒ~ʒ
+1: N → ʔ / _{V,S[- voice]}
+1: (h)ə{p,b} → t / _l
+1: ɔn → an; “[t]his final occurs exclusively after SR gutturals”
+1: u1 → {u1,ə1}
+1: {sc,st} → ʃt / _F
+1: tɬ tɬː tɬʼ tɬːʼ dɮ → k {k,xʲ} {kʼ,ɡ} {kʼ,kː} kʼ
+1: u̯əi → oːi
+1: {p,b} {t,d} → v ð / V_{V,r}
+1: aj → oi
+1: tɬʲ tɬʲʼ dɮʲ → xʲ ɕ ɣʲ
+1: pʲ(ː) bʲ → t(ː) d
+1: s → s / #_ (?)
+1: — a → å (I have no idea what is going on here. Grandgent seems to distinguish an open and close /a/, and I have listed his open a as /å/, which seems to have been distinct from /ɔ/, but beyond this section it doesn’t really seem to matter very much)
+1: — t → k / _j
+1: h2 → x (or some sort of dorsal or laryngeal fricative?)
+1: {p,ᵐb} → f / #_
+1: b d → ɓ ɗ
+1: β → v
+1: hw → ŋʷh / a_a
+1:     Some liberty has been taken with the presentation of the *f → p change in Afro-Asiatic.
+1: pr → t
+1: tɬ tɬː tɬʼ tɬːʼ dɮ → xʲ x kʼ kː {,j,xʲ}
+1: w → β
+1: {n,r} → ∅ / _r
+1: i → ə / _#
+1: hw hj → {w,ʍ} ʃ
+1: θ → h / #_B
+1: ɣ → u / {i,ə}_V
+1: z → jʰ
+1: tʃ → s / #_
+1: Sh2 → S[+ aspirated]
+1: uː → ʊw / _V (probably, in areas that did not undergo the above change, such as Limburg)
+1: ɛu au → ɛv av
+1: CC → Cː (fortis)
+1: ∅ → j / {e(ː),ẽ(ː),i(ː)}_V
+1: {ʔ,h} → ∅ / _ʃ
+1: j → ʝ → ʒ (Souletin, sporadic in northwestern Biscayan)
+1: p t nj → {t,r} {r,s,t} s / _#
+1: k → {∅,j} / _#
+1: tlʼ → ɬ / _C[+sibilant]
+1: ʝː → ∅ / E_
+1: ∅ → k / #s_l
+1: o e → u i / _$a (raising of *o is less common)
+1: VrV → {Vː,M}
+1: F[+ voiced] → ∅ / V_V (sometimes, usually involving “compound surnames”?)
+1: o a → e o
+1: aː → ɔ̃
+1: V → Vː / _# + suffix
+1: h → {h,j,∅} (Blevins has marked what apparently is *ɟ but I’m assuming it’s an error)
+1: k → q / _V[+low]
+1: s(V)d → dʲ
+1: — ∅ → i / C_jV(H)#
+1: p → ∅ / s_t
+1: r ŋʷ → n β / V[+nas]_V[+nas]
+1: nθ hs → sːt sː
+1: V[+nas](ʋ̃,l̃) → V[-nas](m,n) / #J[+voiced]_
+1: Lʲ → {θ,n} / _V[+nas -stress]
+1: {s,t} → ∅ / _#
+1: v → ∅ / V_B
+1: tʲ → tj
+1: l → ∅ / {o,u}_CV
+1: tj → tsj
+1: i$Ci → e$Ce / _C ! _ɾ
+1: kː ɡ → ɣ kː
+1: uN yN iN VN → o øː eː Vː / _{s,f}
+1: ɤ(ː?) ɑː æː → ɑ(ː?) oː eː / stressed
+1: ɻ → ∅
+1: V[+high] → ɘ / _C[-high]
+1: w → ∅ / s_ ?
+1: p → w
+1: L → d / #_
+1: e → a / _C[- voice]#
+1: rʲ → z
+1: kʲʷː xʲʷ ɣʲʷ(?) → ɡʲ kʲʼ xʲ ʁʲ
+1: Lv → L[-voiced]f / O[-voiced]_ “for many speakers”
+1: uː → u / stressed
+1: ∅ → i / C_R
+1: uj → {i,u}
+1: x2 s3 → ∅ ʃ / V_V
+1: b → ∅ / _ts
+1: dˤ q → ðˤ {ɡ,q}
+1: ks → ts / _V
+1: rn → tn̥ / _#
+1: kʼ → ɡʼ / #_
+1: ʋ → ∅ / _UC
+1: ndt ndtʃ ntʃ nkt nf → n{d,t} {nts,ndz(→ nz),ndʒ} n(t)s {ɲ,(i)nt,ntʃ} {nf,fː(→ f)}
+1: — iCV[- high] → aC
+1: p → w / _B
+1: ai → e / if the *a is not stressed
+1: aj aw uj → e o i
+1: n → ∅ / V_C?
+1: — ɔ → ɥe / _{u,P,k,ɡ,i} (in western dialects, Limousin, and Auvergne)
+1: k → h / _#
+1: ɛ e → ej je
+1: lvj → lbj → ubj
+1: N → ∅ / _#, in polysyllables
+1: lː{j,Vdʒ} lnj → ʎ ɲ
+1: t d s → ts dz ʃ / _i
+1: iə → ı̆ / _C% (not in all languages)
+1: u o a e → {u,ɔ} {o,ɔ} {a,ɔ} {e,o}
+1: r → r̥
+1: p → h~ɸ
+1: oː → aː / else
+1: Vː → V[-long] / _C{V,#} in even syllables; “does not apply in the second syllable of a non-glottal word”
+1: ə → ∅ / t_, “in certain positions”
+1: ɛ ɔ → e o / _(”u)#
+1: tʰ → ts / _i
+1: w → ∅ / t_i
+1: oː → øː / _(C)(C)#
+1: N → n / _{d,l}
+1: V → V̂ː / _Cko, ko lost?
+1: {w,j} → ∅ / #_
+1: e(ː) i → ø(ː) y / {P,l,ʃ}_ (sporadic?)
+1: ∅ → j / u_V (eastern dialects)
+1: t → ∅ / r_m (sometimes)
+1: z j → j d
+1: V → ∅ / Vj_
+1: ʈ → tʃ / {aː,oː}_
+1: ð → some sort of tap distinct from ɾ (Biscayan, Guipuscoan, High Navarrese)
+1: b dz → p ts
+1: æ → ɑ / _{x,l}
+1: p j → b i / _l
+1: {u,o} {ɛ,e,i} → w j / C_a in noun roots
+1: e → iɛ
+1: nt → tː
+1: *D → d / _#
+1: tʰ → d / _#
+1: n → ɲ / “in the environment of i”
+1: tst dzdʱ → tː dʱː
+1: b d → {pː,b} {tː,d}
+1: pʷ → vʷ
+1: ʃ ʒ tʃ dʒ ɕ ʑ → ʂ ʐ ʈʂ ɖʐ ts ʒ
+1: {t1,c} {d1,z} d3 → t d ɖ
+1: r-T- → Ṭ
+1: {s,dz} → {s,z}
+1: m n → mb nd / #_
+1: n → ∅ / l_b
+1: tʃ → i / _C
+1: ”V[+ high(er)] → ∅ / _CV
+1: ɬʷ(ː) → ʃ
+1: i u → əi̯ əu̯ / _(ʔ)#
+1: r → ɾ / _#
+1: a {e,i} o u æ ø y → {ɛ,a} ɛ {ø,o} {y,u} {ia,ja,ɛ} {ia,ja} {y,ø} / _Ci
+1: {ɮʲ,lʲ} → ɮ
+1: h → ∅ / {p,t,k}_
+1: h → ∅ / p_
+1: d → l “in many dialects”
+1: ø øː → e æː
+1: w j → k dʒ
+1: b → {∅,u} / _rɡ
+1: ŋ̊ → h
+1: ts tsˑ tsː → s θˑ θː
+1: a → ∅ / _i
+1: t d → ɾ / V_V[-stress]
+1: — aj aw → e ow / _#
+1: e → ∅ / #Ur_
+1: i1 → {i1,ə1j}
+1: iU OU → Uː Oː
+1: dVɡ (n)dVɡ → dʒ(?) ndʒ
+1: ỹ → œ̃
+1: {lː,rl} → tl
+1: s → ʂ / _n
+1: v → {v,b} / r_j
+1: mn → bð / {C,V}_{C,V}
+1: ktj klj → is ʎ
+1: e → {e,i}
+1: sː → s / Vː_
+1: kʷ ʃ → w ʂ
+1: i → v̩ / m_
+1: C(…C) → ∅ / _# ! /l r/ and clusters containing them; “[t]his remained a phonologically conditioned rule in OIr”
+1: ŋ → ɡ / syllable-final
+1: {p(ʰ),ɓ} → h
+1: ts dz NTS KTS sTS → tʃ ts {ts,m} ɡts sp
+1: {a/e} {e/a} {ı̃,ẽ} → a e ı̃
+1: (w)u(ː) i(ː) → (w)o(ː) e(ː) / _(C)(C)a ! CC = NC or one C = {ʀ,j}
+1: l → ∅ / rk_ (sporadic)
+1: ɔr ɔl → ra la / #_T “in syllables with long vowels”
+1: ɳ → n “(sporadic and dialect development)”
+1: r → ʔ / _C
+1: n → h̃ / V_V
+1: ∅ → j / {ʃ,ʒ,sj,zj}”{a,é}_ in U[+open]
+1: HəS → (h)əNS
+1: eːk → oχ / _w
+1: βt βd → pt bd (in the west)
+1: ŋ → {m,ŋ} / _#
+1: ɳ → ɽ
+1: ⁿS → N / _Ṽ
+1: — eː,i,oe → e
+1: S{b,ɡ} Sk → v h / _V
+1: tɬ tɬː tɬʼ dɮ → x ts {x,tsʼ} l
+1: a → ∅ / _t, in the feminine ending
+1: o → u / _%”V (irregular)
+1: k → tʃ / _Ek(ʷ)
+1: n → ∅ / _{f,v,s}
+1: Sb Sk Sɡ → b ? ɡ / _V
+1: — (a)e → ɛ
+1: b → {∅,b} / _t
+1: ∅ → j / #iː(C)_a
+1: {u,o(ː)} → o / _%”V
+1: pʷʲʼ pˤ pˤː pˤʼ bˤ → tʷʼ vˤ bˤ pˤʼ bˤ
+1: ãi → ɛ̃ɛ̃
+1: r → j / C[-glottal](h)_{o(ː),õ(ː)
+1: ɛ → e / ! _{rː,l,rC[-labial],nr} or _ ? w#
+1: v → ∅ / _C
+1: ksk → stʃ / _a (in the north and northeast)
+1: sk → ʃ / #_
+1: {p,b} → ∅ / R_s# (unless blocked by analogy)
+1: r t tʃ ʃ → t tʃ ʈʂ ʂ
+1: R → ʔ / _#
+1: cʰ → {ʃ,jʰ}
+1: p(ʰ) {tʰ,d} → ɸ t
+1: {t,k} → ∅ / _#
+1: i u → ь ъj
+1: j → z
+1: j → ∅ / C̣_
+1: l → ʎ / #_
+1: tʔ tsʔ kʔ kʷʔ → tʼ tsʼ kʼ kʷʼ
+1: oʊ̯ → eʊ̯ (“common only within certain social groups”)
+1: nj rnj → nj rɲ
+1: p b d k → p~f w ɾ ɡ~ɣ / V_V
+1: uk uŋ → {u,o} e
+1: — u → ə / R_ if a backed allophone of ə in an adjacent syllable
+1: yeʔ → yɛʔ (→ {uɔʔ,yɔʔ} in southern speech?)
+1: vː ɣː hː → bː ɡː xː (perhaps not strictly a sound change, but worth noting)
+1: C → ∅ / _# “sometimes”
+1: w → ∅ (? Tanibili [w] may just be phonetically determined)
+1: ə → ∅ / u_{m,j}
+1: i → ∅ / #C_a
+1: ɒ → ɛ / _Cː
+1: tsʷ → tʃʷ
+1: uo → uu → u / _%
+1: V → ∅ ”V%s_t(C)V(C)# (irregular)
+1: — ∅ → b / m_ɾ
+1: ɣ ʁ → k q / #_
+1: ɢ → q
+1: ðl(ː) ðn(ː) → lː nː
+1: mː → n / {W,Vː}_
+1: ʋ̃ → ʋ / #R[-labial]_
+1: p b pr br çp → p.j p br pj ʃb
+1: {r,l} → l (occasionally → ∅?)
+1: iC → iC~i / _{C,#} (not sure how this plays in with the change mentioned earlier about extra-high vowels; I must have misread something)
+1: V → ∅ / {”V,j}_
+1: ɑː au → ɔː ɔu (though sometimes ɑː develops, apparently at least partially due to metathesis?)
+1: nʲ → nj / else
+1: {kl,ɡl,lj} → ʎ
+1: ɡ → ∅ / #_l
+1: a → e / _(p)
+1: j{ã,ẽ} → {ɥ,ɥ̃} / _E
+1: j → ∅ / _# ! P_
+1: θ h {s,m,n,r} → ʃ ∅ ʔ / _C
+1: {t,d} → ɾ / V_V[-stress]
+1: wɔ → ɔ (occasionally → uɔ after a guttural?)
+1: p t ʈ k → b d ɖ ɡ
+1: T → D / N_
+1: tɬ tɬː tɬʼ tɬːʼ dɮ → xʲ {ɣʲ,ɡ} qʼ k(ʼ) {kː,ɣʲ}
+1: a aː → ɛ øː / _r
+1: ʈ → {ʈ,ts,tʃ} / _{j,ɾ}
+1: nh → hn
+1: j → ∅ / #_V
+1: e → i / kʲ_ when stressed
+1: a → i / ! K_%
+1: C[+ sibilant]w ç Pç Nç çl → s ʂ ʃ mʃ ʃl
+1: e → ɛ / _v
+1: p t k → b d ɡ / N_
+1: a → ie / ! K_%
+1: j{u,o,a}ː → ø
+1: d → t / #_ (“kind of”, something about evidence from borrowings)
+1: — aj aw → eː oː
+1: ŋ → n / #_{a,o,e}
+1: bʱ dʱ ɡ́ʱ ɡʱ ɡ(ʷ)ʱ → p t j k / #_
+1: {e,i} → ɪ (sporadic)
+1: tVk → dʒ / unstressed
+1: ʈ → {ʈ,tʃ} / {aː,oː}_
+1: tɬː dɮ → tɬ(ː) tɬː
+1: t → tʃ / _”E
+1: k → ∅ / _ʔ
+1: yː → ø / _O[+ dental/alveolar]
+1: ɨə̯~ɨa̯ → ɨ / _C%
+1: VNC → VːC[+voiced]
+1: w → v / _#
+1: e → i / in a few data sets “where obscure morphological developments (in the ultimate or penultimate syllable) have resulted in regressive assimilation of vowel quality”
+1: we → wə → oː / ! adjacent to {p,m,k}
+1: V[+high] → V[+nas] / #(C)_N
+1: n nˀ → i iʔ / _{i,ʃ} (sporadic)
+1: ɟ(ː) → d(ː)
+1: pː tː kː → pf ts kx
+1: p t d c ɟ k ɡ → ɸ ɹ {d,l} tʰ ∅ h {∅,ɡ}
+1: ŋɡ → k / ! _V[-nas]
+1: θp tʃp ʃp → {x,sː} ʔp sːp
+1: ou ɛu u uɛi → u œ y yi
+1: r → ∅ / {ð,f}_{ɡ,ɣ}
+1: u → e / {θ,ɣ}_
+1: ə1 → æ2 / a3C(C)_
+1: slʲ → ∅ / _s
+1: s → f / h_r
+1: O[- voice] → ʔ / _C
+1: tsʲ(ː) tsʷ tʃ tɕ → tɕ tʃʷ ʃ ʂ
+1: tk → {tʃk,tʃɡ} / #_
+1: i u → e o / only when short, ! _#
+1: {jl,lj} {jn,nj} {jɡ,ɡj} → ʎ ɲ ʝː
+1: h → ∅ / ”Vː[+falling tone]_R
+1: rs → sr
+1: ɨ̯ɔ → ɨa~ɨə
+1: s → ʃ / _kl
+1: ʃ m → x w / _B
+1: Vw → u / _s (to wit, the vowel is deleted and the *w syllabifies)
+1: V → Vː / _%, when stressed (except for /ə/?)
+1: j tʃ → ɡ k
+1: xʷ → h / V_V
+1: ntʃ → ʔt
+1: b → m / _VN
+1: pˑ tˑ θˑ kˑ → p t θ k
+1: æy øy → æː øː
+1: e → i / _Ḱ “[tendency]”
+1: u → a / P_Ce
+1: i̯əu → au
+1: Vˀ → V[+low tone] (“since then partially neutralized in noun and verb stems, but ‘still clear in verbal prefixes’”)
+1: h → ∅ (in Eastern Ionic)
+1: ᵑɡ → {ᵑɡ,ŋ} / V_V
+1: V1 → ∅ / _”V2
+1: pj {bj,vj} → jb jv / V_V
+1: — u → ∅ / ! _Cː
+1: rː lː → r l / {p,t,k,f,s}_
+1: {k,v} → ∅ / V_V
+1: — a → o / _p#
+1: i u e → ɪ ʊ ɛ / _ɹ
+1: p k → f ɣ / V_V ! ”ə_V
+1: ɕtɕ → js / _{t͜s,s}
+1: o u → {u,o} {u,o,i}
+1: {ie,ia,io} uo → iə uə
+1: e o → ɛ ɔ (?)
+1: kʷ xʷ → k x / _#
+1: a3 → u3 / {Cʷ[+uvular],Kʷ,w}
+1: Vː → V[- long] / ! in #U
+1: v → u
+1: e(ː) → a(ː) / h2_
+1: ɬ → s / #_VC
+1: — ə → a / _(C…)# (eventually spread to everywhere)
+1: e i → i a / _m
+1: a → e / _{i,j}
+1: x → q
+1: u̯ɨ u̯o → {ɨ,ə} u
+1: — st zd → sː dː / [anything]_
+1: ! !ˀ !̬ !̃(n) !x → k ∅ ɡ ŋ x
+1: a ɔ → ɨə uə
+1: æ → æː (e.g., NYC) or ɑː (e.g., Boston) / _{F[-voiced],N[-voiced]} (“words which change vary between dialects”)
+1: k → ∅ / {u,a}_
+1: pʰ → {b,h} / medially
+1: N → {m,n}
+1: ɔ → a / in two cases cited; extremely rare change
+1: TS → dʒ / l_
+1: a → e / _U[+e,i]
+1: l(ʲ) → w / u_
+1: ð → i / C_
+1: tʃh → s / _E
+1: ”V → ”Vː / _ʔ
+1: k → c / j_ (?)
+1: w → u / t_
+1: k → ɣ i / {i,e}_R{i,e}
+1: l → ∅ (occasionally?)
+1: t → s / _{u,i}
+1: p b d k → ɸ β ɾ x~k / V_V
+1: u a e eː → ʌ ɑ ɪ ɛ / _Cː
+1: k(w) → tʃ / #_Vt
+1: dʼ → tʼ / #_
+1: {a,ɛ}u əw → o u
+1: u ũ → i ı̃ / #R[-labial]_
+1: ew iw → i jo
+1: {v,w} → ∅ / #_V[+ round]
+1: tʃ(ʼ) dʒ → ts(ʼ) dz
+1: o oɡ ø øɡ iɡ → wo ɥø oː øː iː
+1: ɡʷ → w
+1: — n → ɾ / nd_
+1: h → ∅ / ts_r ! “in pre-pausal forms, see also below”
+1: ɡ → ʒ / #_{i,e}
+1: {s3,ts,ʒ} → s / _$#
+1: N → h / _{O,r}
+1: oː → uː / _(C…)#
+1: d ð → ɟ ʝ / {E,j}_ ? (“some dialects”)
+1: V → ∅ / (C)V_VC”V
+1: q → ɡ
+1: i → o / {u,w}_
+1: ɦ → h / S_V2
+1: $ → χ
+1: {a,ɛ}u əw → au u
+1: r̩ l̩ → {ra,ar} {la,al} / _{s,CC,V,#} (the results are unpredictable)
+1: ð → t / else
+1: j → l(V)
+1: ʃ → s / in West Swampy Cree (remains /ʃ/ in East Swampy Cree)
+1: aj → ej → ee → e (irregular)
+1: uː → ʌu (? conjectured based on the above diphthongization and on developments in Polder Dutch vowels)
+1: xk → (ʃ)k / _”V
+1: ts → s / _# (Provence, Limousin, some Languedoc and Gascon)
+1: qʲʷː qʲʷ ɢʲʷ,ʁʲʷ} χʲʷ → qʷː ʔʷ ʁʷ χʷ
+1: {r,l} lʲ → d r / #_
+1: {tj,kj} {tːj,kːj,ptj,ktj,skj} → ts tːs
+1: u → o / _#
+1: c → ∅ / n_t
+1: uː → ʉː (probably, in areas with uː → ʉw / _V)
+1: s → ∅ / #_{wa,wi}
+1: Vː → V[-long] / CC(G)_C{V,#} “[i.e., when following a cluster but not followed by a cluster. Only applies ‘after the first long vowel of a nonglottal word, and everywhere in a glottal word’]”
+1: e → ə / P”_(C…)B
+1: st ʂʈʂ → z ʐ / _b
+1: {t,tʃ} → d / #_
+1: n tː → n̪ t̪ː
+1: C[- nasal] → ∅ / near nasals
+1: {tsː,stː} dz st → sː {tsː,z} ts
+1: h2 → *H
+1: ˀm ˀn ˀl ˀj → m n l j
+1: e → a / _{r,l} (sporadic)
+1: q qʼ qːʼ ɢ → ∅(?) ∅ qʼ ɣ
+1: ɡ ɣ → kʰ ɡ
+1: s → t / #_VLV
+1: ʈ → tʃ / _e
+1: l → n / _#
+1: h2 → x / else (possibly a uvular stop)
+1: kp ɡb → k ɡw
+1: H → ə / “syllabic”
+1: a → ə / intertonic
+1: w j → m ɲ / between two vowels of unlike nasality
+1: ŋ ɡ ɣ → {h,ʃ} kʰ ɡ
+1: kp {kpʼ,ɡb} → p b
+1: r → l / _C (sporadic)
+1: d → ʔ / _#
+1: r → ∅ / {p,t,k}_Vr
+1: t → tʃ / _”{e,iʔ}
+1: p k → t ʔ / _#
+1: ɓ w → ʔ j / VCV_#
+1: tʃ tʃː → t tʃ
+1: s → h / {V,C}_
+1: sː ɬ(ː) xː → {ħ,xʲ} {sː,h} x
+1: a3 → u3 / _{Cu,Cʷ[+uvular],w}
+1: {e(ː),ɛ} → ɛ
+1: {i,eː,oi} → e
+1: ɒ → ʌ / _r(ː)
+1: ht → tː
+1: ɬ(ː) → sʲ
+1: {ns,nt} nkʷ nj nw → (n)d (m)b r m
+1: ɪ → iː / _# when unstressed
+1: — ɛː → ɛi (→ əi?) / in some northern varieties
+1: a → ɒ? (→ o) / _ɫ
+1: p t → ∅ l / _V
+1: k → i / #_n
+1: {p,t} → ∅ / V_
+1: ɡ → k / #_
+1: k(ʷ) → h(ʷ)
+1: mn → nː → ɲ
+1: e → i / _Ci
+1: n j → {n,∅} {j,∅}
+1: h → ∅ / #q_{i,u}
+1: L j → t tʃ
+1: iC aC uC → Cj Ca Cw / #_ ! before an identical vowel
+1: pt → {ut,it} “in a few words”
+1: {ɲ,ŋw} → n
+1: e(C){V[- low]} e(C)a → e(C) e(C)ə
+1: ts tʃ dz → sʼ tʃʼ z
+1: ɦ → ʔ
+1: t → f
+1: {ʔ,hx} → ∅
+1: ɬː → x
+1: r → ∅ / a_ju#
+1: ey → ø
+1: n → ∅ / _{s,ts}
+1: *j → d / _#
+1: ʈʂʼ → tʃ
+1: ʋ̃ → l̃ / #_
+1: ð → {∅,c} / else
+1: ∅ → ə / C_C “(for certain consonant combinations, which the paper doesn’t specify)”
+1: {a,æː} → ɛa / a
+1: {olt,okt} → ujt → ut
+1: u a → {u,o,y} {a,o}
+1: R → ∅ / _h
+1: ŕ → r / V_V
+1: ъl → ɔ(ː)ɫ / P_
+1: at → aː / _# (in feminine noun endings)
+1: rt → ʈ / V_V
+1: k → {∅,s} / _#
+1: V[-long] → ∅ / C_ʔC
+1: ∅ → w / #_V
+1: long-tail vowel thing → i (or [truncated vowel-thing] “where GH sibilant initial variants occur”)
+1: {l,r} → ∅ / {d,ɗ}_
+1: {m,n} → ʋ / _# “(that’s a Greek nu, I’m not sure what it’s supposed to represent)”
+1: E → ∅ / _{ʀ,s,t,θ}
+1: d(r) çT → t ʃt
+1: xw → ɣw → ħ
+1: f → w / _V
+1: rd → dr (possibly sporadic and/or confined to Kazakh)
+1: tːj → ts → s
+1: ǂ → !! (dialectal)
+1: au → j{o,ɔ}
+1: jawʔ wawʔ → iɔʔ uɔʔ
+1: ã ẽ ı̃ ɨ̃ {õ,ũ} → ə e i ɨ o
+1: s → z → r / r_
+1: sr kr → ft kV0lV0
+1: C → ∅ / r_
+1: an ap → ai ie
+1: j → s / ! C_
+1: iː → ∅ / {k,s}_#
+1: oe → {e,ɛ}
+1: ə → ∅ / {i,ɨ}_{p,m.w}
+1: A → F (some slight POA changes; alveolars become dentals, for instance)
+1: j → ∅ / _eː
+1: rtʃj → rts (→ rs ?)
+1: dzʲ dzʷ → dʑ ʑʷ
+1: k j → ɡ ʒ / V_V
+1: d → {∅,ð} / V_V
+1: r → ∅ / k_{n,s}
+1: ”V → ”Vː / _RR
+1: bʱ dʱ ɡʱ → β ð ɣ
+1: — i → ə / _R if a frontal allophone of ə in an adjacent syllable
+1: t → r / tV_
+1: k (N)ɡ → k. (m)k
+1: S1S2 → F1F2
+1: Vː → V[-long] / ! in U#
+1: ts → hs / V_{t,k(ʷ)}
+1: l → ɮ
+1: mn → mpn → nː (dialectal)
+1: d → ∅ / Vː_#
+1: V% → low tone
+1: s → ʃ / V_C[-voiced]V
+1: ∅ → j / _e
+1: {lːe,lːo} → u / {e,o}_# “[this is actually an analogical development, but it applies as regularly as a sound law]”
+1: s2 → {s,tʃː} / V_
+1: — eCV[+ low] → aC
+1: j → ð / V_
+1: tʲr → ʃV0rV0
+1: ew (→ øj) → yj
+1: ŋ r v → n l w
+1: D R → Dː Rː / ”e_ in U[+open]
+1: ð → ∅ /{a,E}_
+1: {ntʃj,ndj} → nts → ns
+1: ʊ → ɤ ! P_ and _l
+1: ∅ → i / C_jV#
+1: a → i / _C(C), when stressed
+1: {s,c} → h
+1: aʔ → ɔʔ / C[+guttural]_
+1: t → tɬ / _{a,u}
+1: K → TS
+1: tsʷ → tsʲʷ
+1: q(h) → k
+1: a → e / “in the penult”
+1: tʃ dʒ → {x,t} tʃ
+1: t̪ → t
+1: s → z / in U[-stress]
+1: j → ∅ / _i (*)
+1: ʃi ʒi tʃi dʒi ɕi ʑi → ʂɨ ʐɨ ʈʂɨ ɖʐɨ tsɨ ʒɨ
+1: {β,w} {dʲ,ɟ} → v z
+1: ɣ → h / in prefixes relating to word derivation
+1: ʈʂʼ → tʃ / n_
+1: {a/e} → e
+1: s ts lʲ → h t n
+1: a → ∅ / ”ɔ_#
+1: N → m / _{ŋ.nj}
+1: NTS → mnj
+1: e → ɛ / #(C…)_(%…)” in U[+closed] or _V (?)
+1: tsʲː → dzʲ (marked as dubious in the source)
+1: øː → æ
+1: {æ,e}ːuː {æ,e}ːiː → eu ai
+1: h → k / #_{v,w}
+1: S → [+ voice] / V_R
+1: {t,k,q,s} → k / _C
+1: o → e / _#
+1: u → ũ (? possibly backwards?)
+1: tsʷʼ~ʃʷʼ → ɕʷʼ~ʃʷʼ
+1: k → ∅ / _n
+1: œ → iː / _N
+1: {w,j} → ∅ / medial
+1: ∅ → j / V_{N,s̺,s̻}S
+1: u̯o i̯o → u o
+1: ndj → n̪d̪
+1: i → iə / _m
+1: Sʰ → F → h (→ ∅) / #_
+1: Umlaut applies; going by the orthography, only a → e / _(C…){i(ː),j} is often marked (and even then haphazardly), but based upon reflexes in the daughter languages it seems that the umlaut had to apply to the other back vowels too
+1: {t,d}t → tst → sː
+1: s → {ʃ,h} / in “anaphora and certain derivational prefixes. . .[t]his is common to many other Semitic languages as well”
+1: — dn dl → nd ld
+1: ʔ → {∅,j,w} / depending on the environment; again, the article is unclear
+1: {ɭ,ɽ} → ∅ (sporadic, the latter very much so and contributing some compensatory lengthening)
+1: ẽ õ → ı̃ ũ
+1: — H → ∅ / V_C when pretonic
+1: P → p / s_
+1: N → ∅ / _RO
+1: ʀn → nː
+1: — ɔ → ɥo / _{u,P,k,ɡ,i} (in Languedoc)
+1: {θ,ʃ,tʃ,ç,x,ʔ} → h / _C
+1: ({C,#}V)ʔ → ({C,#}Vː)∅ / _C
+1: {ts,tʃ} z dz → ʃ d dʒ
+1: j → ∅ / Ck_$
+1: N(ː) k k(ː) N(ː)ɡ ɡ(ː) ɣ → ɲc(ː) c(ː) ɲɟ(ː) ɟ(ː) ʝ / _{i,j}
+1: ẽ → i / h_
+1: tɬʲʷ tɬʲʷ tɬʲʷ dɮʲʷ → x tɕː tɕʼ ɮ
+1: d → r / V_V (“[s]ome Campidanese”)
+1: ɠʷ → w̃ / #_V[+nas]
+1: k → z → @ / _j
+1: w → ∅ / ɯ_
+1: tɬ tɬː tɬʼ tɬːʼ dɮ → xʲ {ɣʲ,ɡ} k kː ɣʲ
+1: — n → {l,ɾ} / _m
+1: e → i / #{s,ʃ,tsʼ}_{k(w),ʔ}
+1: kːʼ ɡ → k kʼ
+1: ɡʷ → k / _o
+1: un → ial
+1: d → k / _ŋ
+1: *j → ɡ
+1: eː → æː
+1: V → a / _{n,r}(C)V(C)# (irregular)
+1: r → ʔ / _O
+1: !̬ → ɡ
+1: ɨ̯u → uː
+1: ɣ → w / _V[+ round]
+1: ŋ → {x,h} (various Mayan languages)
+1: bʱ ɡ́ʱ ɡ(ʷ)ʱ → b j k / #_
+1: S[+voiced] → S[-voiced] / _{S[-voiced],F[-voiced]}
+1: a → i / O[+voiced]…_(C)# “(blocked if there was an intervening nasal, and sometimes if there was an intervening voiceless stop or liquid)”
+1: sʷʲ zʷʲ tsʷʲʼ dzʷʲ → tʃʷ ʒʷ tʃʲʼ dʒʲ
+1: Vw → Vː / _{r,j}
+1: eː oː → iː uː
+1: z → {s,tsʼ} (the former “without exception” “in oblique tone words”)
+1: x ɣ → h ∅ / _#
+1: o e → {u,ə} i
+1: ǂ̃n → ǂ
+1: j l → r j
+1: {ḱ,k} → ∅ / _i(ː)
+1: lː nː → ʎ ɲ
+1: an → ɿɛ
+1: tʃʰ → t
+1: j → p (some Polynesian languages, such as Levei and Drehet) (https://en.wikipedia.org/wiki/Proto-Austronesian_language)
+1: — V → ∅ / C[+ sibilant]_ɾ (Roncalese and Salazarese)
+1: v ʋ → f v
+1: — ɔ → y / _{u,P,k,ɡ,i} (in northwestern dialects)
+1: {i,e} → ∅ / _# (sometimes)
+1: — {e,o} → a / _[anything]
+1: {r,s,z} tʃʰ dʒ → ɬ ʃ tʃ
+1: dz → ∅ / B_
+1: ɣ → {ʁ,q}
+1: β → f / #_ (usually)
+1: ə1 → æ2 / _C(C)a3
+1: — Cː → C[-long]
+1: {ts,tʃ} dz → ʃ dʒ
+1: ʋ → ∅ / #_{o,u,y}
+1: w → ∅ / V_V
+1: tr → rd
+1: ɾj pj → jɾ jp / V_
+1: — uː → ʌu / when-stem final, in northern varieties
+1: p pw t̪ ʈ k c → v w ð l ∅ j / V_V
+1: ɛ ɔ → je we
+1: d → ∅ / V_V (seems to have happened in the north and northeast at some point)
+1: {ʔ,h} → ∅ / V1[+high]_V2
+1: t → h / _t
+1: {l(ː),rl} rː → dɬ r̥ / _#
+1: {uəi,uai} iau → uːi eːu
+1: tɬʼ → tsʲʼ
+1: ʃ → ʂ → x
+1: o {æ,e} → u i / ! in #U
+1: V[+high +ATR] → V[+high -ATR]
+1: {h,ʔ} → ∅ / _m
+1: V → ∅ / ”V%s_t(C)V(C)# (irregular)
+1: {c,ɲ} → ∅ / else
+1: eɪ → e / #_
+1: Eː{u,o}ː Eːaː → joː jaː / {v,w}_
+1: ŋi → @ / V_
+1: u → a / _k
+1: k → ∅ / #_
+1: eː{Bː,i(ː)} → joː / _C[+ alveolar]#
+1: kʼ → q / else
+1: r → arː / #_(j)B / Logudorese
+1: p → {h,∅} / _{u,o}
+1: ∅ → ʔ / C_# (only sometimes?) (*)
+1: ɡ → w
+1: V[-long] → ∅ / V[-long]{w,j}_# (Whimemsz is unsure if this change is across-the-board or not)
+1: — p → b / _{r,l}
+1: aː → ɨ
+1: V0ʔV0 → V0ː
+1: s → ∅ / #V_{r̀,l}
+1: s → ʃ / _(h)j
+1: uː → u / _%”V
+1: {ɛ,a} → ɔ (sporadic)
+1: {l,ɾ} → n / _#
+1: ɛ̃ ɔ̃ → ɛ̃N ɔ̃N / _{S,A}
+1: θ(ː) ð → ts d (this latter does have some highly sporadic exceptions; additionally, in some dialects these may become {t(ː),h~t} and {r,∅}, respectively)
+1: — E → ∅ / _e
+1: l → j / p(ʰ),b_V
+1: aŋ jaŋ → uaŋ aŋ / C̣_
+1: o → a / C_w ! C = {K,C[+pharyngeal]}
+1: s → ʃ / if ʃ is somewhere in the stem after it
+1: (t(ː))sn kx(tx) rn ln → sː xː rː lː
+1: ɡʷ → ɡ
+1: dz → s
+1: tʲ → s / _ʔV
+1: {tsː,st} tsːʼ dz stː → ts z tsː s
+1: nr → rː
+1: aʊ → aɪ / !_{ɾ,r,s̺,s̻} (Souletin, Roncalese)
+1: ɬʷ ɬʷː → sʷ s(ʷ)
+1: f → s
+1: tɬʷ(ː) tɬʷʼ dɮʷ → tʃ(ː) tʃʼ ħ
+1: (kʷ → ɡʷ → ɡ ?)
+1: iv → uj / _u
+1: {*D,*j} {d,z} → l r / V_V
+1: tʲ Lʲ → tʃ j
+1: kʰ → k / else
+1: a u {ɑ,ə} ʊ → {i,e} ju a o
+1: Vː → V[-long] / _H (includes diphthongs)
+1: rnj → rɲ ?
+1: F[+voice] → S[+same POA] / l̥_
+1: oː → {ɔu,ɛu,œu} / œ “(except Suðuroy → ɔ)”
+1: nː lː ɾɾ → ɲ ʎ r
+1: i(ː) e(ː) → u(ː) o(ː) / {m,v,p}_C̣
+1: a → ∅ / V_# (Guipuscoan; happens because of reanalysis of the definite article)
+1: əi̯ əu̯ → ai̯ au̯ / ! O[+voiced] earlier in the word
+1: tɕ → dʑ
+1: w → j / “in *díwots > Tiyaz ‘sun-god’; conditioning unknown”
+1: — H → a / C_C ! #_
+1: ʎ → l / ”i_
+1: ɡ → ɡ / _{o,u/y}
+1: ŋ → n / _# else
+1: — V → ”V / _C*”{i,e}V
+1: ye jej → yɛ i
+1: Nkj ɡj sɡj → mj ts stʃj
+1: — i → a / _R
+1: ŋ → w / C_
+1: dz dʒ → {tsːʼ,z} {tsːʼ,dʒ}
+1: — a → ∅ / _#
+1: ǂ ǂ̃n ǂˀ → c ɲ ʔj
+1: {TŠ,TŠʷ} TS → TS TSʲ
+1: lː → ∅ / _i
+1: w → ∅ / ɡV_{l,r}
+1: {uɨ̯,ua̯,ue̯} → uː
+1: k → ∅ / _# (sporadic)
+1: ∅ → j / #_{aC[+low],V[-back],C[-back]}
+1: z̪ z ʒ → s̪ s ʃ
+1: H → {∅,h} / _əNS / #_
+1: sʼ ʃʼ~ɕʼ → sˤ ʂ
+1: ɟʱ → ɦ
+1: aː → a / {Cˤ,w}_#
+1: x → ʔ / ”Vk_
+1: uCV[- high] → uCʊ
+1: ɡ → j / V_r
+1: s → h / _Vn
+1: zhuó píng → yáng píng
+1: ∅ → h / a_#
+1: Kʷ → ɕ / _e(ː)
+1: qh → ʕħ
+1: V → {Vˀ,V[+RTR]}
+1: tʃs → {ts,tʃ} (varies)
+1: ɡ → ∅ / _h
+1: õ oː → o a
+1: e i {o,u} æ ø y → {ə,a} {i,ə} ə a {ə,u} {u,ə} / _Co
+1: r → ʐ (Apparently there was some situation where this went to ∅, and then something happened with the output syllable being [ɚ])
+1: {n,r} → ∅ / _j
+1: ∅ → w / u_a
+1: a o → ə u / ”U…_#
+1: {ʃ(ʷ),x} → s
+1: iu → ju / #_ (in some northern dialects)
+1: i → əj / _V “(also cases of (C)i → j /__V)”
+1: çl → sɬ
+1: i → ɯ / {R,Kr}_
+1: o → u / _n{C,#} (Souletin; some raising occurred elsewhere)
+1: k kʼ ɡ → kʲ kʲʼ ɡʲ
+1: ∅ → n / _pr
+1: — ai oi ui ei au ou iu ɛ(o)u → eː oe əi iː {ɑː,ɔː} ʌu ju j(ʌ)u
+1: ɛ̃ → ã
+1: V → Vː / _CC in even syllables
+1: oɪ → uɪ (rare)
+1: p b t → f p {s,h} / #_
+1: ɣ ħ → ʕ x
+1: ɣ → u / “in some positions”
+1: oʊ iː → əʊ ɪi / else
+1: kʷ → k / VC_{a,i,e}
+1: {i,e,u} → ∅ / #_{t,n}a
+1: b r → {b,∅} {r,t} / _#
+1: ɑ ə ʊ → a ɛ o
+1: ɨ ɔ → ə o
+1: p t ’t {’d,d2} c k ’k → b d l {l,∅} ɟ ɡ ∅ / in C2 position
+1: V → Vː / ”U[+open]
+1: aːʔ → e / E(C)(C)_#
+1: mj → {mj,ɲ}
+1: tʰ → n / else
+1: — V → ∅ (again, /a/ seemed to resist this change, which was itself generally blocked by analogy)
+1: e → {o,ɒ} / _w
+1: tɬʰ tʃ(ʷ)ʰ kʰ → ɬ s ʃ
+1: {pr,mt} → md
+1: ð → d / C[+ voiced]_
+1: iː {i,e(ː)} → i e / _%”V
+1: Vː → V / V_
+1: u y → o ø / _N (with some occasional exceptions)
+1: C1C2C3C4 → (C3)C4
+1: k sk kr ɡ Pɡ sɡ Nɡ (s)ɡr çK rK Kç → kʰ zɡw dr Nɡ pk sk mk (s)kr çk rɡj ɡçkr
+1: aː → ɔa “(except NE of the Faroes → aː)” / ɔ
+1: — OV[-long] → O̊V̊ / _#
+1: z → {r,s}
+1: {ts,ʈ} {ɟ͡ʝ,ɖ} {lʲ,ɲ} {ʔ,x,s,h} ʀ → t d n ∅ r (velar fricative is conjectured; changes → d “unsure”)
+1: j → dʒ / V_V
+1: e → ə / ”U…P_(C…)V# ! V = i
+1: ml → mɲ → ɲ (Thompson seems to indicate that this may have become [l] as well; only seems to have occurred with second-register tones)
+1: ɡ q → k ∅
+1: tlʼ → dl / #_Vħr
+1: p t k → fː zː xː / V_V
+1: dɮ → ɣ
+1: im it ik is ij → em u e es e
+1: w → v / _%
+1: ɪ → ɪ̞
+1: ˀt → ʔn / V_{V,w,j}
+1: b → v / VL_V
+1: Vː → V[-long] / _# (except as below)
+1: t → ts / _{i,e(ː),a}
+1: r → s / _s
+1: V[- long] → ∅ (shared with Old Turkic)
+1: b d dz ɡ → p t c k / N_
+1: waŋ → uaŋ
+1: ɲ → n / ! h_i
+1: õ(ː) → ũ(ː)
+1: sn → ns
+1: y → {ɪ,i}
+1: k ʃk → k* kː / V_V (the asterisk-marked k is what McAlpin terms “weak k”, which tends to drop out in morphology)
+1: *Z → r
+1: u̯əi ɔi → (w)iː oːi
+1: eː → iː
+1: v → m / medial
+1: i u → əi̯ əu̯ / _#
+1: Ch → C / _(V)Ch
+1: {ue,aja} → ə
+1: l → r → _Vl
+1: ɡ → ∅ / V_(VC…)”V
+1: ts dʒ NTS → {s,tʃ.} tʃ. m
+1: ʃ ɬ → ʂ l
+1: t → t / _# (?)
+1: s̻ ts̺ → s̺ ts̻ (Biscayan, partially in Guipuscoan, Donostia, San Sebastián, though these latter two may be varieties of Guipuscoan)
+1: p b → b w / V_lV (the latter is irregular)
+1: {tʃ,k}t ɡd → tʃ dʒ (else)
+1: a → aː / VC_
+1: m̩ n̩ → em en
+1: ʎ r → j ʁ
+1: sk rK → j sɡ
+1: k → p / _{s,ʂ}
+1: mw f → f {f,v,w,h}
+1: ɡ → k / ŋ_#
+1: ʈʂs → ts
+1: — /i/ and /u/ remain when ”V_ (then u is subject to the changes listed above—u → y, &c.)
+1: ɑ̃ː → õː
+1: k b r → {ŋ,∅} {w,m} {n,r,t} / _#
+1: pʷ w → b ∅
+1: m̩ n̩ → am an / _{s,({m,j,w)V}
+1: ”{i,e}V → j”V
+1: n[- fortis] n[+ fortis] → {n,r}(?) n
+1: sj ssj jn → js jʃ ɲ / V_V
+1: p k tʃ b ɡ β j → b ɡ i {b,u,u→y→i} ∅ {u,u→y→i} i / _r
+1: Bʱ1P2 → B1Bʱ2 / “includes s ʃ > zʱ ʒʱ”
+1: ũ → ã / stressed (*)
+1: nʲ → j
+1: ɬ → {ɬ,l}
+1: ∅ → u / w_V
+1: j → ∅ / {c,ɟ}_
+1: ∅ → a / #_z
+1: {a,æ,e,ø,i,y} o → i u / _Ci
+1: q qː k kː s sː → k kː c cː t̪ t̪ː
+1: nʲ → {j,n} / else
+1: {w,ŋ} → j
+1: i u → əj əw / _V(C)#
+1: i → ∅ / a_ (sometimes)
+1: pʼ → p / V_
+1: f θ s x → β ð z ɣ “(Except initially or following IE stress)”
+1: {l,r} → ∅ / ɗ_
+1: i1 → {i1,ə1}
+1: — Loaned w → ɡw
+1: ŋ → ŋ̊ / _#
+1: V → Ṽ / _N#
+1: T h2 → D h3 / ”W
+1: {u,ø,y} æ → {o,u} ia / _Ca
+1: TS K → TŠ TS / _E
+1: w → ∅ / V_{V,#}
+1: ɡʰ → {d,h,ɡ}
+1: V → ∅ / ”V%L(C)(C)V(C)# (irregular)
+1: çl → sj
+1: uCV[+ high] → iC “sometimes”
+1: r → *L (some sort of lateral?) / occasionally
+1: ʔ(ʷ)~qʼ(ʷ) → ʔ(ʷ)
+1: dz → z
+1: z → ʒ / if ʒ is somewhere in the stem after it
+1: ey → ai
+1: {ɡn,nj} → ɲ
+1: ç → x
+1: n → t / ! _{h,kʷ,V[+nas]}
+1: o(ː) → õ / _õ(ː)
+1: t k → d ɡ / V_r
+1: a(ː) æ(ː) → õ(ː) ẽ(ː) / n_
+1: b d → ᵐb ⁿdz
+1: t d l → {ʈ,tʲ} {ɖ,dʲ} {ɭ,lʲ,ʎ} (The paper is a bit unclear as to which is meant, as the transcription and the textual aspects of the paper seem to disagree here)
+1: F[-voice] → F[+voice] / X[+voiced]_X[+voiced]?
+1: {t,h} → ∅ / s_
+1: i → j / _V
+1: aː → æː / ! _N or if nasalized
+1: tʃːʼ → tʃː
+1: u → õ (? possibly backwards?)
+1: çr Nç → dr mkʰj
+1: x → ʔ / k_”V
+1: C0C0 → C0 / ! C = r
+1: b d ɡ → β~w ɾ~∅ ɣ / V_V
+1: ∅ → t / sː_r
+1: V[- long] → ∅ / _#
+1: km → hp
+1: a {e,i} → i ∅ / C”V(C)_
+1: pʰ → h / medially
+1: u → e / ɣ_# (? this change is a bit unclear)
+1: t → ∅ / _ʃt
+1: ts h → s ∅
+1: ∅ → e / w_j
+1: ḱ ɡ́ kʷ ɡʷ → k ɡ p b
+1: yʔ → oʔ (eventually → {ʊʔ,(i)uʔ?) / {l,C[+dental +sibilant]}_, in “QYS -k-types”
+1: mb nd → ʙ dr (Nias)
+1: j → ∅ / C_i(ː)
+1: x → e / #_r
+1: ɣ → ∅ / V_V
+1: ɸ → h
+1: e → i (short only in southern dialects, both short and long in northern dialects)
+1: {s,ʂ} → h / _#C[- voice]
+1: C → Cː / V_jV
+1: tʃ → ts (sometimes)
+1: ʔ → ∅ / {s,ʃ,ɬ}_#
+1: en enˀ → a ʔ / in U[- stressed] ! {t(’),lʲ,{n,l}(ˀ)}_
+1: kʷ → t / _E
+1: d(V)j → r(V)
+1: ó → ou → ɛu / in U[+open]
+1: oː → uː (?)
+1: l → ɽ
+1: pʲ(ː) pʲʼ bʲ → t(ː) tʼ d
+1: V → ∅ / C_s when unstressed and not at a word boundary (sporadic)
+1: w j → {v,o} {t,e}
+1: {a,e,o} → ei / _(C…)j
+1: L → bl / #_e (*)
+1: u → o / _{ʕ,ɣ,x,r}
+1: {d,ɡ} → ∅ / _j
+1: ə → i / at word boundaries
+1: {k,ɡ} → j / _{a,C}
+1: {m,n,t} → ∅ / _#
+1: au {ai,ey,ei} æ{y,i} øy Vː → o e æ ø V / #(C)(C)(C)_CC
+1: b → #c, -nc- (Sundanese)
+1: s → ts → tʃ / in some dialects?
+1: oːw æːj → ɔː ɛː / _V
+1: y(ː) yə ø(ː) øy → i(ː) iə e(ː) ei (intermittent)
+1: ? → a / Cw_Cʲ
+1: lʲ → j
+1: k ŋk ŋkː → ∅ k kː / V_V
+1: xʲ(ʔ) j(ʔ) → h ʔ / _#
+1: ɣ → ɡː / _j
+1: l lː → {l,ɭ} ɭ(ː) / V_V
+1: {iː,ij,j} → j / C_B
+1: *R → l
+1: i{w,j} → ∅ / _a, when unstressed
+1: ap → ɛk
+1: ɰ ɰ̃ → j j̃ / #C_
+1: aː → ɔ(u) / _{l,r}
+1: h → ʃ / _C[-voice] (? “both h and š occur before nasals, so it is possible that š has a separate source in Proto Otomanguean”)
+1: e → i / _{n,C[+ sibilant]} (sporadic)
+1: Ce Ceː → Cʲə Cʲɛ
+1: l → lj / _i
+1: sn → {ʃV0nV0,sV0rV0}
+1: a(ː) o(ː) õ(ː) → æ(ː) e(ː) ẽ(ː) / r_
+1: k → ç / V_# ! _C “(sometimes)”; “(except when phonemic)”
+1: V[- stress]NV → ṼṼ
+1: ou øy ei → au oy ai
+1: t → ∅ / rd_
+1: V → ∅ / _”V (irregular)
+1: iː ɨː uː → eː əː oː (this change sometimes did not occur)
+1: a → o / P_ “[tendency]”
+1: xʷ → {w,ɡʷ}
+1: r̥ w̥ j̊ → s f ʃ
+1: — aw → aːw
+1: mn → bl / {C,V}_{C,V}
+1: i → j / V_V
+1: d → k / _w
+1: r → ∅ / _# (in polysyllables only)
+1: bʷ ɡ → kpʷ k
+1: k → ∅ (perhaps doesn’t always happen but happens often)
+1: {ʃ,ts,z} dz tʃ {tʼ,tʃʼ} dʒ → s z ts tsʼ dʒ
+1: H → R / VR_V
+1: i → y / #(C…)_væ
+1: t → ∅ / V_#
+1: ɑ → o / ”{a,e,i}(X)C_j
+1: Nb → p.
+1: b → w / a_u
+1: r → l / #o_#
+1: BːB aː{o,a,æ,e} {æ,e}ː{æ,e}ː {æ,e}ːi iːEː → oː aː eː eː iː
+1: {a3~i3} → {a3,ɛ3}
+1: h → ∅ / u_”Vː
+1: ɔ̃ → ɔ / _{l,ɫ}
+1: ɾ → ∅ / V_V, when neither vowel is stressed
+1: kp kpʼ → {kp,k} ɡb
+1: ∅ → i / r_w
+1: n → s / k_Vn
+1: è → ɛ / in U[+closed]
+1: kw ɡw → pː bː / #_ (“[o]nly Logudorese”)
+1: a → ɛ / _(C…){i(ː),j} (conjectured based on date from the “Germanic umlaut” article)
+1: d → t
+1: ! !̃n → ! !̃
+1: l r → ɬ r̥ / #_
+1: ɡʲ → j / in southern regions
+1: p d → p~ɸs d~t
+1: qı̄ng píng → yı̄n píng
+1: qh → k
+1: ut u{k,n} ur → ud uo uɛ
+1: {s,z} → {x,tʰ}
+1: r → r̥ / S[- voice] / _#
+1: ph → p / #_aC[+sibilant]
+1: uCu → iCi
+1: k ᵐb ⁿd → {k,h} b {s,t} / #_
+1: pː pwː tː ʈː qː kː → pʰ pwʰ cʰ tʰ h jʰ
+1: — wə̃ → ũ / {h,s}_
+1: ∅ → h / V(ː)_, when stressed (only sometimes, “particularly before consonants”)
+1: ∅ → ə / C[+ labiovelar]_i
+1: kʷ → p / _#
+1: B → o / {qʰ,(N)q}_
+1: u i → o e / sometimes
+1: V → Vː / _r{t,d,s,ts} (except /ə/)
+1: a(ː) → ɑ(ː) / if ɑ(ː) is elsewhere in the word
+1: V → Ṽː / _nC “(works across word boundaries)”
+1: s → {s,ʃ} / _xʷ
+1: {t,k} {d,ɡ} → ts dz / _i
+1: {θ,l} → t / n_
+1: waː naː → oː noː / %u in #U
+1: l → j / else
+1: ʔw ʔb ʔd ʔɡ → m p t k
+1: $ → h / V_ (what $ is is unclear)
+1: oː → ua / _[anything], when stressed
+1: — {b,v}j → dʒ
+1: βw tw → wː dw → ɡʷ ɡʷ → ɡ ɡ
+1: a(ː) → ẽ(ː) / adjacent to a nasal vowel
+1: {pj,bj} {tj,dj} {cj,ɟj} → b d j
+1: l → ɭ
+1: s1 s2 s3 → ʃ z tʃ
+1: ʃ → {ʃ,s} / in inland varieties; remains /ʃ/ in coastal varieties
+1: uj → os
+1: e → ə / unstressed (possibly only in disyllables?)
+1: ʔ → ʕ / #K_r#
+1: t → {r,s} / V_i
+1: Cv → vC / _C
+1: i → ɪ / _NS[- voice] ! _NS(C){o,i,j}
+1: iw uj → {ju,i} oj / _#
+1: am an {aːm,aːn} → õ æ̃ ã / _#
+1: j → ʒ / $_
+1: θ → ð / V_V
+1: ŋ → ∅ / _{i,j,w,y}
+1: s → tʃ (in certain cases? Not a lot of data available on this one)
+1: ia → ə (“unspecified”)
+1: ŋ → k / #_V[+nas]
+1: w → m / _u
+1: r → ∅ / st_
+1: wʲ → w / _aŋ
+1: n{θ,l} h{θ,ʃ} → ∅ s
+1: sʲʷ zʲʷ → sʲ zʲ
+1: tsʲ(ː) tsʷ → tɕ tsʲʷ
+1: !̃ !x → !̃(n) !x~x
+1: {r,s}l {r,s}n → l̥ N̥ / %_V
+1: N{w,r} Nj → ʔk ʔt
+1: ɲV → jṼ
+1: t → ŋ / a_
+1: i → iə / _ŋ#
+1: {nʲ,ŋ} → n / #_
+1: ɪ → iː / “unstressed foot-finally if the next syllable is stressed and begins with /k ɡ tʃ dʒ ʃ ʒ/”
+1: ɡ → ∅
+1: mb → p
+1: u → ∅ / ! {OL,”V}_#
+1: dz → ɟ / V_V
+1: a(ː) → ɑ(ː) / near emphatics
+1: eː oː → ie uo
+1: {N,r} → ʔ / _{#,C}
+1: V1 → V2 / in syllables with /ɦ/, a nasal, or a liquid
+1: i(C)V[+ high] → i(C)
+1: R l L → {r,ʔ} ɭ l
+1: tʃ → d / #
+1: r → j / _#
+1: ŋ → j̃ / #_ (not sure if this nasalizes the following vowel or not)
+1: mn → w / {C,V}_{C,V}
+1: ɨɔ → ɨ / _C%
+1: Vn → Ṽ / _V (?)
+1: {t,θ,d,ð} → ∅ / l_n
+1: b d {ɡ,ɣ} → p t k / _S
+1: k ɡ → kʲ ɡʲ / _ɛ where the vowel is from a yer or a borrowing
+1: u a ə → {u,o} {a,e} e
+1: é → ɛ / in U[+closed]
+1: t → l / _{u,i}
+1: {ɛ,e}ː æː → iː aː
+1: k t s → j c t̪
+1: ai au → ai̯ au̯ / _#
+1: n → i / _s and sometimes other fricatives (Montana Salish)
+1: q → h / _#
+1: pː pwː tː t̪ː kː cː → f hʷ t̪ʰ tʰ h jʰ
+1: {p,t,k}({p,t,k})n {p,t,k}({p,t,k})m → nː mː
+1: ∅ → e / {#,V}s_n
+1: mb mn → mː nː
+1: ʀ → {l,ɾ} / ! _# (the latter is more common)
+1: d → {d,tː}
+1: pr {sr,xr} sn km → pV0rV0 ʃV0rV0 sV0nV0 kV0wV0
+1: m b → n̼ t̼ → n t / _{a,e,i}
+1: V → ∅ / _#, in trisyllables
+1: ei → eː / _C(ː,V)# (V can be a syllabic consonant)
+1: o ɨ → e o
+1: p → v / V_V
+1: l → {n,l} / #_
+1: — a → {ɛ,e} / _rC
+1: é → ɛi / in U[+open]
+1: ⁿQʰ {ǀʰ͜q,ǀʰ͜ɢ} Q͡q → ⁿQ(ʰ) ⁿǀʰ Q[+voiced]
+1: r → j / {e(ː),ẽ(ː),i(ː)}_V
+1: V → ə / if short and unstressed
+1: ʔ → ∅ / V3R_{V,#}
+1: ɬh → ɬː
+1: i → a / _t
+1: e → i / _{m,ŋ} when posttonic in U[+closed] or when pretonic
+1: n dz → l r
+1: β → v (though sometimes → ɡw instead if analogy interfered)
+1: e → ei / _{ɣ,j}
+1: aj → ai → ae
+1: i̯e → e
+1: {ʔ,h}{ɬ,l} → hs
+1: Vˀ → V[+low tone] → V[-tone]
+1: l → ∅ / V_V
+1: ∅ → t / s_r “in ‘stręczyć’”
+1: ∅ → V / Vk_# (Zeberio Biscayan)
+1: ts(ʲ) → s(ʲ) / ! n_
+1: k *R → ɣ r “(frequently)”
+1: ksː → is
+1: l → ɬ / _t
+1: ið → j / ”V_V
+1: aw aj → o e
+1: m → ∅ / near nasals
+1: w → ∅ / u_#
+1: sk → f / ”V_
+1: tsʷː → tsʲʷː
+1: r → l / x_
+1: s → z / medial (I’m assuming between vowels or when *s voiced in PIE)
+1: ɨa̯~ɨə̯ → ɨː
+1: ei → i
+1: a → i / ŋ_%
+1: {n,ɲ} → ⁿdʒ / _E[-nas]
+1: f → {x,ç} / _t (the former seems to have occurred in northern dialects, the latter in southern ones)
+1: nʲ tʲ tʃ kʲ → n t s ts k
+1: h → ∅ (in those “dialects of the western fringe of Asia Minor and the near-by islands”)
+1: “[I]solated other instances of k → q occur with uncertain conditions”
+1: l → u / _{t,d,s} (else)
+1: tʃʼ → {sʼ,tʃʼ} : tɬʼ
+1: f → v / _{p,t,k}
+1: {s,ts} → tsʼ
+1: {w,r} → ∅ / {a,e}_#
+1: ɡl → lɡ
+1: a → a / _C[+ dorsal]
+1: l r → {l,ɫ} {ɾ,r}
+1: V → o / C”oC_
+1: — r → l
+1: k → j / V_tV
+1: pː pwː t̪ː tː kː cː → pʰ xʷ t̪ʰ tʰ x s
+1: bʱ dʱ ɡ́ʱ → b d z
+1: a → ɑː / “in a few words, like ‘father’”
+1: Vː → V[-long] / _i
+1: iː → i / stressed
+1: N → ∅ / _pV
+1: k → ∅ / #_t
+1: k → ∅ / l_s
+1: ∅ → w / C_o# ! C = {K,C[+pharyngeal]}
+1: {p,t,k} b d ɡ → ʔ p t k / _#
+1: ʐ → z
+1: C[+ sibilant]w ç → swdz sdz
+1: j → ʝ → ʒ → ʃ → x (Guipuscoan, northwestern High Navarrese, eastern Biscayan)
+1: e → a / {V,C}_r (“mainly in the western dialects”)
+1: ∅ → t / hs_r
+1: juŋ → iuŋ / _ɡ[+píng tone]
+1: tk → k / in Pre-Livonian (?)
+1: s → sʲ / _tʲ
+1: ḱ ɡ́ → k ɡ
+1: t → tʃ / #_iç
+1: e → i / pretonic
+1: w → m / #_
+1: sk → ʃ / V_{i,e}
+1: u → ɔ (rare, sporadic)
+1: {w,k} → ∅ / _{n,r}
+1: tʃ → c
+1: ∅ → j / çm_
+1: UŋA eŋi → Oː øː
+1: s → ʔ / _C
+1: h → ∅ / _Ch
+1: n → ŋ / _ũ
+1: we e → o i
+1: hw → ∅ / õ_
+1: k → c
+1: — m → n / _#
+1: uV → u(i)
+1: a(ː) o(ː) → ɔ(ː) u(ː) / ! “when both short and unstressed”
+1: nV1nV2 → nV2nV2
+1: ”V[+nas] → Vn (*)
+1: k → ∅ / h_ (sometimes restored via analogy, e.g., in verbs)
+1: Vː → V / _#
+1: t d Nt Nd st sd çT tr (ç)dr KT → tʰ t Ntʰ md zd st çtj trh (ç)tr kt
+1: ъl → ɫu / else
+1: {d,n,r} → l / _l
+1: V[-long +stress] → Vː / in open syllables (ʏ → {œː,øː} here but this is not phonemically important; there seem to have been qualitative differences between original long vowels and long vowels resulting from this change—lengthened iː seems to have become eː, but lengthened aː merged with original aː); does not affect original long vowels or vowels in diphthongs
+1: i → u / _(C…)u (Roncalese)
+1: j → dʒ / #_ (but not in Béarn)
+1: {u3~ə3} → ə1
+1: wʲ → w / C̣_oŋ
+1: !̃(n) → ǂ̃
+1: kV[+round]C[+glide] → kʷ
+1: — V[- long] → ∅ / _# ! V = u
+1: Vm → Ṽ / _#
+1: iji → iː / U[+ long + closed]_ in the stem
+1: Vʔ → Vː / stressed
+1: — e u → e o / _nt#
+1: pl → {ʃ,pr} / #_
+1: w → ɡw / #_
+1: kl → kʎ → tʃ → ʃ / #_
+1: xV → k / _h
+1: iN → æ / {P,C}r_%
+1: p c q → f s ʔ
+1: C1C2C3 → C1C3
+1: o → u / _{mb,mk,ɫ}
+1: — a → e / _j
+1: j → ∅ / _# ! p_
+1: {s̪,s} → h “(in all environments)”
+1: n → ∅ / _tː
+1: u → i / _{r,s}
+1: j ɡj ts z n → tʃ i w s ∅ / _#
+1: β → w / V_C
+1: ɑ́ ə́ ʊ́ → ɑ̄ ə̄ ʊ̄
+1: ɡ ç → ∅ zɡ / _r
+1: u̯əi uəi uai i̯əu iau → oːi uːi uːiau oːu
+1: S → F / _{i,u} (Do not necessarily have to be fricatives at the same POA; in some cases, the phones go to null or to /l/)
+1: u {o,ɒ} a → y ø æ / _(C)(C)(C)i
+1: ə → a / _(C…)#
+1: (r)ts (r)dz → (r)tsʰ (r)ts
+1: trk → kr / in the name of the river “Skrwa”
+1: u → ь / j_
+1: — a → _$%%(…)”
+1: et ej → o e.i
+1: ò → uo → uɛ / in U[+open] ! _N
+1: f θ → v z̪ (the article isn’t exactly clear on what this second phone is)
+1: r → j / {e(ː),ẽ(ː),i(ː)}_{a(ː),o(ː),õ(ː)}
+1: an → ia
+1: əɪ əʊ → ɑi æʊ / “in some parts of South-Eastern England”
+1: V → e / C_# ! C = j
+1: b C → b~∅ {d,ɡ} / _#
+1: *L → r
+1: ʈ → {ʈ,tʃ} / _{j,ɾ}
+1: iw ow → y uː / _(C) (*)
+1: {*j,*Z} z → l r / V_V
+1: ɨ → e / CC_#
+1: tʃ ʈʂ tɬʼ tʃʼ ʈʂʼ → {tʃk,ʃɡ} tʃ h {ʃkʼ,tʃʼkʼ} tʃʼ
+1: ɣ → k / _i
+1: e → ∅ / ”{i,e}_#
+1: r → ∅ / {C,V}k_{C,V}
+1: V → Vː / _zC[+voiced]
+1: ŋ → h
+1: oɨ → ai
+1: V → ∅ / _# “in nominals”
+1: tʃ tɕ → ʃ ʂ
+1: {u(ː),o(ː)} → ∅ / _#
+1: a → ∅ / C(C)_{ʀ,s,t,θ}#
+1: e → i / _(C)(C)V(C)#
+1: j → lʲ / {p,b,m,v}_ (sporadic)
+1: ǁxʼ → ǁˀ
+1: uː yː iː → ou øy ei, except in certain unstressed endings and monosyllables, _C{C,V,#} (“especially before /xt/”), and Low German borrowings
+1: {kC,Ck} → ʔ
+1: l → ɫ (the conditions of this are not elaborated upon)
+1: b → m → ∅ / Vm_V
+1: TS TŠ → TH TS
+1: b → β~m / #_V[-high]
+1: s → {s,h}
+1: b d2 → {v,b} z
+1: Vː → ”V / in U#; “this change may have been present in Huron already”
+1: e → i / #(C…)V…_n…”U
+1: a → ɨ _N ! _{nː,mn}
+1: {aı̃,eı̃} → ɛ̃
+1: p t k → b d ɡ / V_r
+1: (N)V1[+mid +nas](l̃) → CV[-nas]n
+1: wa → o / #_ when unstressed
+1: x → j / _V
+1: ьr → i(ː)ʐ → {ɛ(ː)r,ɛ(ː)ʐ} → {ɛr,ɛʐ}
+1: l n → r l / #_ (sporadic)
+1: kː → x
+1: ç → hj
+1: ˀt → ʔ / _r
+1: n → ŋ
+1: w → ʔ / something to do with either back vowels or prefixes
+1: — u → ∅ / CC_V
+1: l l̃ → j j̃ / #_
+1: *R → ɡ / #_
+1: ts → {s,h}
+1: h → w / #_
+1: ∅ → V / x_k
+1: ʃ → s / in unstressed syllables
+1: a → u / _Cu
+1: t → {p,t} / _r
+1: — iː → eː / _#
+1: C[+ sibilant] → C[+ affricate] / _#
+1: o → u / _k (possibly restricted in occurrence)
+1: uː {oi,ɔː} → yː uː
+1: — i → ə / R_ if a frontal allophone of ə in an adjacent syllable
+1: pʼ tʼ tʃʼ kʼ qʼ → p t ts k q
+1: s → ʃ / _i (not universal)
+1: i(ː)b ik → iw ij / _a
+1: it ik → o i
+1: {w,y} → ∅ / _ja
+1: t d → ts dz / _j
+1: t → {r,t} / _B
+1: V → dz / _V̂
+1: kh → k / #_ “in a word with two back vowels”
+1: k → c / _#
+1: V → ə / unstressed ! V = ɑ
+1: LV → VL / {#,V,O}_
+1: ǵʰ gʷʰ → ɡʰ xʷ
+1: r → l / _Vl
+1: w → ŋ
+1: l → ∅ / s_t
+1: k → χ / _(w)a(ː) ! #_
+1: ð nŋʷ → c β / #_V[-nas]
+1: qʷʲʼ → ʕʷ (qʷʼ?)
+1: ij → i / _# “after the loss of a final vowel or syllable”
+1: k → χ / a(ː)_
+1: we je → o i / _C
+1: ts → s / #_
+1: ə → i / _hC
+1: k ɡ → t d / {n,r}_r
+1: p b → ɸ ɱ
+1: a → e / C[+palatal]_#
+1: ? → ∅
+1: h → ʔ / #_
+1: o(ː) → e(ː) / Cj_ (sporadic)
+1: P → p / r_
+1: ɛ → ia / #(C)_
+1: {a3~ə3} → æ3
+1: — t k(ʷ) → d ɡ(ʷ) / _{V,R}
+1: t ts s(C) n l r → tʲ tsʲ sʲ(C) nʲ lʲ rʲ / _i
+1: d → t (often)
+1: {tʃ,k} {ntʃ,nk,r} {ɲdʒ,nɡ} mp mb p b {d,l} m n → s tsʰ ts tʃʰ(w) tʃ(w) ʃ(w) dʒ(w) dʒ ŋw ɲ / _{ɪ,e}V
+1: t d → θ ð (conditioning unclear)
+1: w → ∅ / _C
+1: pʷ mʷ → p m
+1: — {ь,ъ} → e / iambic counting from U# or a syllable not containing a yer
+1: n → ŋ / _{j,w}
+1: k → ∅ / _sk (else)
+1: v → ft / _s
+1: {s,f} → h
+1: ẽ(ː) õ(ː) o(ː) → ɛ̃(ː) ɔ̃(ː) u(ː)
+1: x2 s3 → k ʃ / V_$#
+1: {ʔθ,ʔr} → {ʔ,j,∅}
+1: — i → eː oː / else
+1: ɔl ɔr ɛl ɛr → lɔ rɔ lɛ rɛ / T_T
+1: pʰ tʰ kʰ → p t k
+1: ð → i / _C ! _s#
+1: c *R → {j,∅} l
+1: ! !ˀ !̬ !̃(n) !x → k ∅ ɡ ŋɡ x
+1: b → u / V_{l,r}
+1: tsː tʃː → ts tʃ / #_
+1: t → ʔ / V_V
+1: ʁ → j / _i
+1: qʼ qʼː ɡ → {qʼ,j} qʼ {qː,ɣ}
+1: õ → o
+1: ðˤ → zˤ, occasionally tˤ
+1: {s,c} → {h,s}
+1: ∅ → dz → î_V
+1: ts → tʃ / #_{a,õ}ʔ
+1: u → w → ∅ / (“when in unstressed penult or between first and tonic syllables; irregular”)
+1: kː ɢ → xʲ {qːʼ,ɣ}
+1: ɛ ɔ → iɛ uɛ / _{Cj,jC}
+1: t → l / _V
+1: jь → i / utterance-initially (cf. English utterance-initial glottal stops before vowels)
+1: -i -i{p,k} -it -i{m,ŋ} -in → -i -ɨʔ -iʔ -ɛ -ɨ
+1: {kʰ,ɡʱ} → x (Presyllables don’t seem to have affected this much)
+1: p b → ɸ β / {#,V}_ ! _C
+1: pwʰ pʰ tʰ kʰ → fw f rʰ x / in Nelemwa
+1: — oː → uː
+1: V[-long] → ∅ / #C_C (sporadic?)
+1: — ɛ ɔ u → e o u / _(C)j
+1: l → j / a_i
+1: w → v (→ w in Shageluk dialect)
+1: V → u / C”uC_
+1: C → Cʲ / _E ! /j ɕ ʑ
+1: i → e / ! _hCC (“short only”)
+1: ∅ → m / o$_V (Orozko Biscayan)
+1: eː əː → e ə (as a result of ablaut)
+1: ə̃(ː) → ɨ̃(ː) / ! “when both short and stressed”
+1: uː → ʉw / _V (probably, in most areas)
+1: pː pwː tː qː cː → pʰ pwʰ tʰ h cʰ
+1: *D → r
+1: {pʰ,ŋ} → {∅,j} / #_
+1: {p,t,k} → ∅ / _st
+1: ʔR → ʔ{R,b} / V3_V
+1: ʈʂ → t / _r
+1: uɛn → ɛn / ʋ_
+1: tɬ tɬːʼ → ɬ tɬ
+1: ɔ → ɔː / “in ‘gone’ and some derivatives”
+1: ŋ → n / V_V
+1: ɡ → w / V_
+1: i → e / #(C)aC[-palatal]_
+1: w → ∅ / {r,b}_
+1: V[+nas] → V[-nas] / in U#
+1: x ɣ kˤ → ħ ʕ q
+1: tʲ → ʃ
+1: b → w / _$#
+1: {kʷ,kw} {ɡʷ,ɡw} → k ɡ / else
+1: V → ∅ / unstressed ! V = a
+1: j z → d j
+1: o e i → ɔ ɛ ɪ / C_V[- high]
+1: ʕm → {b,ɓ}
+1: e a {ɑ,ʊ} → æ ɔ ŭ
+1: V[- long] → ∅ / #U_UU
+1: p → f / {V,#}_
+1: {qːʼ,ɢ} → qʼ
+1: w → u̯ / V[- long]_{#,C}
+1: tɕʷ(ː) tɕʷʼ → tɕ tɕʼ
+1: t k(ʷ) → d ɡ(ʷ) / _{V,R}
+1: t → s / s_j
+1: — ju → jeu
+1: f → x / _O
+1: oː → uː / _r
+1: V[+high] → ə / _w (sporadic)
+1: nː → ð / _{r,ʀ}
+1: c → p / _{s,t}
+1: b d ɡ → mp nt ŋk
+1: ʐr → ʑr
+1: p k → ∅ j / V_tV
+1: r → ∅ / _S[- voice]
+1: lTS → l.dz
+1: {ndj,ndʒj} ndʒ → ɲ {ɲ,ndʒ}
+1: l(ʲ) → r / else
+1: l *L → ɭ ʎ
+1: stː → sː
+1: i(ː) → u(ː) / o(ː)(C[-dental])(C[-dental])_
+1: — {p,t,k} s → ʔ h / _#
+1: t → tʃ / _V[+high]
+1: ð → z (except in some northern and eastern dialects where → ∅)
+1: t → ∅ / s_r
+1: ȵ → j̃ / _F
+1: {sj,stj,sːj} → ʃ
+1: v → f / %C[+ sibilant]
+1: {tʰ,tsʰ} → ʃ
+1: n → l / l_
+1: ɬʲʷ(~ɬʷː) ɮʲʷ → x(ʷ) ɣʲ
+1: ∅ → ɰ / #_aC[-low]
+1: θ → {t,d}
+1: β → b / V_V (in western and some central dialects)
+1: — (k)kj → ts
+1: t → ∅ / {ʃ,s}
+1: z → ð / medial
+1: ts → {s,z}
+1: h → ɲı̃ / #_ã
+1: {a1~i1} → {ə1,e1}
+1: w → {ɡ,k} / {#,V}_
+1: k → ɡ / V1_V2 ! V2 = ɔ
+1: ŋ(w) N{ŋ,nj} → ȵ mɳ
+1: t → c / #_V[-nas]
+1: u {ɑ,ʊ} → {o,u} ə
+1: C[- voice] → C[+ voice] / {l,N}_ (not Roncalese or Souletin)
+1: — ɡʷ → b
+1: q qʷ → qː qʷː / ! #_
+1: f θ → p t / F_
+1: kʷ → ∅
+1: ∅ → ʋ / #_{yː,øː,oː}
+1: e → ∅ / u_#
+1: a(ː) → æ(ː) / else (sometimes it seems more like ɛ(ː) to me)
+1: ɑ ɔ → a ɑ
+1: qʷ qʷː ɢʷ → ħʷ qʷ ɣʷ
+1: ke(h) → tː ?
+1: ts → ts : tɬ
+1: p {t,ts} c → pʲ tʲ rʲ
+1: k c → ∅ {j,∅} / V_V
+1: ʃ ɬ ɬː → s {xʲ,ʃ} xː
+1: ã → a / in ”U (sporadic)
+1: V[-long] → ∅ / #C_C, in some words
+1: w → ∅ / _w
+1: {s,ʃ} → ∅ / _x
+1: a ɛ i ɔ u ɨ ã → aː ɛː iː ɔː uː ɨː ãː / _{C/U}[+voiced][lost yer] (i.e., a voiced consonant or a cluster with one)
+1: ts dz → {ts~tsʰ,ts,s} dz~ts
+1: ç x → x ʃ
+1: kː → tʃ / _a (in the east and northeast)
+1: {ʒ,dʒ} → j / #_ (marked as to Pre-Proto-Turkic)
+1: m → n / “in certain contexts, notably in the nunation”
+1: kj ɡj → tʃ {j,∅} (ɡj → ∅ is rare)
+1: tʰ → h (Only seems to have occurred with first-register tones)
+1: iə → ɪ (ongoing)
+1: p → f / _{t,k}
+1: u i → {u,o} {i,e}
+1: tɬ tɬː tɬʼ dɮ → ɕ (sʲ) tsʲʼ ɮ
+1: um → ũ / _#
+1: uɛ → ɛu
+1: l → ɾ
+1: v → w (possibly a conservation with other languages changing *w to v?)
+1: {tʃʰ,dʒ} → tʃ
+1: aj → eː “(exception: never finally in monosyllables, never initially in multisyllabic words)”
+1: ə → a / _{i,u}
+1: ɪ ɪ̃ → i ı̃ / #(C)V[-high]C_
+1: j w → i U / V_{C,#}
+1: O → O[-voiced] / _{C,#}
+1: n̩ → e / n_ (this is admittedly a bit conjectural; the paper is not being very clear here)
+1: jujŋ ujŋ → iuŋ uŋ
+1: x → ∅ / _r
+1: n n̥ → ɲ ɲ̊ / _E
+1: ket → tː (→ sː?)
+1: stʃ → s (in some northern and northeastern dialects)
+1: kj ɡj xj → tʃ ʒ ʃ
+1: d → ∅ / _n “in arch. ‘jeno’”
+1: R[-voiced] R[+voiced] W → Z[-voiced] O[-voiced] F / #_
+1: o → ø / _Cr
+1: p t → b d / V_V
+1: z → t
+1: ɡ x → j ç / _{ɛ,i}
+1: eː → i / unstressed
+1: {p,b} {t,d} → m n / _{m,n}
+1: ɪ̃ → ɛ̃ / #(C)V_C
+1: s → ʃ / !V_
+1: e → a / _i
+1: ɡn → nː
+1: iː uː ɨː → i u ɨ
+1: {ɸʼ,ɸh} → ɸ
+1: k → ∅ #t_ (in morphemes)
+1: a → ə / _Ce
+1: — aj → eː / _$
+1: kʰ kʰʷ ɡ ɡʷ → x xʷ k w
+1: Vː → V / #C_C$ + $(V)C$ suffix
+1: j → dʒ / #_ (did not occur in Qara Nogay)
+1: t → c / _E
+1: u → i / _j
+1: ndj → ɲ
+1: a → ɛ (sometimes)
+1: iu̯ → ui̯
+1: {ɛɨ,eɨ} → aɨ
+1: {u,o}(ː) a aː {ɒ,œ,y} e i(ː) → {o,ɔ}(i) æ(i) {ɔ,ɒ}(i) {o,ɔ}(i) {æ,e} / _{Ḱ,Cʲ}
+1: θ → h / _ɪ
+1: a aS → ɑ {ɑ,u}
+1: {tʃ(ː),dʒ} → tʃʼ
+1: ʃ → s2 / {i,j}_
+1: q x ɣ → ɡ χ ʁ
+1: u1 → ə1
+1: a(ː) → õ(ː) / V[+nas]({ʔ,s})w_
+1: ɣ → ∅ / E_
+1: — iː eː ɛː aː oː uː {øː,yː} → əi i {i,e} e o u ø
+1: ɣ → ɡ / _{E,j}
+1: e o → i u / #(ʔ)_C
+1: *j → r / V_V
+1: ɣ → ʕ / ħ_
+1: t k kʷ → d ɡ ɡʷ / _{V,R} ! _V[-voiced]
+1: uː → øː / _CC
+1: v ɡ ɟ → f k c / V_V
+1: Vː → V / #K[-voice]_C
+1: !! → ǁ
+1: ue̯ → uː
+1: Sʼ → ʔ
+1: {t,d,k,m,n,s} → ∅ / _#
+1: kʷː xʷ → ɡʷ x
+1: nd ld (→ nː lː ?) → ɲ ʎ
+1: {D,Y} → ∅ / _n
+1: e → i / ! {w,r,h}_
+1: b → ∅ / u_#
+1: C[+sibilant]P → C[+alveolopalatal] / _C[+coronal]
+1: ʔ → ∅ / ! in onset of U[+stress] (colloquial)
+1: u i → w j / a_ when this a is a result of the preceding metathesis
+1: {ɕ,tɕ} → h
+1: w → ∅ / o_st (*)
+1: e eː → {æ,ɛ,e} {(j)ɛ,je}
+1: — {i,e} → j / _V
+1: n → ∅ / _t
+1: i → ə / oC_
+1: dʲ ɟ → z j
+1: ɑː y(ː) → ɔː i(ː)
+1: ɨ$Cɨ → e$Ce / _C ! _ɾ
+1: ɔ → ɑɒ (for some speakers)
+1: ∅ → d / r_z
+1: b → v / V_V
+1: ś → k (Possibly unconditional; some Samoyedic langs)
+1: q ʀ → x w
+1: Kʷ → K / _V[+round]
+1: ɭ → l
+1: dʒ → ʒ / else
+1: h2 → k / E_E (probably a palatal stop)
+1: s → h / _(V)C
+1: p k → ɸ ∅~k
+1: pr sr tʲr kr → bð sts ʃd ɡð
+1: l̥ → l / medial
+1: VV → Vː (“For outcomes of word-final vowels, see down below”)
+1: l → tʃ / _{o,E}
+1: ts dz {t,ts}ʼ tʃʼ → s z sʼ ʃʼ
+1: eː → {ɒ,ə} / w_
+1: l → u / _{C,#}
+1: w → j
+1: ə → ɪ / else
+1: {we,wiː} → o / #_
+1: a → i / ! at word boundaries
+1: aj jaj waj aw jaw → ai iai uai au iau
+1: (h)kʷ → hq(ʷ) / _{o,a}
+1: oi → oe
+1: a → ɔ / _{l,nd}C
+1: h2e a → a ɨ
+1: β → ∅ / V_B
+1: ŋ → ∅ / #_ ! #_o(w)
+1: lː nː → l n / C_#
+1: ə → a / _{u,ɨ}
+1: pː tː cː kː → p t c k
+1: stʲ → ɕ / _l
+1: — ∅ → d / n_ɾ
+1: !x → !x~x
+1: ndj → nts → ns → ɲ / V_V
+1: d → s / #_{i,j}
+1: W → ∅ / C_
+1: C0C0 → C0
+1: {aja,ɛja,ьja,ɔja} → aː
+1: {i,eː,e} → e / _%”V
+1: {kʷ,kw} → k
+1: i u → e o / _CV[+close-mid](C)# “(iə is treated as close mid for this change)”
+1: — Ḱ → K
+1: — i(ː) e(ː) → u(ː) o(ː) / _ɭ
+1: ɑ → ə
+1: ts tʃ → tʃ s
+1: a e → aː eː / in ”U[+closed]
+1: s → ∅ / in “[t]he prep[osition]. us…in compounds before st”, though this seems to have been less common
+1: Ṽ → Vː / in #U (maybe only ı̃?)
+1: β → u / _l
+1: ə → ∅ / C_CV (not sure if this happened all the time or not)
+1: ǂ {ǂ̃n,ǂˀ,ǂxʼ} → ǂɡ ǂ
+1: — C1C2 → xC2 / if C2 was a plosive or s
+1: h → ʔ / _# (sometimes)
+1: l → r / V_V
+1: {t,k} → ∅ / V_V (Marathi) probably with voiced stops as intermediates, since they also became silent
+1: s → ∅ / V_C
+1: m̥ n̥ → m n
+1: /b/ [b], /β/ [b~β] → /b/ [b~β]
+1: kʷ → b / else
+1: ʔ → ∅ / C{v,l,s}_C
+1: u → o
+1: ʃ → s / ”V_k
+1: ɔː → au / when stressed
+1: Qʷ → Qʷ → Q ?
+1: dˤ → zˤ (seems to be a sporadic change only affecting a few words, e.g. CA/MSA ˈdˤaːbitˤ → EA ˈzˤaːbitˤ)
+1: V → Ṽ / _N (Souletin, perhaps in other dialects?)
+1: ьjь ъjь → i ɨ
+1: ɲc → ns / V_V
+1: au iu uu eu ou → ɔː juː uː joː oː
+1: lʔn → lː / V3_V
+1: t → ∅ / _# ! “in the preterit of verbs”, though it tended to drop “in strong preterits”
+1: — aj aw → ej ow / _#
+1: ɒ → ɪ / _rC
+1: t → {r,t} / V_V
+1: w → v → ∅ / _u (“restored by analogy in many words”)
+1: ”a → i / _CV[- high]
+1: kʼ → χʷ / #_
+1: — At least one reconstruction seems to indicate *s and *ś, which may have been an affricate and /s/. Pretty reliably, *-s tends to turn into -ts̺, and *-ś → -ts̻, probably after the below-mentioned affrication. Beyond that, it’s messy. *-tso seems to have become -tʃo/-tʃu, though.
+1: z → dʒː / Vj_
+1: æː → aː “under to [sic] the influence of neighboring consonants”, but the article doesn’t elaborate
+1: ə → {e,o} / stressed; “(result of /e/ or /o/ unpredictable)”
+1: j → dʒ / V_V (rare)
+1: Vm → Ṽ / _(#){s,ɕ}
+1: n̩ → ə → ∅ / C_#
+1: b → h / medially, ! {r(ʲ),l(ʲ)}_ or _ɡ
+1: {ts,st} {tsːʼ,dz} → s ts
+1: ɸ → h / ! _u
+1: x2 → k / _#
+1: x → ∅ / ʃ_
+1: km → kV0mV0
+1: V → ∅ / in the unstressed penult
+1: ɡ → k
+1: j → ∅ / %{θ,s,z,l}_”V
+1: e → a / in prefixes
+1: f θ s → v ð z / syllable-initially
+1: v t l r → p dr n w / _#
+1: VCːɑ → VːCɑ
+1: *j → ɡ / possible exception in word-initial position?
+1: ʈ ʈʰ ʈʼ → tʃ tʃʰ tʃʼ
+1: — V[-long] → V̊ / R_#
+1: wi(ː) → o(ː) / C_w
+1: j → tʃ / _V
+1: θ → n
+1: {Vm,Vŋ} Vn → V[+nas] {Vr,V[+nas]} / _#
+1: N → ∅ / V[+nas]_$V
+1: eN → y / _#
+1: /dɾ/ [ðɾ] → ɾ / V_V
+1: w → ∅ / h_V
+1: s {k,ts} {ɡ,dz} → ʃ tʃ dʒ / _i
+1: t → ∅ / {p,k}_# (“except in some inflected forms” for *kt)
+1: ts (r)dz dzl dʒ NTS PTS Kts KTS sTS çTS → tsʰ (r)ts Ndz tsl ts ptç ktç kts sts {s,ç}ts
+1: e → i / l_ when unstressed
+1: qʷʼ ɢʷ → qʷː ʁʷ
+1: ɕ(ː) ʑ → ʃ ʒ (the change of singleton *ɕ to ʃ is marked as dubious)
+1: qʷʲ ɢʷʰ → ħ(ʷ) ɣ(ʷ)
+1: l → ɫ / “in coda”
+1: Cʲ → C̣
+1: — ∅ → a / CR_HC
+1: {vʷ,w} → kʷ
+1: tʃ → {tʃ,ts} : tɬ
+1: r → ∅ / w_
+1: n → ∅ / h_r
+1: ai → aːi
+1: — ∅ → i / C{l,r}S
+1: ey → {jo,æ}ː / _ʀ
+1: st stː → st(ʼ) st
+1: — u → ə / _R if a backed allophone of ə in an adjacent syllable
+1: je → i / C_
+1: ʎ → /ʝ/ (“merged with”)
+1: tʰ tʃʰ → t tʃ
+1: V → ə / _(C…)UU#
+1: v → f / _C ! _d
+1: op → u
+1: ʃ → ts / _i, in monosyllables
+1: a(t) → ɛ / _#
+1: mn → mV0nV0 / #_ (in morphemes)
+1: pː pwː t̪ː tː ʈː cː kː → pʰ pwʰ t̪ʰ tʰ ʈʰ jʰ h
+1: k → {k,∅} / _#
+1: Np Nb Nt Nɡ Nç → sts mp mtʰ mk ntsʰdz
+1: ã → {an,õ}
+1: ʀ → s
+1: e → ∅ / el_#
+1: s → {s,d,c}
+1: {h,j} → ∅ / V_V
+1: tsʲʼ → ɕʼ~ʃʼ
+1: ɡ → k / #_ (sometimes?)
+1: om → {o,a}m
+1: kʷ → {v,u} / V_E
+1: j → ∅ / _l (sporadic?)
+1: ɣ s d → ∅ {j dr} / _#
+1: V[+nas] → V[-nas]
+1: p → ∅ / _f
+1: V → ∅ / _%”V (rare)
+1: bʱ → ɦ (very rare)
+1: ɛ ɑ → ɑ ɔ
+1: s → ∅ / {t,k,r}_l
+1: kʲ(ː) kʲʼ kʷː ɡʲ → tʃ tʃʼ kʷ dʑ
+1: V[+stress] → Vː / _C# ! V = ə and/or C = h “(applies to diphthongal nuclei as well a[s] monophthongs)”
+1: u → o / _k
+1: S[- voice]ː S[+ voice]ː → ʰS S[- voice]ː
+1: r rʲ → r~ʁ ɮ
+1: ðʲ sʲ tsʲ(ː) lʲ → ð s ts(ː) l
+1: ɡ → x / _#
+1: jь → i
+1: k → ∅ / _s#
+1: yː → ø / _j
+1: kʷ ɡʷ → k ɡ (else)
+1: ɑ ə ʊ u → a e o i
+1: wt → wV0tV0
+1: uː → {u,o,ɒ,ø} (conditioning unclear; it seems the presence of a velar consonant may have helped to retain the quality of /u/)
+1: j → s (possibly only initially?)
+1: TŠ TŠʷ K Q → TS TṢ TŠ K
+1: ɑ æ → æe / _(C…)i
+1: a → ə #C(C…)_…”U
+1: ɒ e → a ɛ
+1: — øː → i (in northern dialects)
+1: v → ∅ / V_u
+1: tʃ → ʃ / ! C_
+1: e → {y,ø} / P_Co
+1: {h,ħ,q} → ʕ / C[+voice]_V
+1: V[+ low tone] → ∅ / C_hV[+ high tone]
+1: j → ∅ / _i
+1: b {w,v} d ð ɡ → p f t θ k / _#
+1: t → k / s_l (sporadic)
+1: TS TŠ TŠᵚ Q → TH TS TṢ K
+1: n → ∅ / r_(s)#?
+1: æ → ɛə / _{n,m} “and others depending on dialect”
+1: ʑ z → dʑ dz / _v
+1: s2 s3 → tʃː tʃ / V_
+1: s xː → z x
+1: fd → dː
+1: ə → e / else
+1: ts → tʃ / _i
+1: {w,m} → b
+1: f → v / #_ (sporadic?)
+1: ɑ ə ʊ → {æ̆,ă} æ̆ ŏ
+1: ə → {o,e}
+1: hhy → “something like /ʒ/”
+1: an → a(i)
+1: {ˀm,ˀn} → {∅,ʔ} (the former is more likely)
+1: a ɑ ə ʊ → æ a {ə,ë} o
+1: o {u̯ɔ,ɨɔ,ɔ} → u oː
+1: {a,i} → ə / short only; the change of short a blocked for some speakers before ħ ʕ
+1: sk → ʃ / _”V
+1: a aː → o a
+1: Mobile stress → initial stress → penultimate stress (in most areas)
+1: ɡ → ∅ / a_V
+1: a e u æ ø y → {a,e} {e,i} {y,ø} {i,e} {i,e,ø} {ø,y,o,u} / _Ci
+1: ð → ∅
+1: k → ɡ / ! #_
+1: h → ∅ / nq_
+1: d → ∅ / V_V
+1: d c ɲ → ɟ {s,∅} n
+1: h → ∅ / V_ (sporadic, likely an areal feature)
+1: s {ç,x} → f s
+1: {k,x} → ˟ / _#
+1: w → ∅ / oː_j
+1: kj → ts → s / V_V
+1: pr → bl
+1: tʃ → ʃ / _C
+1: θ ð(ˤ) → t d(ˤ)
+1: u → wə / #_
+1: e → iː / ”_%ɪː#
+1: i → ɪ / _CC
+1: ai → ei → iː / %(C)(C)_ when unstressed
+1: — u → ó / !_iː
+1: {ŋ,j} → ∅ / i_
+1: a → e → u / %(C)(C)_ɫ when unstressed
+1: x → ɕ / E_
+1: oː aː eː iː → o ɔ̃ a i
+1: V[+ nas - high] → [+ high] / _i
+1: ts → sʲ
+1: kh → k
+1: pʼ → p
+1: t → z → U / _r{A,O}
+1: i → e / _C(C)oC
+1: w → ∅ / {ou,øy,yː}_
+1: ɸ → b / _j
+1: xw → ʍ
+1: nb → mː → m
+1: ɦ → ∅ / else
+1: w → ∅ / s_o
+1: ʔ → ∅ / _{ɲ,j}
+1: ɣ(w) → ɡ / #_Vx
+1: F → S[- voice] / _{l,N}
+1: tɬʲ tɬʲʼ dɮʲ → tɕ tɬʼ ɣ
+1: {h,ħ} → ʔ / KV_
+1: n l → ɲ ʎ / _C
+1: x → k / _s
+1: u → ʊ → ɵ → ʌ
+1: V → ∅ / ”V%C_L(C)V(C)# (irregular)
+1: L → d
+1: p pʷ bʷ k ɡ → β w kpʷ ɣ k
+1: ai → aː / _r
+1: kʷ → k / _{o,i,C}
+1: v → b / r_ (sporadic)
+1: TS {TŠ,TŠʷ} K Q → TH TS TŠ K
+1: dj → dz → ts → s / r_V
+1: e → i / #b_
+1: ŋ → ɳ / {o,a}_
+1: w → β / _E
+1: j → ∅ / r_
+1: u → {iʊ̯,ʉ,ɯ}
+1: s2 → tʃ / V_
+1: kr → kV0rV0
+1: ɨ → ə / P_
+1: uŋ → oŋ (in one source?)
+1: {o,a}wi → oː
+1: tsʼ → {tʃʼ,s}
+1: n → ɲ / “in the environment of i (sporadic)”
+1: kʷʲʼ → kʷʼ
+1: æu → au (æ → a / _B in general?)
+1: ŋ → {ŋ,∅}
+1: ʈ ʈʰ ʈʼ → ʈʂ ʈʂʰ ʈʂʼ “(ʈʼ remains unchanged in careful speech)”
+1: — e → i / _(C…)#
+1: ʔ → ∅ / p_
+1: — CVː[+falling tone] → C̊V̊ː[+falling tone] / _#
+1: tsʰ → s
+1: l → ∅ / #{d,tʼ}_VC
+1: oː → ø
+1: uʊ oʊ → ʉʊ̈ əʊ̈ (a bit of a guesstimate based upon the prose description in the article and the mean-formant-value chart cited from Labov, Ash & Bobert (2006))
+1: L(ʲ) → r
+1: NC → C[-voiced] / #_ (in nouns)
+1: b…n → m…n
+1: θ → t / {p,t,k}_
+1: a → e / _CV[+ mid] (sporadic)
+1: uʐ aʐ iʐ → uː əː iː
+1: k ɡ → tʃ j(?)
+1: sC → Ch
+1: tʲ ʂ → j ʃ
+1: S[-voiced] → S[+voiced] / _N
+1: i → ∅ / _#, in disyllables
+1: i1 → ə1
+1: i → ∅ / æw_
+1: — pj → tʃ
+1: {N,l,r,ʃ,z} → ∅ / #_
+1: en enˀ → i iʔ / {ts(’),s,j(ˀ)}_ in U[- stressed]
+1: jʔ → ʔj
+1: t → ∅ / else
+1: VU → Vː / _#
+1: K → TŠ
+1: NC → N[+same POA]C / #_ (in verbs)
+1: V[+ creaky voice] → V[- creaky voice]
+1: lʲ → dʒ / #_i
+1: V[-long] → ∅ / _# “[does not apply in disyllabic words containing two short vowels]”
+1: — n → ∅ / {i,o,u}_{p,t,k,s}
+1: d → d~l~n / #_a
+1: K → k / _ç
+1: uj → ui
+1: ə → o
+1: bʱ {tʰ,dʱ} {t*ʰ,d*ʱ} {kʰ,ɡʱ} → pʰ t tʰ kʰ (after *kʰ *ɡʱ, only first-register tones may occur)
+1: — u → y
+1: h → ∅ / _{V,w,j} (sporadic)
+1: e → i / _N
+1: wa we wi → ɒː øː yː / #P_
+1: {l,n}j → jː
+1: ǀ̃(n) → j
+1: j → dʒ / V_V (did not occur in the northeast and some northern dialects)
+1: kt ɡd → it id (in the north, northeast, and southwest)
+1: ʔ → ∅ / V3R_{C,#}
+1: ɡ → ŋ
+1: n → ŋ (Samoan, but only in colloquial speech)
+1: e → ɛ / _C%
+1: u → i / in ”U (sporadic)
+1: {*D,*Z} → r / V_V
+1: {c,tʃ} → ʃ
+1: w → {v,u}
+1: ∅ → h / _ъ
+1: sk → tsuk / _”u
+1: k → js / V_sV
+1: — oCo → œC (sporadic)
+1: a → ə / #{tʃ,dʒ}_(%…)” in U[+open]
+1: au → {o,ɔ,ɒ} / j_
+1: u → {ə,u}
+1: YO[+ voice] YO[- voice] → Y t
+1: hu hi → ʊ ɪ / {o,e}_ (also happened with /a/ sometimes, but usually such sequences just dropped one vowel)
+1: w j → b ɡ / {l,r}_ (occasionally otherwise)
+1: r → n / {#,V}_
+1: ŋ → ∅ / _u / _V
+1: ɡʷ → b / #_N
+1: {ᵐb,ⁿd,ð} → t / _V[+nas]
+1: sj → dʒ
+1: ɡʷ → ɡw / #_a
+1: mb ŋɡ → m ŋ / _#
+1: e → @ / h_ (suffixal)
+1: {t,k} → ∅ / V_V
+1: pʰ → ʍ (this is a bit of a guess; the paper proper has 〈hw〉 here)
+1: ɣ s d → ∅ {j dr} / “before a post-tonic vowel”
+1: wː → ɡ
+1: l → n / #_VC
+1: nz z c → ɲd̪ ʃ
+1: {s̪,s} → /s/ [s̪] “(merged as)”
+1: ji → i / #_
+1: l r → l(ː) r(ː)
+1: iji(ː) → hi(ː) / {k,s}_ “(possibly after all non-glottal obstruents)”
+1: a → o / xʷ_#
+1: əjŋ → ɛn (varies with ɛn?)
+1: t → z / j “(allophonic)”
+1: or ol er el → oro olo ere ele / _$
+1: pʰ → {h,j} / #_
+1: nr → s
+1: ts tsʰ tsʼ s z → p pʰ pʼ f v
+1: (C-)l- → {d,ji}-
+1: {ɬl,ɬː → tɬ
+1: ai au → ɛː ɔː / _…#
+1: j → s / t_
+1: eH → eː
+1: ts → ʃ / V_
+1: k → ∅ / _s{C,#} (the latter in polysyllables only)
+1: ts → s / h_
+1: d → ∅ / {l,m}_{b,ɡ,k,l,m,n,s}
+1: {(i)ɛ,i̯ɛ} → eː
+1: {r,s}p(ʰ) {r,s}{Np,(m)b} → f v / _V (the paper implies similar developments occurred at other POAs)
+1: l → u / _s# (in many dialects)
+1: ɛ ɔ → i u
+1: o → u / #C…_…”U
+1: b → w
+1: ∅ → j / rN_
+1: iw uj → ju i / _#
+1: ʑ j → ndʑ ʑ
+1: ɡ → kː
+1: w → ∅ / #P_Vː
+1: sj → js / V_
+1: S[+ fortis] → S[- voice]ː (specifically, the source lists t[+ fortis] k[+ fortis] → t(ː) k(ː), both of the tokens with optional length suffixes and *aTa → 〈atta〉, so I’m extrapolating)
+1: tʃ → ts / a_
+1: β → {b,v} / _j (in southern and eastern dialects)
+1: V3ʔ → V3ː / _O
+1: ɨ → i / #_{p,βe}
+1: n → l / #_
+1: N → ∅ / _N
+1: tʃʃ → ʃː
+1: l{tj,tʃj} ldʒ → lts ldz → uts udz → us uz
+1: ɪ → ə / unstressed
+1: t → k / _(h)w
+1: ẽ(ː) õ(ː) → ʌ̃(ː) ũ(ː)
+1: V → V[-round] / #C[+dorsal]_C[-labial]
+1: ɡj → cç ? (might be → tsç?)
+1: a → æ / _ra(ː)
+1: — s → ʃ / _j
+1: Nn → m / _j
+1: {n̥n,nn̥ → tn̥ / V_
+1: e → i / C_V
+1: qı̄ng shăng → shăng
+1: {s,r} → h / _O
+1: xʷ χʲ → f~ɸ? ħ
+1: u {o,ɒ} a au juː → y ø æ æy yː / #(C)(C)_ʀ
+1: æ → i / {s,ʃ,x}_Ci
+1: ɡ → j / E_
+1: qʷ → qʷː / !_
+1: r → i
+1: e → o / _(C…)o (eastern dialects, Bermeo Biscayan)
+1: s → {s,t} / #_ (?)
+1: {(j)u,we}ː {o,ɒ}ː aː au → yː øː æː æy
+1: tj → tʃ → dj → djʒ (?) → dz (in the north and west) or idz (in the south and east)—medial (i)dz became (i)z; i-less forms “prevail in the literary language” and seem to have become common if the dz follows the stress
+1: t → ʃ / i_i
+1: n → l / mV_C
+1: d {c,*j} → tʃ s
+1: {jawʔ,wawʔ} → ɔʔ / C̣_
+1: ai → aː
+1: tj → ʃ
+1: ∅ → e / CVCC_CVCV (applies across word boundaries)
+1: k → ʔ / _#
+1: a → i / in some unaccented syllables (short only)
+1: eLwi → iː
+1: ∅ → i(ː) / #_(C)(C)CVC(C)(C)#
+1: øː → eː “(not a thorough change)”
+1: {p,ʋ̃} c k͜p → f s p / #_
+1: s → ʃ / #_{xʲ,w{i,a},qʷa}
+1: j → ∅ / {ʃ,ʒ}_
+1: {R,h} → ∅ / V_V (sporadic?)
+1: j → ∅ / i_V
+1: V[-long] → ∅ / C_{C,#} (except for the feminine marker)
+1: î → e / _C# ! C = r
+1: ò → ɔ / in U[+closed]
+1: qʼ qʷʼ → χ(ʷ)ʼ {χʼ,q(ʷ)ʼ}
+1: t → s / _{n,m}
+1: f → h (perhaps not in all languages?)
+1: w θ ð ɣ → v t d ɡ (sometimes)
+1: — βɣ → wɣ → ɣw
+1: {i(ː),e(ː),ae} → e / _#
+1: χ(ʷ) → {χ,ʁ}
+1: n → ∅ / _m#
+1: h → ∅ / V_tsV
+1: tʃ tsʲ → ʃ sʲ / #_
+1: aj aw → ɛː uː / !_{s,n,r,l}
+1: ei ou → eː oː (except in southeastern dialects; *ei as a result of the umlaut of *ai was not affected)
+1: ts(h) → tʃ
+1: a V → e (= /ə/?) ∅ / in final syllables (though Friulian preserves the ending -is)
+1: u(ː) → {ɵ,o}(ː)
+1: {x1,x2} → ɡ
+1: u o a ø y e i → uː oː aː øi yː ei iː / _{ɲc,ɲɟ,ŋk,ŋɡ}
+1: {i,u} → ∅ / VC_CV when unstressed (short only)
+1: b(ʷ) ɡ → p(ʷ) k
+1: ʔ → ∅ / _{j,i,y}
+1: ∅ → j / k_e
+1: ð → l
+1: kʲ → tʲ
+1: k ɡ → ʃ ʒ / _i
+1: eː → e / Ḱ_
+1: ɲ → in / _{C,#}
+1: HəS → (h)əNS / #_
+1: ə → a / V_V
+1: a3 → o3 / {{C[+ uvular],K}ʷ,w}_
+1: hh h → h ∅ / u_”Vː
+1: u → ʌ / _C{ː,CC}
+1: C → h / _$
+1: pr b → br p
+1: p → ∅ / _u
+1: aɪ → eɪ → e (rare)
+1: rdʒ → {rdʒ,rdz(→ rz)}
+1: a{ɡ̌(ɯ),b} {o{ɡ̌,b},aɡ̌u} u{ɡ̌,b} → ɰa wo uː
+1: e o → i u / #C_P
+1: ð → d
+1: Vː → ə / in #U
+1: ʕ → ʔ / _m
+1: {ol,al} {ar,er} or → ɔu aːr oːr / _C[+dental]
+1: {d,l} → ∅ / _#
+1: V → V[- round] / U_
+1: u i → o e / “in monosyllabic forms almost always”
+1: {θ,tʃ,ʃ,r} → t / unless adjacent to another consonant
+1: n → ∅ / f_{d,s,t}
+1: {r,s}(N)k → k / _V
+1: tsi → ∅ / $_OO “(before a prefix; the first obstruent of the follow[ing] cluster then becomes ʔ)
+1: sn → sV0nV0
+1: ts(h) tʃh → tʃ s
+1: r → l / _{o,E}
+1: {s,ʂ} → r / _#C[+ voice]
+1: tʼ {kʼ,ɡ} → t k
+1: b → ∅ / #_{u,i}
+1: ð → h / else
+1: {i,u} → ∅/ _# ! V[-long]C_#
+1: a → wa / {K,ŋ}w_%
+1: k → t / _l
+1: pʰ t → ɸ ʔ / medial
+1: K → TŠ (although /xʲ/ stays as such in a few dialects)
+1: k → ɡ / _ʔ
+1: a → o / #{z,dʒ}_P
+1: w → j / _i
+1: s → ʃ / V_V
+1: l → ∅ / t_
+1: dj → z / V_V
+1: v → w / a_a (in eastern dialects)
+1: n → t / #_ (except, maybe, “in exclamations”)
+1: uo → ɔː
+1: θˤ kˤ → ðˤ q
+1: — V → ∅ / R_(C…)
+1: kr (s)ɡr → n.br (s)kr
+1: oj → we (sporadic)
+1: i → ə / {P,K(ʷ),s}_
+1: k → ɡ / _(V)r
+1: — wh → f
+1: {tʃ(ː),kʷ}j → ts
+1: uː iː → oː eː / ʕ_
+1: {TŠʷ,K} → TŠ (although /xʲ/ stays as such in a few dialects)
+1: kʷ → k / _#
+1: s d → z r / _(V)j
+1: kh → k / r_
+1: ɑ → a / ! _{l,r} (sporadic)
+1: V → ∅ / ”V%L_C(C)V(C)# (irregular)
+1: i → e / _C, when unstressed
+1: j → ʝː / V_V
+1: {u̯əi,ɔi} → ɔːi
+1: {β,w} → bj~vj~v
+1: Ue → eː / unstressed
+1: ∅ → j / {y,e}(ː)_a
+1: ɛ iɛ → eː ı̆
+1: u i → o e / _r{C,#}
+1: {wV,jV} → Vː[+low falling tone]
+1: w → ú / V_ (McAlpin uses the accented-vowel notation due to some apparent height-contrast neutralizations before /a/)
+1: tˤ sˤ → s t
+1: V(ː) → Vː / in accented or stressed monosyllables
+1: {r̥n,r̥n̥,rn̥ → tn̥
+1: ê ô → e o / _(X)Ci
+1: tʃ ʈʂ {tɬʼ,ʈʂʼ} tʃʼʼ → tʃk tʃ tʃʼ {tsʼkʼ,tʃʼkʼ}
+1: i u → ɛ ɔ / _C# ! _P (sporadic)
+1: ɛː → ɛi (→ əi?) / in some northern varieties
+1: {p,t} → ∅ / _#
+1: p(ʼ) m → ts(ʼ) ŋ / ! _u
+1: w → b / C_
+1: t*ʰ d ɡ → tʰ t k / _w
+1: ɕʷ ɕʷː ʑʷ → ʃʷ ʃ ʒʷ
+1: ɣ → ∅ / _#
+1: β → {∅,f} / C_(s)# (the latter is rare)
+1: o → ∅ / a(C)_
+1: sn → tsV0rV0
+1: b r → p t / _#
+1: l → ɲ / #_ “(in doubt; initial *l occurs in too few cognates to be sure. Apparently PUA initial *l was rare and is of questionable certainty whether it existed at all.)”
+1: VNs VNʃ → V[+nas]z V[+nas]ʒ / not universal?
+1: {d,n} → j / #_ (?) (marked as to Pre-Proto-Turkic)
+1: β → u / _k
+1: t d s → {c,tʃ} ɟ ʃ
+1: ə → o / _h{p,kʷ,w,m}
+1: — aj → ɛː / _#
+1: dtʃ → dʒ (for some southeastern and southwestern speakers)
+1: {ɛɨ,eɨ} → ai
+1: ol al → ou ɑː → ʌu {ɑ,ɔ}
+1: ew e ej → ə i ei
+1: ixi uxu → øː oː
+1: {u,ɯ}w {i,y}w aw {æ,e}w → uː yː oː øː
+1: nk → {ɡ,ŋ} (the latter “under obscure conditions”)
+1: a ɔ u → {a,ɑ} ɔ ʌ
+1: {(n)dz,ts} → t / else
+1: ∅ → ə / C_CV(ː,V)CC
+1: {i,u} {e,o} → ɨ ɜ
+1: w → j / {r,k}_i#
+1: oa ea → u(e) i(e) / _#
+1: o(ː) waː eː iː → u o e i
+1: ə → ∅ VC_CV
+1: Nd → n
+1: ns → s (with a few exceptions)
+1: a → aː / _{w,j}
+1: c ɲ → ∅ n
+1: kʰ → r
+1: aː ɔː → ɛː oː → eː ow → ej (əw)
+1: æ → a / e(C…)_(C…)o
+1: — u i → uə iə / _{k,ŋ,h,l,r}#
+1: dʒ → ð / u_a (in eastern dialects)
+1: ã → ẽ
+1: {eh2,aH} aː → aː ɔ
+1: β ð ɣ → b d ɡ / {#,”V}_
+1: kʷ xʷ → q χ / _# (the paper calls these “back velars”)
+1: bʱ dʱ ɡ́ʱ ɡʱ ɡʷʱ → b d ɡ́ ɡ ɡʷ
+1: sʷ ɕ → ɕʷ~ʃʷ ɕ~ʃ
+1: k → w / V_
+1: tʃ tʃʼ dʒ dʑ → s tsʲʼ(?) dz~z dʑ~ʑ
+1: pVn tVn kVn → ʔm̩ ʔn̩ ʔŋ̩ / _#
+1: a → e / _m
+1: {TŠ,TŠʷ} K → TS TŠ (with exceptions)
+1: {pʷ,bʷ} → f
+1: a → o / {w,m,ŋ}_
+1: ɠʷ → w / #_V[-nas]
+1: yʔ → yʔ(~yɛʔ?) / {∅,C[+guttural]}, in -juət-types
+1: eːi {oːi,aːi} → eː oː (?)
+1: D → F[+voice]
+1: ɪʊ → yː
+1: dɮ dzʲ dzʷ dʑ ɡʲ → ʒ ʑ {v,w} ʒ dʒ
+1: cː → tʃː “(most dialects)”
+1: s → i / #(C…)V_#
+1: ts tsː dz → {s,c} tsː dz~z
+1: ɓ ɗ → m d
+1: ś → s
+1: xʲ → x
+1: r → n / _C
+1: CV → ∅ / _NCVC “(in reduplications)”
+1: ɡ → {k,j} / V_ (if /j/ resulted, it dropped after /i/; forms with k are “most persistent in the west” and more common overall)
+1: ɕʷ ɕʷ ʑʷ → sʲ ʃː zʲ
+1: — a → ə / R_ if ə in an adjacent syllable
+1: ɔvi → ∅
+1: ʔkj → ktʃ.
+1: j → ∅ / C_i{C,#}
+1: {i,y} → iː / ɪ
+1: w → ∅ / {t,r}_i
+1: xr → h
+1: d2 → d / in C2 position
+1: hx → ∅
+1: r → ɾ “in most dialects”
+1: a3 → a3 / _{Cu,C[+ uvular]ʷ,w}
+1: d → ∅ / V_s
+1: n → ∅ / _s# (except for eastern and southeastern dialects)
+1: x → @ / _C
+1: ɨa̯~ɨə̯ → iː / j_
+1: ı̃ → iɲ
+1: ∅ → dz / #_j
+1: t → k / _s̩ (Ōgami) (NB: The article doesn’t have an underscore indicating whether this occurs before or after the /s̩/, but the linked page indicates where this change occurred) (http://amritas.com/101023.htm#10192359)
+1: u o a øː eː y i → ʏɪ oi ai øi ei yː iː / _j
+1: w → ∅ / #k_V
+1: S[+ voice] → S[- voice] / _#
+1: N → ∅ / _{p,t,#}
+1: ∅ → u / C_r#
+1: a → e / _Ci
+1: — R → R̊ / _#
+1: qˤʷ qˤʷː qˤʷʼ χˤʷ ʁˤʷ → ħʷ ʕʷ qʷ(ʼ) ħʷ (ħʷ?)
+1: s → x / _l
+1: k → ᵑk / _ʔ
+1: h → ʔ / _{s,ʃ}
+1: t → ʃ / _{i,ı̃}
+1: ˀt → t
+1: ə(ː) ɛ → ɨ ɛə / _K
+1: S{b,ɡ} Sk → ∅ h
+1: {əi,ɛi,ei} → ai
+1: p → w / {#,Vs}_
+1: k → x
+1: {a,ə} → ∅ / _{x,h} “in the odd-numbered of any sequence of one or more short-vowel open syllables”; such vowels are considered “weak”
+1: ɨ̯a~ɨə → ɨː
+1: — t → tʃ / _(h)j
+1: tʃʼ tɬʼ → ʔaj~ʔ ɬʼ
+1: r → {r,h} → {∅,h}
+1: tVɡ trj → dʒ ir
+1: kʲʼ → tʃʼ
+1: — iː oː → i o
+1: Cʲ → C in select words otherwise, possibly by analogy
+1: {kt,pt} {kts,pts} → tː tːs
+1: u ɑ ʊ → {o,u} ə u
+1: — ew → iw
+1: f → p / #_
+1: {qʷ,ku,qu} → kʷ (note that PAn might have had *qʷ *kʷ → q {k,w} instead; may be a change from POn-PAn, if it existed)
+1: z x → ʀ h
+1: rdɡ → r{ɡ,dʒ} / _a
+1: r̩ l̩ → {ri,ra} {li,la} / _{S,R} (which vowel crops up is unpredictable)
+1: ʔ → ∅ / _nQ
+1: ph → p / a_ (?)
+1: ʋ̃ → m / #(C)V_
+1: e o u æ ø y → {a,e} {o,u} {a,o,u a {a,o,u} {o,u,i} / _Ca
+1: tʃ → s / _q
+1: i → əi / _#
+1: k → c / V_V
+1: p → b / _h3
+1: j → ð / V_V
+1: tcʷ(ː) tɕʷʼ → tʃ(ː) tʃʼ
+1: l → u / _{d,s} (Rouergue)
+1: di → dz / _V
+1: s → ʃ / _{hi,hj}
+1: {u3~ə3} → o3
+1: am → an
+1: p k ts → p. k. tʃ.
+1: aj → e
+1: {k,ɡ,kp} {kpʼ,ɡb} → s b
+1: k → ɡ / a_a
+1: {p,t} → ∅ / s_m (sporadic?)
+1: ʃ → tʃ (sporadic, areal feature from Gavião influence)
+1: h → ŋ / a_ra
+1: hʷ → w
+1: LTS → ldʒ
+1: a3 → e3 / else
+1: nr → d
+1: xʷ ɢʷ → w ɣʷ
+1: e → i / _(C…)u
+1: r → t / _n
+1: ts(ʲ)ː tsʷː dzʲ → ts tsʷ dz
+1: {(t)l,θ} → t
+1: æ → æː / _d (rare) ! form of a strong verb
+1: — V → “indistinct e” (probably /ə/) if dropping it would create ugly consonant clusters:
+1: ð z → t s
+1: ts tsː tsʼ tsːʼ dz → {∅,s} tʃ {∅,tsʼ} {tsʼ,tʃʼ} z
+1: {*C,d} j *R → c z r
+1: çm çnj → ç.n
+1: {iw,uj} → i / _#
+1: {a,æ,e}ːhiː → æː
+1: {ai,ei,oi} → ei → iː / _(C)(C)#
+1: t k → k kʷ
+1: nk k → kʰ h / _u
+1: ãː → ã → ɔ̃
+1: C → ∅ / C_%
+1: {{h1,h3}s,s{h1,h3}} → sː (contested)
+1: ʂ → h / _{a,i}
+1: — u → ɔ / _C{$,#}
+1: O[+voice] → O[-voice] / _# (unless followed by some type of voiced consonant, be it any type of consonant or just an obstruent—this differs by location)
+1: tʃ tʃʰ tʃʼ → ts tsʰ tsʼ
+1: pʰ → b / #_U[+high pitch]
+1: tsʲʼ tsʷʼ~ʃʷʼ → ɕʼ~ʃʼ ɕʷʼ~ʃʷʼ
+1: s → ∅ / h_
+1: Cː → C[- long] / ! in verbal forms when V_ə
+1: j → {j,i} / _#
+1: D(ʱ) → T
+1: ei oi øi → eː oe øe
+1: u → ɯ / _(C)# ! _ʔ#
+1: ɡʷ ŋɡ → β k / _V[-nas]
+1: ɸ → p / r_
+1: ! !ˀ ! !̃ → k ∅ ɡ ŋɡ
+1: W → ∅ / C_i(ː)
+1: {p,k}s → sː
+1: ɮ → l
+1: tsʲ(ː) tsʷ {tʃ,tɕ} → ɕ f ʃ
+1: ɡ → ∅ / _d
+1: t → d / V_
+1: w → v → β
+1: bw mw → ɡw ŋw (→ ɡ ŋ / _V[+ rounded])
+1: ∅ → ə / CCV(ː,V)C_C
+1: C → Cʲ / _{F,j}
+1: N → [+ same POA] / _S
+1: k kʷ ɡ(ʷ)(ʱ) → x k ɡ / else
+1: iəu → au
+1: V → ∅ / _L(C)(C)V(C)# (irregular)
+1: f θ s → v ð z / syllable-initially (h → ɦ?)
+1: t → tʃ / _#
+1: au ai → o e
+1: j → ∅ / _e
+1: b → w / #{z,r}_
+1: v → m / #_V (?)
+1: ɡʷ → ɡ / _o
+1: {Np,mb} → b / _V
+1: m ɲ → mʲ nʲ
+1: aː → wo (dialectal)
+1: a → ∅ / _j#
+1: q → q͡χ
+1: {x,ɢ}(ʷ) → ɣ(ʷ)
+1: a → o / $am_w
+1: p → v / “other conditions not known”
+1: m̩ n̩ → {ьm,ъm} {ьn,ъn}
+1: t → s / _#
+1: pʰ tʰ kʰ → p t {k,h}
+1: m → ɸ / C[+ voiced]_n, when medial
+1: — p → f
+1: a → e / _j when stressed
+1: W → n / {#,V}_
+1: m → {m,n}
+1: y → u / P_C{e,i}
+1: k(ʰ){r,j} ɡ{r,j} → tɕ(ʰ) dʑ
+1: l → r / b_
+1: {jiː,ja,ahi} {owaː,awa,awe} awi {iːwa,eːwa,aji,aje,ani} → i oː o(ji) iː / C_C
+1: ɣ → ∅ / u_V
+1: i → {i,oi} / _%
+1: is → eu
+1: Sː → S[- long] / U[- stress]_
+1: ɨ̆ → ə
+1: j → ∅ / _ts
+1: œ → ɛː / _CC
+1: a → o / _P “[tendency]”
+1: V1kV2 → V2ː / #((C)V(C))(C)_#
+1: l → ɫ / “in some conditions”
+1: tʃ dʒ → t d / #_
+1: Cʲ → C / {f,v}_
+1: K → {K,TŠ}
+1: ”V → ”Vː / _{k(ʷ),(ˀ)t}{s,R,H} (“penultimate syllables only”)
+1: ẽ(ː) õ(ː) → ɛ̃(ː) ɔ̃(ː)
+1: ɣ → ∅ / V_u
+1: eʊ → {e,eɡu}
+1: a → e / _$a (Biscayan, Alavese, some Guipuscoan)
+1: e → a / _{l,ʔn} when unstressed
+1: {n,ɲ} → d / $_V[-nas] (→ dʒ in the British Columbian dialect)
+1: {p,t,tʃ,k} {mp,nt,ɲtʃ,nk} {(m)b,(n)d,(ɲ)dʒ,(n)ɡ} {m,n,ɲ} → sw tsʰw tsw ɲw / _iV
+1: {k,ɡ} → ŋ / _n
+1: dj → dʒ → ʒ / V_V
+1: — Vː → V[-long] / _RC
+1: Cʱ → C
+1: kʷ → xʷ / V_V
+1: ∅ → s / k_i(ː)
+1: oː → iu / _K
+1: C → Cʲ / ?ʲ{p,t}_
+1: HəS → (h)ə(N)S / #_
+1: r → ɡʟ → ɣ (Hiw) (http://is.gd/jCDLO1)
+1: w → m / _%N
+1: ŋ → ɡ
+1: h → {o,h,w} / V_V
+1: d → r / _#
+1: s2 → ʃ
+1: tsːʼ → tsː
+1: {pr,mt} kr → bl ɡl
+1: n → t / _h
+1: d → ∅ / V_V (in Portugal)
+1: u o → ɯ u / _#
+1: a → e / _n (otherwise)
+1: Vns → V(ː)s (Tucker says that “[i]n a few Doric dialects the lengthening did not occur”)
+1: t → t͜s / plain t only, distinguishable from the sequence ts
+1: Nnj çnj → mn ʃn
+1: — a → ə / _R if ə in an adjacent syllable
+1: V → ∅ / _C”V
+1: u → ø / _l(ː)
+1: ai → aː / _h{C,V}
+1: iʔ → ieʔ (→ i[truncated vowel-thing]ʔ?)
+1: q ʕ → ʔ h
+1: b → m / #_Vn
+1: {h1,h3} → *H
+1: r → {r,j}
+1: æ → i / {s,ʃ,x}_Ca
+1: t → ∅ / s_{k,l,n,s}
+1: z(ʲ) zʷ → dz(ʲ)~z(ʲ) dzʷ~zʷ
+1: r̝ → ʂ / C[-voiced]_
+1: *R ɲ → l n
+1: {a,o} → ∅ / #_ (rare)
+1: q qː ɢ → (ħ) q ɣ (*ɢ is marked as *G in the document)
+1: — ml nɾ → lm ɾn (sometimes)
+1: P t → pdz tʃ / r_
+1: sːː → sː
+1: θ ð → t d / “usually in numbers or cases where a short vowel has been deleted and it’s in contact with another stop, e.g. CA/MSA kaˈθiːr → EA ktiːr”
+1: t → ∅ / {ɡ,ɣ}_s
+1: aβ{u,o} → au
+1: — a i → aː eː / _%”
+1: r → j / i(ː)_V
+1: {i,j} → ɡ / #_e
+1: ʂ → s
+1: nr̀ → n̲r̲
+1: ʔŋɡ ʔd → ŋk t
+1: j → jːi / E_#
+1: e(ː) → o(ː) / h3_
+1: {p,ᵐb} ŋɡ → b ɡ / #_
+1: r → ʔ / _#
+1: j u → ð w / #_
+1: ts dzl NTS → {tʃ.,j} tsl m
+1: V → [+ round] / Kʷ_
+1: Cʷə → Cɔ
+1: {u,o(ː)} → o / _%”V else
+1: ç → ʂ / _m
+1: ks ɡn tj → ʃ ɲ {z,s} / V_V (tj → s is learned)
+1: kʰ qʰ → k χ
+1: æ → e / _j, unstressed
+1: U → U[+ stress] / #U_ (often)
+1: z dz ɡ → ɡ {z,dz} ɡ(ʷ)
+1: — ʔ → h / _C#
+1: m → f / _{n,ŋ}
+1: ts → t / _(h)r
+1: a(ː) → o(ː)
+1: r → ʔ / _{N,#}
+1: {e,o} → a / in U[-stress]
+1: {ɬ,ʂ} → s
+1: ə → i / {u,a}_
+1: ʎ → ʒ
+1: lʲ → l / #_ in U[-long -stress]
+1: β ð ɣ → f θ k / _{p,t,k,s}
+1: ai wi (w)V → eː weː (w)Vː / _h#
+1: aːw → au
+1: VnC → V[+ nas]C / _#, unless C = ʔ
+1: a(C){o,e} → a(C)
+1: h → ∅ / else
+1: t → tʃ / {E,j}_ (partially spread amongst Biscayan and Guipuscoan)
+1: — u → o / _wO
+1: v → ∅ / C_
+1: nθ nl → sː {sː,hl}
+1: {m̩,n̩} → {ẽ,õ} / _C$
+1: h̃ → h (not Souletin)
+1: uCi → iC (sporadic)
+1: eð (→ e ?) → j / #_V
+1: tɬʲ tɬʲʼ dɮʲ → ɕ tɬʼ ɕ ʁ(~zʲ)
+1: ʊə → ʉːwə / “almost always otherwise, but see [above vowel changes after /ɫ/ is formed]”
+1: {t,d} → ∅ / V_lV
+1: VN → Ṽ / _# ! in #U
+1: χ(ʲ) ʁ(ʲ) → ħ ʕ
+1: a → ɯ / {R,w}_%
+1: a → {a,o,u} / _Cu
+1: j tj → dʒ ts / #_
+1: ɣ → i / C_V
+1: Pç → b.ç
+1: ʋ → ∅ / C_
+1: s h → {s,tʃ} {h,∅}
+1: — a → e / _#
+1: ɛ → o / _$B
+1: t tʰ tʼ → ts tsʰ tsʼ / #_ “(in some words; conditioning factors unclear)”
+1: V → Vː / ! _CCV, in polysyllables
+1: rtVɡ → {rdʒ,rts(→ rs)}
+1: {o,a} {a(ta),a(ch)} → e a / _ŋ
+1: V[-long] → ∅ / _{ʃp,ʃk}
+1: aw aj → au ai
+1: pʼ → ʔp
+1: em emˀ → a aʔ / in U[- stressed] ! {p(’),m(ˀ)}_
+1: {*D,*Z,z} → d / #_
+1: d → r / medial (Meno-mene and Mriak-mriku only)
+1: kr → ɡj / medial
+1: yje → øː → jø (?)
+1: ɨ → ə / _i
+1: z → ∅ / _{l,r}
+1: {r,s}pʰ {r,s}{(N)p,(m)b} → pʰ p b / _V (the paper implies similar developments occurred with stops at other POAs)
+1: a → æ / ! _N or if nasalized, or if *B or *ã in next syllable
+1: θ → f / {V,r}_# (sometimes blocked)
+1: je → o / V_ (sporadic)
+1: N → ʔ / _{#,C}
+1: a1 u3 u1 i1 → æ2 o3 o1 i2
+1: {z,ʃ} → h
+1: ai → ɛ
+1: n → j / V_sV ! E_
+1: ŋ → ∅ / C_#
+1: ʂ → ʃ / _a
+1: ɓ ɗ → m n (For some reason it seems that only first-register tones can occur in this environment)
+1: u → o / _k#
+1: — e → o / _w
+1: xʷ → w
+1: p → h / _{o,u,w}
+1: tʃ → ʃ / _p
+1: s → ç / _Vç
+1: tʃ → s / maybe ! _#?
+1: V{θ,ð} → Vː / #(C)(C)(C)_{l,r}
+1: ŋ → ɡ / #_u
+1: dj → dʒ / r_
+1: jew → au / C̣(C?)_
+1: i → ∅ / OL_e
+1: h → ∅ / _sn
+1: t → {t,l} / #_
+1: n → ɲ / {i,ɪ}_V
+1: rdj rVɡ → rdz rdʒ
+1: p → f / #_
+1: u a → {u,ɔ} {ɔ,a}
+1: e → a / _n in U[+open +posttonic]
+1: p → ∅ / _#
+1: p → k / _C
+1: ɣ → ɡ / C_V
+1: a(ː) → æ(ː) / r_
+1: j → ʝ (some Biscayan and Navarrese)
+1: nʲ → j / _ã (with some exceptions?)
+1: ɬ(ː) tɬ(ː) tɬʼ dɮ → ɕ(ː) tɕ(ː) tɕʼ tħ
+1: {æ,e} → ɛ / _ɹ
+1: p t k s → b d ɡ z / V_V (this b → v?)
+1: T → TŠ / _{i,e,u} ! in Ware Sekani
+1: v → ∅ / u_V
+1: x → ʒ (*)
+1: V[+high +ATR](C(V[+high -ATR])) → #(C)V[-high +ATR](CV[+high +ATR]) / #J[+dorsal -voiced]_
+1: tsʲ tsʲː tsʲʼ dzʲ → (s) tsː tsʼ dz~z
+1: {i,eː} e → {e,ɛ} {ɛ,e} / stressed
+1: Cʲj → Cʲː
+1: bzʱ → ps
+1: b → pʰ / _{l,r}
+1: {r,r̥,l}ɬ → tɬ
+1: d → ∅ / C_
+1: ɑʊ → ɑː / _P
+1: n → ∅ / V_V# “in some disyllabic words”
+1: ts tsʰ tsʼ → tʃ tʃʰ tʃʼ / _i
+1: nʲ → n / else
+1: dtʃ → ts (in Auvergne and some western areas)
+1: f → j / #_V[-nas]
+1: oː → o
+1: kʷ → k / _E, in Milyan
+1: ŋ(w) → ȵ(wj)
+1: i o → iː oː
+1: e → i / Vː%_ ! _H
+1: ǂ̃n ǂxʼ → ɲ ǂˀ
+1: ŋ → n / n_Cʲa(ta)
+1: V → Vː / _”C[-glottal](R)V{ː,H} in “even numbered syllables only”
+1: t → {ts,k} / _w
+1: t → k (not for all speakers)
+1: l → ∅ / p(ʰ),b_E
+1: ɔ̃ → ɔ / _# (in some regions or dialects)
+1: ja → je / #_ (irregular)
+1: {e,ɑ,o} → ə → ∅ / _#
+1: y → i / {r(ʲ),l(ʲ)}_e
+1: tʲ(ʼ) → ts(ʼ)
+1: r → w / {o(ː),õ(ː)}_{a(ː),e(ː),ẽ(ː),i(ː)}
+1: e(ː) i → ø(ː) y / _{P,l,ʃ} (sporadic?)
+1: nʲ → ni / #(C)i_V
+1: N[- voice] l̥ → N[+ voice] l
+1: {o,ɔ} ə → u i / _i
+1: m → n / _#
+1: aɪ → aː / else (only for some speakers)
+1: m̥ n̥ → em en
+1: {i,u} → ∅ / -# ! VC_
+1: ʒ → ʃ
+1: VH → Vː / _{C,#}
+1: aː ɔː ɛː → ɒ o e
+1: ie yɤ uo → iː yː uː / _A
+1: s → t / #_
+1: qʲː ɢʲ → q ɣʲ
+1: tʰ → t / else
+1: {tʰ,ɗ → t
+1: a o → ə u / #(C…)V…_…”U
+1: ɡ → ∅ / #_n
+1: ej ow → i u
+1: {r,r̥} → ð
+1: C → ∅ / _$ in many cases
+1: q h → h ∅
+1: tem {k,p}en → mː nː
+1: kʷ ɡʷ → kw ɡw (in western dialects)
+1: ŋ → ∅ / V_{ts,q}
+1: t → ∅ / s_{ɫ,w}
+1: ∅ → a / w_j
+1: ∅ → e / #_r
+1: h(j) → ŋh / a_a
+1: — V → ∅ / “penult of paroxytones”, though /a/ often remained “as an indistinct e”, probably /ə/
+1: — aw aj → aw aj / _#
+1: t d → tʃ dʒ / _j
+1: ɫ → w
+1: aj → {æ2,i2} “(reduced)”
+1: C → Cː / _V(…V), after #U
+1: tɬʷ(ː) tɬʷʼ dɮʷ → tsʷ ts(ʷ)ʼ w
+1: xʷɬ → ɬː
+1: ɡ → j / _a (in the north and east; further → dʒ in the north)
+1: a → ə / _N#
+1: q (→ kw ?) → v (rare)
+1: ø → ɪ
+1: r → ʔ / C_{t,w,j}# ! C = {ɡ,m,n,r,w,ʃ,x}
+1: nɡi → ɲ
+1: — V → ∅ / S_{ɾ,l} (more common in Roncalese and Salazarese, but also in Navarrese and Aescoan?)
+1: ʔ → ∅/ _#
+1: qʲː(ʼ) ɢʲ χʲ → qʲ(ʼ) ʁʲ xʲ
+1: mp nt ŋk → m̥ n̥ ŋ̊
+1: — e → i / _(C…)i{C(C…)V,#}
+1: tš → t (general Baltic-Finnic; may not be unconditional but was certainly the most common outcome)
+1: e i æ ø y → {ɛ,a,ʌ} {ɯ,i} {e,a} {u,o} ɯ / _Cu
+1: (h)k → (h)q / _{o,a} ! ɨ_
+1: h → j / _#
+1: wo → ʊ / P_
+1: ɛ → ɐ
+1: ɣ → ɡ
+1: V → Vː / C_CV in U[-stress]
+1: θ ʃ x → x s h / _{p,k}
+1: n → s → ɕ / k_ɛ̃ where the vowel was from Proto-Slavic
+1: i → ɐ / _m
+1: u → o / {ʕ,ɣ,x,r}_
+1: Kʷ → K / _{C,o,a} ! C = syllabic
+1: ɛ → ɜi → i / _{m,ɲ}
+1: ɡl → k(w)
+1: w → ∅ / ! {k,p,m}_
+1: ẽ → ı̃ / ʔ_# “in one case”
+1: m → {m,b} (→ b seems more common)
+1: Some metathesis in consonant clusters, the conditions of which are not elaborated upon; the given example cited within the text is lʁ → ʁl
+1: ia → e / else
+1: — o → a / _{(C…),u}#
+1: sj zj → ʃ ʒ
+1: O[+voiced] → O[-voiced] / _#
+1: l → n / V_#
+1: *w → ʔ / something to do either with back vowels or prefixes
+1: iː uː → i ɨ
+1: r → ʁ
+1: {o,ə} ɛ → a ɛː / _u
+1: x2 → ɡ / V_V
+1: a → aː / _{i,u}
+1: kʷ ɡʷ → k ɡ / #_{i,e,o}
+1: ə → o / _ŋkʷ
+1: tsʼ → s / V_
+1: C → J / #(C)V_
+1: i → y / #(C…)l_y
+1: {a3~i3} → æ3
+1: ɡ → ∅ / _m
+1: hv → {h,k,s}w
+1: {əkʰ,əɡɦj} → ɟ (I think Thompson implied this was just a bit of a kludge)
+1: ʔR → {ʔS,R} / V3_V
+1: ɛ → ɔ / _ɫ (if the vowel was from a yer)
+1: {θ,ʃ} → ɬ (conjectured based on 〈z〉 in the Piscataway source and on the lack of voicing in the original reconstructed sounds)
+1: V1”V2 ”V1ːV2 → ”V1V2 ”V1[-long]V2
+1: k rk kr kj Nkj ɡr → kʰdz nɡ kʰr tʃh dʒ nkʰr
+1: nː → n
+1: ji → O / {i,e,y}
+1: ɡ → h / V_V
+1: C[+ voiced] → ∅ / V_V (only for obstruents?)
+1: dʱ → b / rV_
+1: e → o / w_ŋ

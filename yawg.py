@@ -2,13 +2,13 @@ from random import choices, random
 from re import findall, sub
 
 class Choice:
-	def __init__(self, choices: list, weights: list[float] = []):
+	def __init__(self, choices: list, weights: list[int | float] = []):
 		self.choices = choices
 		if weights:
 			assert len(weights) == len(choices)
 			self.weights = weights
 		else:
-			self.weights = [1 / (x + 1) for x in range(len(choices))]
+			self.weights = [1/x for x in range(1, len(choices) + 1)]
 	def choose(self):
 		return choices(self.choices, weights = self.weights)[0]
 
@@ -21,7 +21,7 @@ class Option:
 			return self.sequence
 		return ""
 
-def generate(shape: list, words: int = 1, rejections: list[str] = [], filters: list[tuple[str, str]] = []):
+def generate(shape: list, words: int = 1, rejections: list[str] = [], filters: list[tuple[str, str]] = []) -> list:
 	word_list = []
 	while len(word_list) < words:
 		queue = shape
@@ -35,20 +35,19 @@ def generate(shape: list, words: int = 1, rejections: list[str] = [], filters: l
 				elif type(item) in [Choice, Option]:
 					new_queue.append(item.choose())
 			queue = new_queue
-		word_list.append("".join(queue))
-		if any([findall(regex, word_list[-1]) for regex in rejections]) or word_list[-1] in word_list[ : -1]:
-			word_list.pop()
-		else:
+		word = "".join(queue)
+		if not any([findall(regex, word) for regex in rejections]) and word not in word_list:
 			for (regex, replacement) in filters:
-				word_list[-1] = sub(regex, replacement, word_list[-1])
+				word = sub(regex, replacement, word)
+			word_list.append(word)
 	return word_list
 
-if __name__ == "__main__":
-	c = Choice("n t k m s l r ʔ b d p ŋ j w h g f".split(" "))
-	v = Choice("a i u o e".split(" "))
-	n = Choice("n. m. ŋ.".split(" "))
-	s = [Option([c], 3/4), v, Option([n], 1/4)]
-	w = [Choice([[s, s], [s], [s, s, s]])]
-	r = [r"(.+)\1", "^ʔ", "ji", "wu", "[iueoa]{3,}", r"m\.[^pbf]", r"n\.[^tds]", r"ŋ\.[^kg]"]
-	f = [(r"\.", ""), ("ʔ", "'"), ("ŋ", "ng"), ("j", "y")]
-	print("\n".join(generate(w, 100, r, f)))
+c = Choice("n t k m l r s ŋ d b p ᵐb w j ⁿd h ɡ f ᵑɡ".split(" "))
+v = Choice("a i u e o".split(" "))
+i = [Option(c, 2/3), v]
+s = [c, v]
+w = [Choice([[i, s], [i], [i, s, s]])]
+print("\n".join(generate(w, 100,
+	[r"(.+)\1", "ji", "wu"],
+	[("[ŋᵑ]", "ng"), ("ᵐ", "m"), ("j", "y"), ("ⁿ", "n"), ("ɡ", "g")]
+)))
